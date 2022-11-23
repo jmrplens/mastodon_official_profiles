@@ -24,8 +24,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 		- [Comedia](#comedia)
 		- [Musicxs](#musicxs)
 		- [Política](#pol%C3%ADtica)
-	- [Ideas \(con las que necesito ayuda de personas con conocimientos\)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
-	- [Colaboradores](#colaboradores)
+- [Ideas \(con las que necesito ayuda de personas con conocimientos\)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
+- [Colaboradores](#colaboradores)
 
 <!-- /MarkdownTOC -->
 
@@ -162,13 +162,13 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 
 <a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
-### Ideas (con las que necesito ayuda de personas con conocimientos)
+## Ideas (con las que necesito ayuda de personas con conocimientos)
 
 - Utilizar [GitHub actions](https://github.com/features/actions) para convertir los .csv a markdown y guardarlos en archivos .md cada vez que se ejecute un PUSH. Recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 - Mejorar la conversión de los .csv para que directamente se incluyan en el Readme.md.
 
 
 <a id="colaboradores"></a>
-### Colaboradores
+## Colaboradores
 
 - [José M. Requena Plens](https://github.com/jmrplens) | [<img src=".resources/icons/web.svg" height="12"/> Web](https://jmrplens.github.io/) | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://red.niboe.info/@jmrplens)
