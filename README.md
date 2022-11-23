@@ -3,6 +3,7 @@
 # Perfiles oficiales en Mastodon
 
 Con este repositorio pretendo tener identificadas cuales son las cuentas de diferentes personalidades, instituciones, empresas, etc. Puedes aportar nuevas cuentas a traves de [ISSUES](https://github.com/jmrplens/mastodon_official_profiles/issues) o [PULL REQUEST](https://github.com/jmrplens/mastodon_official_profiles/pulls) (editando los .csv), según como te manejes con GitHub, en ISSUES solo tendrás que escribir tu petición.
+También tienes la opción de realizar una encuesta para votar sobre tu propuesta aquí: [Encuestas](https://github.com/jmrplens/mastodon_official_profiles/discussions/categories/polls)
 
 Este repositorio acaba de empezar, espero que progrese, y para ello hace falta aportar ideas de mejora, cambios de cualquier tipo, etc. Siéntete libre de opinar, criticar y aportar cualquier cosa.
 
@@ -132,7 +133,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ### Ideas (con las que necesito ayuda de personas con conocimientos)
 
-- Utilizar [GitHub actions](https://github.com/features/actions) para convertir los .csv a markdown y guardarlos en archivos .md cada vez que se ejecute un PUSH.
+- Utilizar [GitHub actions](https://github.com/features/actions) para convertir los .csv a markdown y guardarlos en archivos .md cada vez que se ejecute un PUSH. Recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 - Mejorar la conversión de los .csv para que directamente se incluyan en el Readme.md.
 
 
