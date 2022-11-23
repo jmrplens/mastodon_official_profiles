@@ -56,24 +56,27 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-          |-                    |
 |La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-          |BOT                  |
 |Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-          |Verificación de bulos|
-|               |                                      |                              |       |        |           |                     |
 
 ---
 
 #### Periodistas
 
 <!-- spain/JOURNALIST.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|Antonio Maestre|https://mastodon.social/@_antoniomaestre_/ |https://es.wikipedia.org/wiki/Antonio_Maestre|España |Español |-          |-                    |
-|Dani Domínguez |https://mastodon.world/@DaniDominguez |https://www.lamarea.com/author/dani-dominguez/|España |Español / Catalán|-          |-                    |
-|Elena de Sus   |https://mastodon.world/@elenadesus    |https://ctxt.es/user/profile/elenadesus|España |Español |-          |-                    |
-|Emilio Doménech|https://mastodon.online/@nanisimo     |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech|España |Español |-          |Nanisimo             |
-|Gerardo Tecé   |https://mastodon.world/@gerardotc     |https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9|España |Español |-          |-                    |
-|Miquel Ramos   |https://mastodont.cat/@Miquel_R       |https://miquelramos.me/       |España |Español / Catalán|-          |-                    |
-|Pedro Vallín   |https://mastodon.social/@pvallin      |https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn|España |Español |-          |-                    |
-|Rubén Sánchez  |https://mastodon.social/@RubenSanchezTW|https://rubensanchez.tw/      |España |Español |-          |-                    |
-|Yago Álvarez Barba|https://activism.openworlds.info/@EconoCabreado|https://www.elsaltodiario.com/autor/yago-alvarez|España |Español |-          |Economista Cabreado  |
+|Name              |Mastodon profile                               |Web                                                |Country|Language         |Other links|Information        |
+|------------------|-----------------------------------------------|---------------------------------------------------|-------|-----------------|-----------|-------------------|
+|Antonio Maestre   |https://mastodon.social/@_antoniomaestre_/      |https://es.wikipedia.org/wiki/Antonio_Maestre      |España |Español          |-          |-                  |
+|Dani Domínguez    |https://mastodon.world/@DaniDominguez          |https://www.lamarea.com/author/dani-dominguez/     |España |Español / Catalán|-          |-                  |
+|Elena de Sus      |https://mastodon.world/@elenadesus             |https://ctxt.es/user/profile/elenadesus            |España |Español          |-          |-                  |
+|Emilio Doménech   |https://mastodon.online/@nanisimo              |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech |España |Español          |-          |Nanisimo           |
+|Gerardo Tecé      |https://mastodon.world/@gerardotc              |https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9    |España |Español          |-          |-                  |
+|Guillem Martínez  |https://sociale.network/@Guillemmartnez        |https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez|España |Español          |-          |-                  |
+|Miquel Ramos      |https://mastodont.cat/@Miquel_R                |https://miquelramos.me/                            |España |Español / Catalán|-          |-                  |
+|Pedro Vallín      |https://mastodon.social/@pvallin               |https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn    |España |Español          |-          |-                  |
+|Rubén Sánchez     |https://mastodon.social/@RubenSanchezTW        |https://rubensanchez.tw/                           |España |Español          |-          |-                  |
+|Vanesa Jiménez    |https://mastodon.world/@vjimenez               |https://ctxt.es/user/profile/vanesa                |España |Español          |-          |-                  |
+|Willy Veleta      |https://mastodon.world/@VeletaWilly            |https://ctxt.es/user/profile/Willyveleta           |España |Español          |-          |-                  |
+|Yago Álvarez Barba|https://activism.openworlds.info/@EconoCabreado|https://www.elsaltodiario.com/autor/yago-alvarez   |España |Español          |-          |Economista Cabreado|
+
 
 ---
 
