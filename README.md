@@ -11,10 +11,31 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 # Índice
 
+<!-- MarkdownTOC autoanchor="true" autolink="true" -->
+
+- [Comunidad política](#comunidad-pol%C3%ADtica)
+	- [Unión Europea](#uni%C3%B3n-europea)
+- [Paises](#paises)
+	- [España](#espa%C3%B1a)
+		- [Medios de comunicación](#medios-de-comunicaci%C3%B3n)
+		- [Periodistas](#periodistas)
+		- [Escritores](#escritores)
+		- [Dibujantes / Viñetistas](#dibujantes--vi%C3%B1etistas)
+		- [Comedia](#comedia)
+		- [Musicxs](#musicxs)
+		- [Política](#pol%C3%ADtica)
+	- [Ideas \(con las que necesito ayuda de personas con conocimientos\)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
+	- [Colaboradores](#colaboradores)
+
+<!-- /MarkdownTOC -->
+
+
+<a id="comunidad-pol%C3%ADtica"></a>
 ## Comunidad política
 
 ---
 
+<a id="uni%C3%B3n-europea"></a>
 ### Unión Europea
 
 <!-- european_union/INSTITUTIONS.csv -->
@@ -39,12 +60,15 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |The Translation Centre for the Bodies                                                                                      |https://social.network.europa.eu/@CDT          |https://cdt.europa.eu/                                                     |-      |Multi   |-          |-                                           |
 
 
+<a id="paises"></a>
 ## Paises
 
+<a id="espa%C3%B1a"></a>
 ### España
 
 ---
 
+<a id="medios-de-comunicaci%C3%B3n"></a>
 #### Medios de comunicación
 
 <!-- spain/PRESS.csv -->
@@ -60,6 +84,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ---
 
+<a id="periodistas"></a>
 #### Periodistas
 
 <!-- spain/JOURNALIST.csv -->
@@ -81,6 +106,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ---
 
+<a id="escritores"></a>
 #### Escritores
 
 <!-- spain/WRITERS.csv -->
@@ -91,6 +117,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ---
 
+<a id="dibujantes--vi%C3%B1etistas"></a>
 #### Dibujantes / Viñetistas
 
 <!-- spain/CARTOONISTS.csv -->
@@ -101,6 +128,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ---
 
+<a id="comedia"></a>
 #### Comedia
 
 <!-- spain/COMEDIANS.csv -->
@@ -111,6 +139,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ---
 
+<a id="musicxs"></a>
 #### Musicxs
 
 <!-- spain/MUSICIANS.csv -->
@@ -120,6 +149,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ---
 
+<a id="pol%C3%ADtica"></a>
 #### Política
 
 <!-- spain/POLICY.csv -->
@@ -131,12 +161,14 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 
 
+<a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
 ### Ideas (con las que necesito ayuda de personas con conocimientos)
 
 - Utilizar [GitHub actions](https://github.com/features/actions) para convertir los .csv a markdown y guardarlos en archivos .md cada vez que se ejecute un PUSH. Recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 - Mejorar la conversión de los .csv para que directamente se incluyan en el Readme.md.
 
 
+<a id="colaboradores"></a>
 ### Colaboradores
 
 - [José M. Requena Plens](https://github.com/jmrplens) | [<img src=".resources/icons/web.svg" height="12"/> Web](https://jmrplens.github.io/) | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://red.niboe.info/@jmrplens)
