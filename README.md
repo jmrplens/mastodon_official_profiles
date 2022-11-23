@@ -2,7 +2,7 @@
 
 # Perfiles oficiales en Mastodon
 
-Con este repositorio pretendo tener identificadas cuales son las cuentas de diferentes personalidades, instituciones, empresas, etc. Puedes aportar nuevas cuentas a traves de ISSUES o PULL REQUEST (editando los .csv), según como te manejes con GitHub, en ISSUES solo tendrás que escribir tu petición.
+Con este repositorio pretendo tener identificadas cuales son las cuentas de diferentes personalidades, instituciones, empresas, etc. Puedes aportar nuevas cuentas a traves de [ISSUES](https://github.com/jmrplens/mastodon_official_profiles/issues) o [PULL REQUEST](https://github.com/jmrplens/mastodon_official_profiles/pulls) (editando los .csv), según como te manejes con GitHub, en ISSUES solo tendrás que escribir tu petición.
 
 Este repositorio acaba de empezar, espero que progrese, y para ello hace falta aportar ideas de mejora, cambios de cualquier tipo, etc. Siéntete libre de opinar, criticar y aportar cualquier cosa.
 
@@ -11,6 +11,10 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 # Índice
 
 ## Comunidad política
+
+---
+
+### Unión Europea
 
 <!-- european_union/INSTITUTIONS.csv -->
 |Name                                                                                                                       |Mastodon profile                               |Web                                                                        |Country|Language|Other links|Information                                 |
