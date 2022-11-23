@@ -80,6 +80,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-          |-                    |21/11/2022                    |
 |infoLibre      |https://mastodon.world/@_infoLibre    |https://www.infolibre.es/     |España |Español |-          |-                    |20/11/2022                    |
 |La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-          |BOT                  |17/01/2020                    |
+|Luzes          |https://mastodon.gal/@Luzes           |https://luzes.gal/            |España |Gallego |-          |-                    |12/11/2022                    |
 |Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-          |Verificación de bulos|18/11/2022                    |
 
 ---
