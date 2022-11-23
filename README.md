@@ -72,15 +72,16 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Medios de comunicación
 
 <!-- spain/PRESS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|ARGIA          |https://mastodon.eus/@argia           |https://www.argia.eus/        |España |Euskera |-          |-                    |
-|CTXT           |https://mastodon.world/@ctxt          |https://ctxt.es/              |España |Español |-          |-                    |
-|El Mundo Today |https://mastodon.social/@elmundotoday |https://www.elmundotoday.com/ |España |Español |-          |Humor / Sátira       |
-|El Salto Diario|https://mastodon.social/@ElSaltoDiario|https://www.elsaltodiario.com/|España |Español |-          |-                    |
-|elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-          |-                    |
-|La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-          |BOT                  |
-|Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-          |Verificación de bulos|
+|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |Mastodon profile create date|
+|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|----------------------------|
+|ARGIA          |https://mastodon.eus/@argia           |https://www.argia.eus/        |España |Euskera |-          |-                    |31/10/2018                  |
+|CTXT           |https://mastodon.world/@ctxt          |https://ctxt.es/              |España |Español |-          |-                    |18/11/2022                  |
+|El Mundo Today |https://mastodon.social/@elmundotoday |https://www.elmundotoday.com/ |España |Español |-          |Humor / Sátira       |28/10/2022                  |
+|El Salto Diario|https://mastodon.social/@ElSaltoDiario|https://www.elsaltodiario.com/|España |Español |-          |-                    |02/09/2021                  |
+|elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-          |-                    |21/11/2022                  |
+|infoLibre      |https://mastodon.world/@_infoLibre    |https://www.infolibre.es/     |España |Español |-          |-                    |20/11/2022                  |
+|La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-          |BOT                  |17/01/2020                  |
+|Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-          |Verificación de bulos|18/11/2022                  |
 
 ---
 
@@ -88,20 +89,24 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Periodistas
 
 <!-- spain/JOURNALIST.csv -->
-|Name              |Mastodon profile                               |Web                                                |Country|Language         |Other links|Information        |
-|------------------|-----------------------------------------------|---------------------------------------------------|-------|-----------------|-----------|-------------------|
-|Antonio Maestre   |https://mastodon.social/@_antoniomaestre_/      |https://es.wikipedia.org/wiki/Antonio_Maestre      |España |Español          |-          |-                  |
-|Dani Domínguez    |https://mastodon.world/@DaniDominguez          |https://www.lamarea.com/author/dani-dominguez/     |España |Español / Catalán|-          |-                  |
-|Elena de Sus      |https://mastodon.world/@elenadesus             |https://ctxt.es/user/profile/elenadesus            |España |Español          |-          |-                  |
-|Emilio Doménech   |https://mastodon.online/@nanisimo              |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech |España |Español          |-          |Nanisimo           |
-|Gerardo Tecé      |https://mastodon.world/@gerardotc              |https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9    |España |Español          |-          |-                  |
-|Guillem Martínez  |https://sociale.network/@Guillemmartnez        |https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez|España |Español          |-          |-                  |
-|Miquel Ramos      |https://mastodont.cat/@Miquel_R                |https://miquelramos.me/                            |España |Español / Catalán|-          |-                  |
-|Pedro Vallín      |https://mastodon.social/@pvallin               |https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn    |España |Español          |-          |-                  |
-|Rubén Sánchez     |https://mastodon.social/@RubenSanchezTW        |https://rubensanchez.tw/                           |España |Español          |-          |-                  |
-|Vanesa Jiménez    |https://mastodon.world/@vjimenez               |https://ctxt.es/user/profile/vanesa                |España |Español          |-          |-                  |
-|Willy Veleta      |https://mastodon.world/@VeletaWilly            |https://ctxt.es/user/profile/Willyveleta           |España |Español          |-          |-                  |
-|Yago Álvarez Barba|https://activism.openworlds.info/@EconoCabreado|https://www.elsaltodiario.com/autor/yago-alvarez   |España |Español          |-          |Economista Cabreado|
+|Name              |Mastodon profile                               |Web                                                 |Country|Language         |Other links|Information        |Mastodon profile create date|
+|------------------|-----------------------------------------------|----------------------------------------------------|-------|-----------------|-----------|-------------------|----------------------------|
+|Alba Precedo      |https://mastodon.world/@AlbaPrecedo            |https://www.infolibre.es/autores/alba-precedo/      |España |Español          |-          |-                  |20/11/2022                  |
+|Antonio Maestre   |https://mastodon.social/@_antoniomaestre_/     |https://es.wikipedia.org/wiki/Antonio_Maestre       |España |Español          |-          |-                  |29/12/2019                  |
+|Dani Domínguez    |https://mastodon.world/@DaniDominguez          |https://www.lamarea.com/author/dani-dominguez/      |España |Español / Catalán|-          |-                  |18/11/2022                  |
+|Elena de Sus      |https://mastodon.world/@elenadesus             |https://ctxt.es/user/profile/elenadesus             |España |Español          |-          |-                  |18/11/2022                  |
+|Emilio Doménech   |https://mastodon.online/@nanisimo              |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech  |España |Español          |-          |Nanisimo           |04/11/2022                  |
+|Gerardo Tecé      |https://mastodon.world/@gerardotc              |https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9     |España |Español          |-          |-                  |18/11/2022                  |
+|Guillem Martínez  |https://sociale.network/@Guillemmartnez        |https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez |España |Español          |-          |-                  |08/11/2022                  |
+|Jesús Maraña      |https://mastodon.world/@jesusmarana            |https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a|España |Español          |-          |-                  |19/11/2022                  |
+|Manuel Rico       |https://mstdn.social/@manuelrico               |https://www.infolibre.es/autores/manuel-rico/       |España |Español          |-          |-                  |13/11/2022                  |
+|Miquel Ramos      |https://mastodont.cat/@Miquel_R                |https://miquelramos.me/                             |España |Español / Catalán|-          |-                  |18/11/2022                  |
+|Pedro Vallín      |https://mastodon.social/@pvallin               |https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn     |España |Español          |-          |-                  |29/12/2019                  |
+|Rubén Sánchez     |https://mastodon.social/@RubenSanchezTW        |https://rubensanchez.tw/                            |España |Español          |-          |-                  |01/10/2018                  |
+|Vanesa Jiménez    |https://mastodon.world/@vjimenez               |https://ctxt.es/user/profile/vanesa                 |España |Español          |-          |-                  |18/11/2022                  |
+|Willy Veleta      |https://mastodon.world/@VeletaWilly            |https://ctxt.es/user/profile/Willyveleta            |España |Español          |-          |-                  |18/11/2022                  |
+|Yago Álvarez Barba|https://activism.openworlds.info/@EconoCabreado|https://www.elsaltodiario.com/autor/yago-alvarez    |España |Español          |-          |Economista Cabreado|11/11/2022                  |
+
 
 
 ---
