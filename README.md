@@ -207,7 +207,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |The R Foundation|https://fosstodon.org/@R_Foundation |https://r-project.org/   |-         |English |-                                    |-          |10/11/2022                    |
 |Thunderbird     |https://mastodon.online/@thunderbird|https://thunderbird.net/ |-         |Multi   |-                                    |-          |25/04/2022                    |
 |Tusky           |https://mastodon.social/@Tusky      |https://tusky.app/       |-         |Multi   |-                                    |Android App|12/04/2017                    |
-
+|Vivaldi         |https://social.vivaldi.net/@Vivaldi |https://vivaldi.com/     |-         |Multi   |-                                    |-          |13/11/2022                    |
 
 
 <a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
