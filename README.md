@@ -24,6 +24,9 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 		- [Comedia](#comedia)
 		- [Musicxs](#musicxs)
 		- [Política](#pol%C3%ADtica)
+- [Global](#global)
+	- [Plataformas](#plataformas)
+	- [Software](#software)
 - [Ideas \(con las que necesito ayuda de personas con conocimientos\)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
 - [Colaboradores](#colaboradores)
 
@@ -164,6 +167,47 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |Barcelona en Comú   |https://mastodon.world/@bcnencomu   |https://barcelonaencomu.cat/                 |España |Español / Catalán         |https://t.me/bcnencomu     |-          |18/11/2022                    |
 |Pablo Echenique     |https://todon.eu/@PabloEchenique    |https://es.wikipedia.org/wiki/Pablo_Echenique|España |Español                   |https://t.me/PabloEchenique|-          |13/11/2022                    |
 |Pirates de Catalunya|https://mastodont.cat/@partit_pirata|https://pirates.cat/                         |España |Español / Catalán / Inglés|https://t.me/PirataCat     |-          |14/05/2018                    |
+
+
+<a id="global"></a>
+## Global
+
+<a id="plataformas"></a>
+### Plataformas
+
+<!-- global/PLATFORMS.csv -->
+|Name           |Mastodon profile                   |Web                    |Country|Language|Other links|Information       |Mastodon profile creation date|
+|---------------|-----------------------------------|-----------------------|-------|--------|-----------|------------------|------------------------------|
+|Liberapay      |https://mastodon.xyz/@Liberapay    |https://liberapay.com/ |France |Multi   |-          |Donations platform|10/12/2017                    |
+|The Tor Project|https://mastodon.social/@torproject|https://torproject.org/|-      |Multi   |-          |-                 |03/04/2017                    |
+
+<a id="software"></a>
+### Software
+
+<!-- global/SOFTWARE.csv -->
+|Name            |Mastodon profile                    |Web                      |Country   |Language|Other links                          |Information|Mastodon profile creation date|
+|----------------|------------------------------------|-------------------------|----------|--------|-------------------------------------|-----------|------------------------------|
+|Arch Linux      |https://pokemon.men/@archlinux      |https://archlinux.org/   |-         |English |-                                    |Bot        |06/05/2019                    |
+|F-Droid         |https://floss.social/@fdroidorg     |https://f-droid.org/     |-         |Multi   |https://gitlab.com/fdroid            |-          |15/10/2022                    |
+|Fedilab         |https://framapiaf.org/@fedilab      |https://fedilab.app/     |-         |Multi   |-                                    |Android App|21/04/2019                    |
+|FreeCAD         |https://fosstodon.org/@FreeCAD      |https://www.freecad.org/ |-         |English |-                                    |-          |30/12/2018                    |
+|Funkwhale       |https://fosstodon.org/@funkwhale    |https://funkwhale.audio/ |-         |Multi   |-                                    |-          |20/11/2021                    |
+|GIMP            |https://floss.social/@GIMP          |https://gimp.org/        |-         |English |-                                    |-          |11/10/2022                    |
+|GNOME           |https://floss.social/@gnome         |https://www.gnome.org/   |-         |English |-                                    |-          |09/07/2018                    |
+|GTK             |https://floss.social/@GTK           |https://www.gtk.org/     |-         |English |-                                    |-          |10/11/2022                    |
+|Inkscape        |https://mastodon.art/@inkscape      |https://inkscape.org/    |-         |Multi   |https://gitlab.com/inkscape/inkscape/|-          |05/04/2018                    |
+|KDE             |https://floss.social/@kde           |https://kde.org/         |-         |Multi   |-                                    |-          |07/10/2022                    |
+|Kdenlive        |https://floss.social/@kdenlive      |https://kdenlive.org/    |-         |Multi   |-                                    |-          |08/10/2022                    |
+|Mastodon        |https://mastodon.social/@Mastodon   |https://joinmastodon.org/|Germany   |Multi   |-                                    |-          |23/11/2016                    |
+|Matrix.org      |https://mastodon.matrix.org/@matrix |https://matrix.org/      |-         |English |-                                    |-          |01/05/2017                    |
+|NLnet Labs      |https://fosstodon.org/@nlnetlabs    |https://nlnetlabs.nl/    |Netherland|English |-                                    |-          |31/10/2022                    |
+|Nextcloud       |https://mastodon.xyz/@nextcloud     |https://nextcloud.com/   |-         |Multi   |-                                    |-          |02/05/2017                    |
+|Pixelfed        |https://mastodon.social/@pixelfed   |https://pixelfed.org/    |-         |English |-                                    |-          |11/05/2018                    |
+|QGIS            |https://fosstodon.org/@qgis         |https://qgis.org/        |-         |Multi   |-                                    |-          |01/11/2022                    |
+|The R Foundation|https://fosstodon.org/@R_Foundation |https://r-project.org/   |-         |English |-                                    |-          |10/11/2022                    |
+|Thunderbird     |https://mastodon.online/@thunderbird|https://thunderbird.net/ |-         |Multi   |-                                    |-          |25/04/2022                    |
+|Tusky           |https://mastodon.social/@Tusky      |https://tusky.app/       |-         |Multi   |-                                    |Android App|12/04/2017                    |
+
 
 
 <a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
