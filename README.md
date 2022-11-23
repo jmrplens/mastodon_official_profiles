@@ -65,7 +65,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 <!-- spain/JOURNALIST.csv -->
 |Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
 |---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|Antonio Maestre|https://mastodon.social/@_antoniomaestre_|https://es.wikipedia.org/wiki/Antonio_Maestre|España |Español |-          |-                    |
+|Antonio Maestre|https://mastodon.social/@_antoniomaestre_/ |https://es.wikipedia.org/wiki/Antonio_Maestre|España |Español |-          |-                    |
 |Dani Domínguez |https://mastodon.world/@DaniDominguez |https://www.lamarea.com/author/dani-dominguez/|España |Español / Catalán|-          |-                    |
 |Elena de Sus   |https://mastodon.world/@elenadesus    |https://ctxt.es/user/profile/elenadesus|España |Español |-          |-                    |
 |Emilio Doménech|https://mastodon.online/@nanisimo     |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech|España |Español |-          |Nanisimo             |
