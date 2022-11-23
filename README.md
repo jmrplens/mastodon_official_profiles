@@ -39,26 +39,25 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 ### Unión Europea
 
 <!-- european_union/INSTITUTIONS.csv -->
-|Name                                                                                                                       |Mastodon profile                               |Web                                                                        |Country|Language|Other links|Information                                 |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------|-------|--------|-----------|--------------------------------------------|
-|Cour de justice de l'UE                                                                                                    |https://social.network.europa.eu/@Curia_fr     |https://curia.europa.eu/                                                   |-      |French  |-          |-                                           |
-|Court of Justice of the EU                                                                                                 |https://social.network.europa.eu/@Curia        |https://curia.europa.eu/                                                   |-      |English |-          |-                                           |
-|Directorate-General for Informatics                                                                                        |https://social.network.europa.eu/@EC_DIGIT     |https://ec.europa.eu/info/departments/informatics_en                       |-      |Multi   |-          |-                                           |
-|European Commission                                                                                                        |https://social.network.europa.eu/@EU_Commission|https://ec.europa.eu/                                                      |-      |Multi   |-          |-                                           |
-|European Data Protection Supervisor                                                                                        |https://social.network.europa.eu/@EDPS         |https://edps.europa.eu/                                                    |-      |Multi   |-          |-                                           |
-|European Investment Bank                                                                                                   |https://social.network.europa.eu/@eib          |https://www.eib.org/                                                       |-      |Multi   |-          |-                                           |
-|European Labour Authority                                                                                                  |https://social.network.europa.eu/@ELA          |https://www.ela.europa.eu/                                                 |-      |Multi   |-          |-                                           |
-|European Ombudsman                                                                                                         |https://social.network.europa.eu/@ombudsman    |https://www.ombudsman.europa.eu/                                           |-      |Multi   |-          |-                                           |
-|European Union Agency for Fundamental Rights                                                                               |https://social.network.europa.eu/@FRA          |https://fra.europa.eu/                                                     |-      |Multi   |-          |-                                           |
-|European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice|https://social.network.europa.eu/@EULISA       |https://eulisa.europa.eu/                                                  |-      |English |-          |-                                           |
-|European Union Agency for the Space Programme                                                                              |https://social.network.europa.eu/@EUSPA        |https://www.euspa.europa.eu/                                               |-      |English |-          |-                                           |
-|European Union External Action                                                                                             |https://social.network.europa.eu/@EEAS         |https://www.eeas.europa.eu/                                                |-      |Multi   |-          |The Diplomatic Service of the European Union|
-|European Union Intellectual Property Office                                                                                |https://social.network.europa.eu/@EUIPO        |https://euipo.europa.eu/                                                   |-      |Multi   |-          |-                                           |
-|European Union Sanctions                                                                                                   |https://social.network.europa.eu/@EC_Sanctions |https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures_en|-      |English |-          |-                                           |
-|Next Generation Internet                                                                                                   |https://social.network.europa.eu/@EC_NGI       |https://www.ngi.eu/                                                        |-      |English |-          |-                                           |
-|Open Source Programme Office                                                                                               |https://social.network.europa.eu/@EC_OSPO      |https://joinup.ec.europa.eu/collection/ec-ospo                             |-      |English |-          |-                                           |
-|The Translation Centre for the Bodies                                                                                      |https://social.network.europa.eu/@CDT          |https://cdt.europa.eu/                                                     |-      |Multi   |-          |-                                           |
-
+|Name                                                                                                                       |Mastodon profile                               |Web                                                                        |Country|Language|Other links|Information                                 |Mastodon profile creation date|
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------|-------|--------|-----------|--------------------------------------------|------------------------------|
+|Cour de justice de l'UE                                                                                                    |https://social.network.europa.eu/@Curia_fr     |https://curia.europa.eu/                                                   |-      |French  |-          |Bot                                         |01/04/2022                    |
+|Court of Justice of the EU                                                                                                 |https://social.network.europa.eu/@Curia        |https://curia.europa.eu/                                                   |-      |English |-          |Bot                                         |01/04/2022                    |
+|Directorate-General for Informatics                                                                                        |https://social.network.europa.eu/@EC_DIGIT     |https://ec.europa.eu/info/departments/informatics_en                       |-      |Multi   |-          |-                                           |01/02/2022                    |
+|European Commission                                                                                                        |https://social.network.europa.eu/@EU_Commission|https://ec.europa.eu/                                                      |-      |Multi   |-          |-                                           |01/04/2022                    |
+|European Data Protection Supervisor                                                                                        |https://social.network.europa.eu/@EDPS         |https://edps.europa.eu/                                                    |-      |Multi   |-          |-                                           |01/02/2022                    |
+|European Investment Bank                                                                                                   |https://social.network.europa.eu/@eib          |https://www.eib.org/                                                       |-      |Multi   |-          |-                                           |01/11/2022                    |
+|European Labour Authority                                                                                                  |https://social.network.europa.eu/@ELA          |https://www.ela.europa.eu/                                                 |-      |Multi   |-          |-                                           |01/06/2022                    |
+|European Ombudsman                                                                                                         |https://social.network.europa.eu/@ombudsman    |https://www.ombudsman.europa.eu/                                           |-      |Multi   |-          |-                                           |01/03/2022                    |
+|European Union Agency for Fundamental Rights                                                                               |https://social.network.europa.eu/@FRA          |https://fra.europa.eu/                                                     |-      |Multi   |-          |-                                           |01/03/2022                    |
+|European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice|https://social.network.europa.eu/@EULISA       |https://eulisa.europa.eu/                                                  |-      |English |-          |-                                           |01/09/2022                    |
+|European Union Agency for the Space Programme                                                                              |https://social.network.europa.eu/@EUSPA        |https://www.euspa.europa.eu/                                               |-      |English |-          |-                                           |01/03/2022                    |
+|European Union External Action                                                                                             |https://social.network.europa.eu/@EEAS         |https://www.eeas.europa.eu/                                                |-      |Multi   |-          |The Diplomatic Service of the European Union|01/11/2022                    |
+|European Union Intellectual Property Office                                                                                |https://social.network.europa.eu/@EUIPO        |https://euipo.europa.eu/                                                   |-      |Multi   |-          |-                                           |01/05/2022                    |
+|European Union Sanctions                                                                                                   |https://social.network.europa.eu/@EC_Sanctions |https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures_en|-      |English |-          |-                                           |01/11/2022                    |
+|Next Generation Internet                                                                                                   |https://social.network.europa.eu/@EC_NGI       |https://www.ngi.eu/                                                        |-      |English |-          |-                                           |01/03/2022                    |
+|Open Source Programme Office                                                                                               |https://social.network.europa.eu/@EC_OSPO      |https://joinup.ec.europa.eu/collection/ec-ospo                             |-      |English |-          |-                                           |01/02/2022                    |
+|The Translation Centre for the Bodies                                                                                      |https://social.network.europa.eu/@CDT          |https://cdt.europa.eu/                                                     |-      |Multi   |-          |-                                           |01/04/2022                    |
 
 <a id="paises"></a>
 ## Paises
@@ -72,16 +71,16 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Medios de comunicación
 
 <!-- spain/PRESS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |Mastodon profile create date|
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|----------------------------|
-|ARGIA          |https://mastodon.eus/@argia           |https://www.argia.eus/        |España |Euskera |-          |-                    |31/10/2018                  |
-|CTXT           |https://mastodon.world/@ctxt          |https://ctxt.es/              |España |Español |-          |-                    |18/11/2022                  |
-|El Mundo Today |https://mastodon.social/@elmundotoday |https://www.elmundotoday.com/ |España |Español |-          |Humor / Sátira       |28/10/2022                  |
-|El Salto Diario|https://mastodon.social/@ElSaltoDiario|https://www.elsaltodiario.com/|España |Español |-          |-                    |02/09/2021                  |
-|elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-          |-                    |21/11/2022                  |
-|infoLibre      |https://mastodon.world/@_infoLibre    |https://www.infolibre.es/     |España |Español |-          |-                    |20/11/2022                  |
-|La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-          |BOT                  |17/01/2020                  |
-|Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-          |Verificación de bulos|18/11/2022                  |
+|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |Mastodon profile creation date|
+|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|------------------------------|
+|ARGIA          |https://mastodon.eus/@argia           |https://www.argia.eus/        |España |Euskera |-          |-                    |31/10/2018                    |
+|CTXT           |https://mastodon.world/@ctxt          |https://ctxt.es/              |España |Español |-          |-                    |18/11/2022                    |
+|El Mundo Today |https://mastodon.social/@elmundotoday |https://www.elmundotoday.com/ |España |Español |-          |Humor / Sátira       |28/10/2022                    |
+|El Salto Diario|https://mastodon.social/@ElSaltoDiario|https://www.elsaltodiario.com/|España |Español |-          |-                    |02/09/2021                    |
+|elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-          |-                    |21/11/2022                    |
+|infoLibre      |https://mastodon.world/@_infoLibre    |https://www.infolibre.es/     |España |Español |-          |-                    |20/11/2022                    |
+|La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-          |BOT                  |17/01/2020                    |
+|Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-          |Verificación de bulos|18/11/2022                    |
 
 ---
 
@@ -89,23 +88,23 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Periodistas
 
 <!-- spain/JOURNALIST.csv -->
-|Name              |Mastodon profile                               |Web                                                 |Country|Language         |Other links|Information        |Mastodon profile create date|
-|------------------|-----------------------------------------------|----------------------------------------------------|-------|-----------------|-----------|-------------------|----------------------------|
-|Alba Precedo      |https://mastodon.world/@AlbaPrecedo            |https://www.infolibre.es/autores/alba-precedo/      |España |Español          |-          |-                  |20/11/2022                  |
-|Antonio Maestre   |https://mastodon.social/@_antoniomaestre_/     |https://es.wikipedia.org/wiki/Antonio_Maestre       |España |Español          |-          |-                  |29/12/2019                  |
-|Dani Domínguez    |https://mastodon.world/@DaniDominguez          |https://www.lamarea.com/author/dani-dominguez/      |España |Español / Catalán|-          |-                  |18/11/2022                  |
-|Elena de Sus      |https://mastodon.world/@elenadesus             |https://ctxt.es/user/profile/elenadesus             |España |Español          |-          |-                  |18/11/2022                  |
-|Emilio Doménech   |https://mastodon.online/@nanisimo              |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech  |España |Español          |-          |Nanisimo           |04/11/2022                  |
-|Gerardo Tecé      |https://mastodon.world/@gerardotc              |https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9     |España |Español          |-          |-                  |18/11/2022                  |
-|Guillem Martínez  |https://sociale.network/@Guillemmartnez        |https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez |España |Español          |-          |-                  |08/11/2022                  |
-|Jesús Maraña      |https://mastodon.world/@jesusmarana            |https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a|España |Español          |-          |-                  |19/11/2022                  |
-|Manuel Rico       |https://mstdn.social/@manuelrico               |https://www.infolibre.es/autores/manuel-rico/       |España |Español          |-          |-                  |13/11/2022                  |
-|Miquel Ramos      |https://mastodont.cat/@Miquel_R                |https://miquelramos.me/                             |España |Español / Catalán|-          |-                  |18/11/2022                  |
-|Pedro Vallín      |https://mastodon.social/@pvallin               |https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn     |España |Español          |-          |-                  |29/12/2019                  |
-|Rubén Sánchez     |https://mastodon.social/@RubenSanchezTW        |https://rubensanchez.tw/                            |España |Español          |-          |-                  |01/10/2018                  |
-|Vanesa Jiménez    |https://mastodon.world/@vjimenez               |https://ctxt.es/user/profile/vanesa                 |España |Español          |-          |-                  |18/11/2022                  |
-|Willy Veleta      |https://mastodon.world/@VeletaWilly            |https://ctxt.es/user/profile/Willyveleta            |España |Español          |-          |-                  |18/11/2022                  |
-|Yago Álvarez Barba|https://activism.openworlds.info/@EconoCabreado|https://www.elsaltodiario.com/autor/yago-alvarez    |España |Español          |-          |Economista Cabreado|11/11/2022                  |
+|Name              |Mastodon profile                               |Web                                                 |Country|Language         |Other links|Information        |Mastodon profile creation date|
+|------------------|-----------------------------------------------|----------------------------------------------------|-------|-----------------|-----------|-------------------|------------------------------|
+|Alba Precedo      |https://mastodon.world/@AlbaPrecedo            |https://www.infolibre.es/autores/alba-precedo/      |España |Español          |-          |-                  |20/11/2022                    |
+|Antonio Maestre   |https://mastodon.social/@_antoniomaestre_/     |https://es.wikipedia.org/wiki/Antonio_Maestre       |España |Español          |-          |-                  |29/12/2019                    |
+|Dani Domínguez    |https://mastodon.world/@DaniDominguez          |https://www.lamarea.com/author/dani-dominguez/      |España |Español / Catalán|-          |-                  |18/11/2022                    |
+|Elena de Sus      |https://mastodon.world/@elenadesus             |https://ctxt.es/user/profile/elenadesus             |España |Español          |-          |-                  |18/11/2022                    |
+|Emilio Doménech   |https://mastodon.online/@nanisimo              |https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech  |España |Español          |-          |Nanisimo           |04/11/2022                    |
+|Gerardo Tecé      |https://mastodon.world/@gerardotc              |https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9     |España |Español          |-          |-                  |18/11/2022                    |
+|Guillem Martínez  |https://sociale.network/@Guillemmartnez        |https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez |España |Español          |-          |-                  |08/11/2022                    |
+|Jesús Maraña      |https://mastodon.world/@jesusmarana            |https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a|España |Español          |-          |-                  |19/11/2022                    |
+|Manuel Rico       |https://mstdn.social/@manuelrico               |https://www.infolibre.es/autores/manuel-rico/       |España |Español          |-          |-                  |13/11/2022                    |
+|Miquel Ramos      |https://mastodont.cat/@Miquel_R                |https://miquelramos.me/                             |España |Español / Catalán|-          |-                  |18/11/2022                    |
+|Pedro Vallín      |https://mastodon.social/@pvallin               |https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn     |España |Español          |-          |-                  |29/12/2019                    |
+|Rubén Sánchez     |https://mastodon.social/@RubenSanchezTW        |https://rubensanchez.tw/                            |España |Español          |-          |-                  |01/10/2018                    |
+|Vanesa Jiménez    |https://mastodon.world/@vjimenez               |https://ctxt.es/user/profile/vanesa                 |España |Español          |-          |-                  |18/11/2022                    |
+|Willy Veleta      |https://mastodon.world/@VeletaWilly            |https://ctxt.es/user/profile/Willyveleta            |España |Español          |-          |-                  |18/11/2022                    |
+|Yago Álvarez Barba|https://activism.openworlds.info/@EconoCabreado|https://www.elsaltodiario.com/autor/yago-alvarez    |España |Español          |-          |Economista Cabreado|11/11/2022                    |
 
 
 
@@ -115,10 +114,10 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Escritores
 
 <!-- spain/WRITERS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|Bob Pop        |https://universeodon.com/@BobPoP      |https://es.wikipedia.org/wiki/Bob_Pop|España |Español |-          |-                    |
-|Gonzalo Torné  |https://mastodon.social/@GonzaloTorne |https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9|España |Español |-          |-                    |
+|Name         |Mastodon profile                     |Web                                             |Country|Language|Other links|Information|Mastodon profile creation date|
+|-------------|-------------------------------------|------------------------------------------------|-------|--------|-----------|-----------|------------------------------|
+|Bob Pop      |https://universeodon.com/@BobPoP     |https://es.wikipedia.org/wiki/Bob_Pop           |España |Español |-          |-          |08/11/2022                    |
+|Gonzalo Torné|https://mastodon.social/@GonzaloTorne|https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9|España |Español |-          |-          |03/10/2018                    |
 
 ---
 
@@ -126,10 +125,10 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Dibujantes / Viñetistas
 
 <!-- spain/CARTOONISTS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|Bernardo Vergara|https://mas.to/@bernardovergara       |https://www.eldiario.es/autores/bernardo_vergara/|España |Español |-          |-                    |
-|JRMora         |https://mastodon.social/@jrmora       |https://jrmora.com/           |España |Español |-          |-                    |
+|Name            |Mastodon profile               |Web                                              |Country|Language|Other links|Information|Mastodon profile creation date|
+|----------------|-------------------------------|-------------------------------------------------|-------|--------|-----------|-----------|------------------------------|
+|Bernardo Vergara|https://mas.to/@bernardovergara|https://www.eldiario.es/autores/bernardo_vergara/|España |Español |-          |-          |11/11/2022                    |
+|JRMora          |https://mastodon.social/@jrmora|https://jrmora.com/                              |España |Español |-          |-          |29/12/2019                    |
 
 ---
 
@@ -137,10 +136,10 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Comedia
 
 <!-- spain/COMEDIANS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|Anacleto Panceto|https://mastodon.social/@Xuxipc       |https://www.instagram.com/xuxipc/|España |Español |-          |-                    |
-|norcoreano     |https://mastodon.social/@norcoreano   |https://twitter.com/norcoreano|España |Español |-          |-                    |
+|Name            |Mastodon profile                   |Web                              |Country|Language|Other links|Information|Mastodon profile creation date|
+|----------------|-----------------------------------|---------------------------------|-------|--------|-----------|-----------|------------------------------|
+|Anacleto Panceto|https://mastodon.social/@Xuxipc    |https://www.instagram.com/xuxipc/|España |Español |-          |-          |06/07/2018                    |
+|norcoreano      |https://mastodon.social/@norcoreano|https://twitter.com/norcoreano   |España |Español |-          |-          |01/10/2018                    |
 
 ---
 
@@ -148,9 +147,9 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Musicxs
 
 <!-- spain/MUSICIANS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links|Information          |
-|---------------|--------------------------------------|------------------------------|-------|--------|-----------|---------------------|
-|Ismael Serrano |https://mastodon.la/@serranoismael    |https://www.ismaelserrano.com/|España |Español |-          |-                    |
+|Name          |Mastodon profile                  |Web                           |Country|Language|Other links|Information|Mastodon profile creation date|
+|--------------|----------------------------------|------------------------------|-------|--------|-----------|-----------|------------------------------|
+|Ismael Serrano|https://mastodon.la/@serranoismael|https://www.ismaelserrano.com/|España |Español |-          |-          |12/11/2022                    |
 
 ---
 
@@ -158,12 +157,11 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Política
 
 <!-- spain/POLICY.csv -->
-|Name                |Mastodon profile                    |Web                                          |Country|Language                  |Other links                |Information|
-|--------------------|------------------------------------|---------------------------------------------|-------|--------------------------|---------------------------|-----------|
-|Barcelona en Comú   |https://mastodon.world/@bcnencomu   |https://barcelonaencomu.cat/                 |España |Español / Catalán         |https://t.me/bcnencomu     |-          |
-|Pablo Echenique     |https://todon.eu/@PabloEchenique    |https://es.wikipedia.org/wiki/Pablo_Echenique|España |Español                   |https://t.me/PabloEchenique|-          |
-|Pirates de Catalunya|https://mastodont.cat/@partit_pirata|https://pirates.cat/                         |España |Español / Catalan / Inglés|https://t.me/PirataCat     |-          |
-
+|Name                |Mastodon profile                    |Web                                          |Country|Language                  |Other links                |Information|Mastodon profile creation date|
+|--------------------|------------------------------------|---------------------------------------------|-------|--------------------------|---------------------------|-----------|------------------------------|
+|Barcelona en Comú   |https://mastodon.world/@bcnencomu   |https://barcelonaencomu.cat/                 |España |Español / Catalán         |https://t.me/bcnencomu     |-          |18/11/2022                    |
+|Pablo Echenique     |https://todon.eu/@PabloEchenique    |https://es.wikipedia.org/wiki/Pablo_Echenique|España |Español                   |https://t.me/PabloEchenique|-          |13/11/2022                    |
+|Pirates de Catalunya|https://mastodont.cat/@partit_pirata|https://pirates.cat/                         |España |Español / Catalán / Inglés|https://t.me/PirataCat     |-          |14/05/2018                    |
 
 
 <a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
