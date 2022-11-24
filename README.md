@@ -24,7 +24,11 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 		- [Comedia](#comedia)
 		- [Musicxs](#musicxs)
 		- [Política](#pol%C3%ADtica)
+		- [Personalidas y personajes famosos](#personalidas-y-personajes-famosos)
 - [Global](#global)
+	- [Fundaciones](#fundaciones)
+	- [Organizaciones sin ánimo de lucro](#organizaciones-sin-%C3%A1nimo-de-lucro)
+	- [Educación](#educaci%C3%B3n)
 	- [Plataformas](#plataformas)
 	- [Software](#software)
 - [Ideas \(con las que necesito ayuda de personas con conocimientos\)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
@@ -74,18 +78,18 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 #### Medios de comunicación
 
 <!-- spain/PRESS.csv -->
-|Name           |Mastodon profile                      |Web                           |Country|Language|Other links              |Information          |Mastodon profile creation date|
-|---------------|--------------------------------------|------------------------------|-------|--------|-------------------------|---------------------|------------------------------|
-|ARGIA          |https://mastodon.eus/@argia           |https://www.argia.eus/        |España |Euskera |-                        |-                    |31/10/2018                    |
-|CTXT           |https://mastodon.world/@ctxt          |https://ctxt.es/              |España |Español |-                        |-                    |18/11/2022                    |
-|El Mundo Today |https://mastodon.social/@elmundotoday |https://www.elmundotoday.com/ |España |Español |-                        |Humor / Sátira       |28/10/2022                    |
-|El Salto Diario|https://mastodon.social/@ElSaltoDiario|https://www.elsaltodiario.com/|España |Español |-                        |-                    |02/09/2021                    |
-|elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-                        |-                    |21/11/2022                    |
-|infoLibre      |https://mastodon.world/@_infoLibre    |https://www.infolibre.es/     |España |Español |-                        |-                    |20/11/2022                    |
-|La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-                        |BOT                  |17/01/2020                    |
-|Luzes          |https://mastodon.gal/@Luzes           |https://luzes.gal/            |España |Gallego |-                        |-                    |12/11/2022                    |
-|Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-                        |Verificación de bulos|18/11/2022                    |
-|microsiervos   |https://mastodon.cloud/@microsiervos  |https://www.microsiervos.com/ |España |Español |https://t.me/microsiervos|-                    |01/08/2018                    |
+|Name           |Mastodon profile                      |Web                           |Country|Language|Other links               |Information          |Mastodon profile creation date|
+|---------------|--------------------------------------|------------------------------|-------|--------|--------------------------|---------------------|------------------------------|
+|ARGIA          |https://mastodon.eus/@argia           |https://www.argia.eus/        |España |Euskera |-                         |-                    |31/10/2018                    |
+|CTXT           |https://mastodon.world/@ctxt          |https://ctxt.es/              |España |Español |-                         |-                    |18/11/2022                    |
+|El Mundo Today |https://mastodon.social/@elmundotoday |https://www.elmundotoday.com/ |España |Español |-                         |Humor / Sátira       |28/10/2022                    |
+|El Salto Diario|https://mastodon.social/@ElSaltoDiario|https://www.elsaltodiario.com/|España |Español |https://t.me/elsaltodiario|-                    |02/09/2021                    |
+|elDiario.es    |https://mastodon.world/@eldiarioes    |https://www.eldiario.es/      |España |Español |-                         |-                    |21/11/2022                    |
+|infoLibre      |https://mastodon.world/@_infoLibre    |https://www.infolibre.es/     |España |Español |-                         |-                    |20/11/2022                    |
+|La Marea       |https://xarxa.cloud/@lamarea          |https://www.lamarea.com/      |España |Español |-                         |BOT                  |17/01/2020                    |
+|Luzes          |https://mastodon.gal/@Luzes           |https://luzes.gal/            |España |Gallego |-                         |-                    |12/11/2022                    |
+|Maldita.es     |https://mastodon.social/@malditaes    |https://maldita.es/           |España |Español |-                         |Verificación de bulos|18/11/2022                    |
+|microsiervos   |https://mastodon.cloud/@microsiervos  |https://www.microsiervos.com/ |España |Español |https://t.me/microsiervos |-                    |01/08/2018                    |
 
 ---
 
@@ -168,46 +172,87 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |Pablo Echenique     |https://todon.eu/@PabloEchenique    |https://es.wikipedia.org/wiki/Pablo_Echenique|España |Español                   |https://t.me/PabloEchenique|-          |13/11/2022                    |
 |Pirates de Catalunya|https://mastodont.cat/@partit_pirata|https://pirates.cat/                         |España |Español / Catalán / Inglés|https://t.me/PirataCat     |-          |14/05/2018                    |
 
+<a id="personalidas-y-personajes-famosos"></a>
+#### Personalidas y personajes famosos
+
+<!-- spain/PERSONALITIEScsv -->
+|Name        |Mastodon profile                 |Web                          |Country|Language|Other links                          |Information|Mastodon profile creation date|
+|------------|---------------------------------|-----------------------------|-------|--------|-------------------------------------|-----------|------------------------------|
+|Chema Alonso|https://ioc.exchange/@chemaalonso|https://www.elladodelmal.com/|España |Español |https://mypublicinbox.com/ChemaAlonso|-          |15/11/2022                    |
+
 
 <a id="global"></a>
 ## Global
+
+<a id="fundaciones"></a>
+### Fundaciones
+
+<!-- global/FOUNDATIONS.csv -->
+|Name                          |Mastodon profile            |Web                 |Country|Language|Other links|Information|Mastodon profile creation date|
+|------------------------------|----------------------------|--------------------|-------|--------|-----------|-----------|------------------------------|
+|Electronic Frontier Foundation|https://mastodon.social/@eff|https://www.eff.org/|-      |English |-          |-          |04/04/2017                    |
+|Free Software Foundation      |https://hostux.social/@fsf  |https://www.fsf.org/|-      |Multi   |-          |-          |16/12/2019                    |
+
+
+<a id="organizaciones-sin-%C3%A1nimo-de-lucro"></a>
+### Organizaciones sin ánimo de lucro
+
+<!-- global/NONPROFIT_ORGANIZATIONS.csv -->
+|Name           |Mastodon profile                   |Web                    |Country|Language|Other links|Information|Mastodon profile creation date|
+|---------------|-----------------------------------|-----------------------|-------|--------|-----------|-----------|------------------------------|
+|The Tor Project|https://mastodon.social/@torproject|https://torproject.org/|-      |Multi   |-          |-          |03/04/2017                    |
+
+
+<a id="educaci%C3%B3n"></a>
+### Educación
+
+<!-- global/EDUCATION.csv -->
+|Name        |Mastodon profile                   |Web                     |Country|Language|Other links|Information|Mastodon profile creation date|
+|------------|-----------------------------------|------------------------|-------|--------|-----------|-----------|------------------------------|
+|Open Culture|https://toot.community/@openculture|https://openculture.com/|England|English |-          |-          |05/11/2022                    |
+
 
 <a id="plataformas"></a>
 ### Plataformas
 
 <!-- global/PLATFORMS.csv -->
-|Name           |Mastodon profile                   |Web                    |Country|Language|Other links|Information       |Mastodon profile creation date|
-|---------------|-----------------------------------|-----------------------|-------|--------|-----------|------------------|------------------------------|
-|Liberapay      |https://mastodon.xyz/@Liberapay    |https://liberapay.com/ |France |Multi   |-          |Donations platform|10/12/2017                    |
-|The Tor Project|https://mastodon.social/@torproject|https://torproject.org/|-      |Multi   |-          |-                 |03/04/2017                    |
+|Name     |Mastodon profile               |Web                   |Country|Language|Other links|Information       |Mastodon profile creation date|
+|---------|-------------------------------|----------------------|-------|--------|-----------|------------------|------------------------------|
+|Liberapay|https://mastodon.xyz/@Liberapay|https://liberapay.com/|France |Multi   |-          |Donations platform|10/12/2017                    |
+
 
 <a id="software"></a>
 ### Software
 
 <!-- global/SOFTWARE.csv -->
-|Name            |Mastodon profile                    |Web                      |Country   |Language|Other links                          |Information|Mastodon profile creation date|
-|----------------|------------------------------------|-------------------------|----------|--------|-------------------------------------|-----------|------------------------------|
-|Arch Linux      |https://pokemon.men/@archlinux      |https://archlinux.org/   |-         |English |-                                    |Bot        |06/05/2019                    |
-|F-Droid         |https://floss.social/@fdroidorg     |https://f-droid.org/     |-         |Multi   |https://gitlab.com/fdroid            |-          |15/10/2022                    |
-|Fedilab         |https://framapiaf.org/@fedilab      |https://fedilab.app/     |-         |Multi   |-                                    |Android App|21/04/2019                    |
-|FreeCAD         |https://fosstodon.org/@FreeCAD      |https://www.freecad.org/ |-         |English |-                                    |-          |30/12/2018                    |
-|Funkwhale       |https://fosstodon.org/@funkwhale    |https://funkwhale.audio/ |-         |Multi   |-                                    |-          |20/11/2021                    |
-|GIMP            |https://floss.social/@GIMP          |https://gimp.org/        |-         |English |-                                    |-          |11/10/2022                    |
-|GNOME           |https://floss.social/@gnome         |https://www.gnome.org/   |-         |English |-                                    |-          |09/07/2018                    |
-|GTK             |https://floss.social/@GTK           |https://www.gtk.org/     |-         |English |-                                    |-          |10/11/2022                    |
-|Inkscape        |https://mastodon.art/@inkscape      |https://inkscape.org/    |-         |Multi   |https://gitlab.com/inkscape/inkscape/|-          |05/04/2018                    |
-|KDE             |https://floss.social/@kde           |https://kde.org/         |-         |Multi   |-                                    |-          |07/10/2022                    |
-|Kdenlive        |https://floss.social/@kdenlive      |https://kdenlive.org/    |-         |Multi   |-                                    |-          |08/10/2022                    |
-|Mastodon        |https://mastodon.social/@Mastodon   |https://joinmastodon.org/|Germany   |Multi   |-                                    |-          |23/11/2016                    |
-|Matrix.org      |https://mastodon.matrix.org/@matrix |https://matrix.org/      |-         |English |-                                    |-          |01/05/2017                    |
-|NLnet Labs      |https://fosstodon.org/@nlnetlabs    |https://nlnetlabs.nl/    |Netherland|English |-                                    |-          |31/10/2022                    |
-|Nextcloud       |https://mastodon.xyz/@nextcloud     |https://nextcloud.com/   |-         |Multi   |-                                    |-          |02/05/2017                    |
-|Pixelfed        |https://mastodon.social/@pixelfed   |https://pixelfed.org/    |-         |English |-                                    |-          |11/05/2018                    |
-|QGIS            |https://fosstodon.org/@qgis         |https://qgis.org/        |-         |Multi   |-                                    |-          |01/11/2022                    |
-|The R Foundation|https://fosstodon.org/@R_Foundation |https://r-project.org/   |-         |English |-                                    |-          |10/11/2022                    |
-|Thunderbird     |https://mastodon.online/@thunderbird|https://thunderbird.net/ |-         |Multi   |-                                    |-          |25/04/2022                    |
-|Tusky           |https://mastodon.social/@Tusky      |https://tusky.app/       |-         |Multi   |-                                    |Android App|12/04/2017                    |
-|Vivaldi         |https://social.vivaldi.net/@Vivaldi |https://vivaldi.com/     |-         |Multi   |-                                    |-          |13/11/2022                    |
+|Name            |Mastodon profile                       |Web                          |Country   |Language|Other links                          |Information|Mastodon profile creation date|
+|----------------|---------------------------------------|-----------------------------|----------|--------|-------------------------------------|-----------|------------------------------|
+|Arch Linux      |https://pokemon.men/@archlinux         |https://archlinux.org/       |-         |English |-                                    |Bot        |06/05/2019                    |
+|Blender         |https://mastodon.social/@Blender       |https://www.blender.org/     |-         |English |-                                    |-          |14/02/2018                    |
+|F-Droid         |https://floss.social/@fdroidorg        |https://f-droid.org/         |-         |Multi   |https://gitlab.com/fdroid            |-          |15/10/2022                    |
+|Fedilab         |https://framapiaf.org/@fedilab         |https://fedilab.app/         |-         |Multi   |-                                    |Android App|21/04/2019                    |
+|FreeCAD         |https://fosstodon.org/@FreeCAD         |https://www.freecad.org/     |-         |English |-                                    |-          |30/12/2018                    |
+|Funkwhale       |https://fosstodon.org/@funkwhale       |https://funkwhale.audio/     |-         |Multi   |-                                    |-          |20/11/2021                    |
+|GIMP            |https://floss.social/@GIMP             |https://gimp.org/            |-         |English |-                                    |-          |11/10/2022                    |
+|GNOME           |https://floss.social/@gnome            |https://www.gnome.org/       |-         |English |-                                    |-          |09/07/2018                    |
+|GTK             |https://floss.social/@GTK              |https://www.gtk.org/         |-         |English |-                                    |-          |10/11/2022                    |
+|Inkscape        |https://mastodon.art/@inkscape         |https://inkscape.org/        |-         |Multi   |https://gitlab.com/inkscape/inkscape/|-          |05/04/2018                    |
+|KDE             |https://floss.social/@kde              |https://kde.org/             |-         |Multi   |-                                    |-          |07/10/2022                    |
+|Kdenlive        |https://floss.social/@kdenlive         |https://kdenlive.org/        |-         |Multi   |-                                    |-          |08/10/2022                    |
+|LibreOffice     |https://fosstodon.org/@libreoffice     |https://www.libreoffice.org/ |-         |Multi   |-                                    |-          |20/03/2019                    |
+|Mastodon        |https://mastodon.social/@Mastodon      |https://joinmastodon.org/    |Germany   |Multi   |-                                    |-          |23/11/2016                    |
+|Matrix.org      |https://mastodon.matrix.org/@matrix    |https://matrix.org/          |-         |English |-                                    |-          |01/05/2017                    |
+|NLnet Labs      |https://fosstodon.org/@nlnetlabs       |https://nlnetlabs.nl/        |Netherland|English |-                                    |-          |31/10/2022                    |
+|Nextcloud       |https://mastodon.xyz/@nextcloud        |https://nextcloud.com/       |-         |Multi   |-                                    |-          |02/05/2017                    |
+|OpenMandriva    |https://linuxrocks.online/@openmandriva|https://www.openmandriva.org/|-         |English |-                                    |-          |13/02/2021                    |
+|Pixelfed        |https://mastodon.social/@pixelfed      |https://pixelfed.org/        |-         |English |-                                    |-          |11/05/2018                    |
+|QGIS            |https://fosstodon.org/@qgis            |https://qgis.org/            |-         |Multi   |-                                    |-          |01/11/2022                    |
+|The R Foundation|https://fosstodon.org/@R_Foundation    |https://r-project.org/       |-         |English |-                                    |-          |10/11/2022                    |
+|Thunderbird     |https://mastodon.online/@thunderbird   |https://thunderbird.net/     |-         |Multi   |-                                    |-          |25/04/2022                    |
+|Tusky           |https://mastodon.social/@Tusky         |https://tusky.app/           |-         |Multi   |-                                    |Android App|12/04/2017                    |
+|VideoLAN        |https://floss.social/@videolan         |https://www.videolan.org/    |-         |Multi   |https://code.videolan.org/           |-          |03/11/2022                    |
+|Vivaldi         |https://social.vivaldi.net/@Vivaldi    |https://vivaldi.com/         |-         |Multi   |-                                    |-          |13/11/2022                    |
+
 
 
 <a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
