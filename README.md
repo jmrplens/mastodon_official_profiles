@@ -31,7 +31,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 	- [Educación](#educaci%C3%B3n)
 	- [Plataformas](#plataformas)
 	- [Software](#software)
-- [Ideas \(con las que necesito ayuda de personas con conocimientos\)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
+- [Ideas \[HELP\] \(con las que necesito ayuda de personas con conocimientos\)](#ideas-help-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
 - [Colaboradores](#colaboradores)
 
 <!-- /MarkdownTOC -->
@@ -255,12 +255,16 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 
 
-<a id="ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
-## Ideas (con las que necesito ayuda de personas con conocimientos)
+<a id="ideas-help-con-las-que-necesito-ayuda-de-personas-con-conocimientos"></a>
+## Ideas [HELP] (con las que necesito ayuda de personas con conocimientos)
 
+SPANISH:
 - Utilizar [GitHub actions](https://github.com/features/actions) para convertir los .csv a markdown y guardarlos en archivos .md cada vez que se ejecute un PUSH. Recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 - Mejorar la conversión de los .csv para que directamente se incluyan en el Readme.md.
 
+ENGLISH:
+- Use [GitHub actions](https://github.com/features/actions) to convert .csv to markdown and save them to .md files each time a PUSH is executed. Resources: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
+- Improve the conversion of the .csv files so that they are directly included in the Readme.md.
 
 <a id="colaboradores"></a>
 ## Colaboradores
