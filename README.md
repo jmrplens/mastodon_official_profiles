@@ -265,4 +265,6 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 <a id="colaboradores"></a>
 ## Colaboradores
 
-- [José M. Requena Plens](https://github.com/jmrplens) | [<img src=".resources/icons/web.svg" height="12"/> Web](https://jmrplens.github.io/) | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://red.niboe.info/@jmrplens)
+- [José M. Requena Plens](https://github.com/jmrplens) 
+    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jmrplens.github.io/)
+    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://red.niboe.info/@jmrplens)
