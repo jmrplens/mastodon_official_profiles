@@ -17,7 +17,7 @@ dict_csv = {}
 for file in result:
     # Create Keys with filepaths and values with Markdown table
     df = pd.read_csv(file)
-    dict_csv[file] = df.to_markdown(index = False)
+    dict_csv[file] = df.to_markdown(index = False) + '\n\n' + '[View .CSV](' + file + ')'
 
 # Get .md File
 file = MarkdownFile("README.md")

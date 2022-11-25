@@ -56,6 +56,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/       | España    | Español    | -                          | -                     | 21/11/2022                       |
 | infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/      | España    | Español    | -                          | -                     | 20/11/2022                       |
 | microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | España    | Español    | https://t.me/microsiervos  | -                     | 01/08/2018                       |
+
+[View .CSV](spain/PRESS.csv)
 <!-- CSV end -->
 ---
 
@@ -79,6 +81,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Vanesa Jiménez     | https://mastodon.world/@vjimenez                | https://ctxt.es/user/profile/vanesa                  | España    | Español           | -             | -                   | 18/11/2022                       |
 | Willy Veleta       | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta             | España    | Español           | -             | -                   | 18/11/2022                       |
 | Yago Álvarez Barba | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez     | España    | Español           | -             | Economista Cabreado | 11/11/2022                       |
+
+[View .CSV](spain/JOURNALIST.csv)
 <!-- CSV end -->
 ---
 
@@ -89,6 +93,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |:--------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | Bob Pop       | https://universeodon.com/@BobPoP      | https://es.wikipedia.org/wiki/Bob_Pop            | España    | Español    | -             | -             | 08/11/2022                       |
 | Gonzalo Torné | https://mastodon.social/@GonzaloTorne | https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9 | España    | Español    | -             | -             | 03/10/2018                       |
+
+[View .CSV](spain/WRITERS.csv)
 <!-- CSV end -->
 ---
 
@@ -99,6 +105,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |:-----------------|:--------------------------------|:--------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | Bernardo Vergara | https://mas.to/@bernardovergara | https://www.eldiario.es/autores/bernardo_vergara/ | España    | Español    | -             | -             | 11/11/2022                       |
 | JRMora           | https://mastodon.social/@jrmora | https://jrmora.com/                               | España    | Español    | -             | -             | 29/12/2019                       |
+
+[View .CSV](spain/CARTOONISTS.csv)
 <!-- CSV end -->
 ---
 
@@ -109,6 +117,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |:-----------------|:------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | Anacleto Panceto | https://mastodon.social/@Xuxipc     | https://www.instagram.com/xuxipc/ | España    | Español    | -             | -             | 06/07/2018                       |
 | norcoreano       | https://mastodon.social/@norcoreano | https://twitter.com/norcoreano    | España    | Español    | -             | -             | 01/10/2018                       |
+
+[View .CSV](spain/COMEDIANS.csv)
 <!-- CSV end -->
 ---
 
@@ -118,6 +128,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Name           | Mastodon profile                   | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
 |:---------------|:-----------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | Ismael Serrano | https://mastodon.la/@serranoismael | https://www.ismaelserrano.com/ | España    | Español    | -             | -             | 12/11/2022                       |
+
+[View .CSV](spain/MUSICIANS.csv)
 <!-- CSV end -->
 ---
 
@@ -129,6 +141,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Barcelona en Comú    | https://mastodon.world/@bcnencomu    | https://barcelonaencomu.cat/                  | España    | Español / Catalán          | https://t.me/bcnencomu      | -             | 18/11/2022                       |
 | Pablo Echenique      | https://todon.eu/@PabloEchenique     | https://es.wikipedia.org/wiki/Pablo_Echenique | España    | Español                    | https://t.me/PabloEchenique | -             | 13/11/2022                       |
 | Pirates de Catalunya | https://mastodont.cat/@partit_pirata | https://pirates.cat/                          | España    | Español / Catalan / Inglés | https://t.me/PirataCat      | -             | 14/05/2018                       |
+
+[View .CSV](spain/POLICY.csv)
 <!-- CSV end -->
 #### Personalidas y personajes famosos
 
@@ -136,6 +150,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   |
 |:-------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|
 | Chema Alonso | https://ioc.exchange/@chemaalonso | https://www.elladodelmal.com/ | España    | Español    | https://mypublicinbox.com/ChemaAlonso | -             | 15/11/2022                       |
+
+[View .CSV](spain/PERSONALITIES.csv)
 <!-- CSV end -->
 
 ## Global
@@ -147,6 +163,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 |:-------------------------------|:-----------------------------|:---------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | Electronic Frontier Foundation | https://mastodon.social/@eff | https://www.eff.org/ | -         | English    | -             | -             | 04/04/2017                       |
 | Free Software Foundation       | https://hostux.social/@fsf   | https://www.fsf.org/ | -         | Multi      | -             | -             | 16/12/2019                       |
+
+[View .CSV](global/FOUNDATIONS.csv)
 <!-- CSV end -->
 
 ### Organizaciones sin ánimo de lucro
@@ -155,6 +173,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Name            | Mastodon profile                    | Web                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
 |:----------------|:------------------------------------|:------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | The Tor Project | https://mastodon.social/@torproject | https://torproject.org/ | -         | Multi      | -             | -             | 03/04/2017                       |
+
+[View .CSV](global/NONPROFIT_ORGANIZATIONS.csv)
 <!-- CSV end -->
 
 ### Educación
@@ -163,6 +183,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
 |:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
 | Open Culture | https://toot.community/@openculture | https://openculture.com/ | England   | English    | -             | -             | 05/11/2022                       |
+
+[View .CSV](global/EDUCATION.csv)
 <!-- CSV end -->
 
 ### Plataformas
@@ -171,6 +193,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |
 |:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|
 | Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | France    | Multi      | -             | Donations platform | 10/12/2017                       |
+
+[View .CSV](global/PLATFORMS.csv)
 <!-- CSV end -->
 
 ### Software
@@ -203,6 +227,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | Tusky            | https://mastodon.social/@Tusky          | https://tusky.app/            | -          | Multi      | -                                     | Android App   | 12/04/2017                       |
 | VideoLAN         | https://floss.social/@videolan          | https://www.videolan.org/     | -          | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       |
 | Vivaldi          | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/          | -          | Multi      | -                                     | -             | 13/11/2022                       |
+
+[View .CSV](global/SOFTWARE.csv)
 <!-- CSV end -->
 
 
