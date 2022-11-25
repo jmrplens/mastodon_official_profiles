@@ -16,8 +16,11 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 <!-- param::isNotitle::true:: -->
 
 - [Paises](#paises)
+  - [Australia](#australia)
+    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica)
   - [España](#espa%C3%B1a)
     - [Medios de comunicación](#medios-de-comunicaci%C3%B3n)
+    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica-1)
     - [Periodistas](#periodistas)
     - [Escritores](#escritores)
     - [Dibujantes / Viñetistas](#dibujantes--vi%C3%B1etistas)
@@ -25,6 +28,10 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
     - [Musicxs](#musicxs)
     - [Política](#pol%C3%ADtica)
     - [Personalidas y personajes famosos](#personalidas-y-personajes-famosos)
+  - [Estados Unidos](#estados-unidos)
+    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica-2)
+  - [Nueva Zelanda](#nueva-zelanda)
+    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica-3)
 - [Global](#global)
   - [Fundaciones](#fundaciones)
   - [Organizaciones sin ánimo de lucro](#organizaciones-sin-%C3%A1nimo-de-lucro)
