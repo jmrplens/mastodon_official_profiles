@@ -24,6 +24,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
     - [Comedia](#comedia)
     - [Musicxs](#musicxs)
     - [Política](#pol%C3%ADtica)
+    - [Personalidas y personajes famosos](#personalidas-y-personajes-famosos)
 - [Global](#global)
   - [Fundaciones](#fundaciones)
   - [Organizaciones sin ánimo de lucro](#organizaciones-sin-%C3%A1nimo-de-lucro)
