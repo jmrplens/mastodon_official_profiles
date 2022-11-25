@@ -38,6 +38,21 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 ## Paises
 
+### Australia
+
+---
+
+#### Divulgación científica
+
+<!-- CSV start australia/SCIENTIFIC_DISSEMINATION.csv -->
+| Name                | Mastodon profile                           | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:--------------------|:-------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| The Conversation AU | https://mastodon.social/@theconversationau | https://theconversation.com/au | Australia | English    | -             | -             | 18/11/2022                       |
+
+[View .CSV](australia/SCIENTIFIC_DISSEMINATION.csv)
+<!-- CSV end -->
+---
+
 ### España
 
 ---
@@ -59,6 +74,17 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | España    | Español    | https://t.me/microsiervos  | -                     | 01/08/2018                       |
 
 [View .CSV](spain/PRESS.csv)
+<!-- CSV end -->
+---
+
+#### Divulgación científica
+
+<!-- CSV start spain/SCIENTIFIC_DISSEMINATION.csv -->
+| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| The Conversation ES | https://newsie.social/@theconversationes | https://theconversation.com/es | España    | Español    | -             | -             | 18/11/2022                       |
+
+[View .CSV](spain/SCIENTIFIC_DISSEMINATION.csv)
 <!-- CSV end -->
 ---
 
@@ -155,6 +181,36 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 [View .CSV](spain/PERSONALITIES.csv)
 <!-- CSV end -->
 
+### Estados Unidos
+
+---
+
+#### Divulgación científica
+
+<!-- CSV start united_states_of_america/SCIENTIFIC_DISSEMINATION.csv -->
+| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| The Conversation US | https://newsie.social/@TheConversationUS | https://theconversation.com/us | USA       | English    | -             | -             | 04/11/2022                       |
+
+[View .CSV](united_states_of_america/SCIENTIFIC_DISSEMINATION.csv)
+<!-- CSV end -->
+---
+
+### Nueva Zelanda
+
+---
+
+#### Divulgación científica
+
+<!-- CSV start new_zealand/SCIENTIFIC_DISSEMINATION.csv -->
+| Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|
+| The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       |
+
+[View .CSV](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
+<!-- CSV end -->
+---
+
 ## Global
 
 ### Fundaciones
@@ -231,7 +287,6 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 [View .CSV](global/SOFTWARE.csv)
 <!-- CSV end -->
-
 
 ## Ideas [HELP] (con las que necesito ayuda de personas con conocimientos)
 
