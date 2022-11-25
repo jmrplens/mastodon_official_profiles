@@ -60,6 +60,66 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 <!-- CSV end -->
 ---
 
+### Alemania
+
+---
+
+#### Universidades
+
+<!-- CSV start germany/UNIVERSITIES.csv -->
+| Name                                      | Mastodon profile                                            | Web                                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:------------------------------------------|:------------------------------------------------------------|:-------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| FAU Erlangen-Nürnberg                     | https://mastodon.social/@FAU                                | https://www.fau.de/                        | Germany   | German     | -             | -             | 24/05/2022                       |
+| FernUniversität in Hagen                  | https://bildung.social/@fernunihagen                        | https://www.fernuni-hagen.de/              | Germany   | German     | -             | -             | 28/10/2022                       |
+| HafenCity Universität (HCU)               | https://mastodon.social/@HCUHamburg                         | https://www.hcu-hamburg.de/                | Germany   | German     | -             | -             | 13/10/2022                       |
+| Heinrich-Heine-Universität                | https://nrw.social/@HHU                                     | https://www.hhu.de/                        | Germany   | German     | -             | -             | 10/11/2022                       |
+| Hochschule Anhalt                         | https://mastodon.social/@hsanhalt                           | https://www.hs-anhalt.de/                  | Germany   | German     | -             | -             | 17/11/2022                       |
+| Hochschule der Medien                     | https://bonn.social/@hdmstuttgart@baw%C3%BC.social          | https://www.hdm-stuttgart.de/              | Germany   | German     | -             | -             | 26/07/2021                       |
+| Hochschule für Gestaltung                 | https://bonn.social/@hfg_gmuend@baw%C3%BC.social            | https://www.hfg-gmuend.de/                 | Germany   | German     | -             | -             | 19/05/2022                       |
+| Hochschule für Wirtschaft und Umwelt      | https://bonn.social/@HfWU@baw%C3%BC.social                  | https://www.hfwu.de/                       | Germany   | German     | -             | -             | 14/11/2022                       |
+| Hochschule Kehl                           | https://mastodon.social/@hochschule_kehl                    | https://www.hs-kehl.de/                    | Germany   | German     | -             | -             | 20/05/2022                       |
+| Hochschule Ravensburg-Weingarten          | https://mastodon.online/@rwu                                | https://www.rwu.de/                        | Germany   | German     | -             | -             | 02/12/2020                       |
+| Hochschule Reutlingen                     | https://bonn.social/@Hochschule_Reutlingen@baw%C3%BC.social | https://www.reutlingen-university.de/home/ | Germany   | German     | -             | -             | 17/05/2022                       |
+| Karlsruher Institut für Technologie (KIT) | https://mastodon.social/@KIT_Karlsruhe                      | https://www.kit.edu/                       | Germany   | German     | -             | -             | 29/07/2021                       |
+| Magdeburg-Stendal University              | https://machteburch.social/@h2international                 | https://www.h2.de/                         | Germany   | German     | -             | -             | 04/08/2021                       |
+| PH Ludwigsburg                            | https://bonn.social/@phludwigsburg@baw%C3%BC.social         | https://www.ph-ludwigsburg.de/             | Germany   | German     | -             | -             | 20/05/2021                       |
+| PH Weingarten                             | https://bonn.social/@phweingarten@baw%C3%BC.social          | https://www.ph-weingarten.de/              | Germany   | German     | -             | -             | 11/04/2022                       |
+| TU Chemnitz                               | https://mastodon.social/@tuchemnitz                         | https://www.tu-chemnitz.de/                | Germany   | German     | -             | -             | 12/05/2022                       |
+| TU München                                | https://mastodon.social/@tu_muenchen                        | https://www.tum.de/                        | Germany   | German     | -             | -             | 18/05/2022                       |
+| Universität Freiburg                      | https://bonn.social/@unifreiburg@baw%C3%BC.social           | https://uni-freiburg.de/                   | Germany   | German     | -             | -             | 04/05/2021                       |
+| Universität Greifswald                    | https://mastodon.social/@unigreifswald                      | https://www.uni-greifswald.de/             | Germany   | German     | -             | -             | 25/06/2021                       |
+| Universität Hohenheim                     | https://bonn.social/@unihohenheim@baw%C3%BC.social          | https://www.uni-hohenheim.de/              | Germany   | German     | -             | -             | 28/04/2021                       |
+| Universität Jena                          | https://mastodon.social/@unijena                            | https://uni-jena.de/                       | Germany   | German     | -             | Bot           | 27/01/2020                       |
+| Universität Kassel                        | https://mastodon.social/@unikassel                          | https://www.uni-kassel.de/                 | Germany   | German     | -             | -             | 17/11/2022                       |
+| Universität Konstanz                      | https://bonn.social/@unikonstanz@baw%C3%BC.social           | https://uni.kn/                            | Germany   | German     | -             | -             | 02/05/2022                       |
+| Universität Mannheim                      | https://bonn.social/@unimannheim@baw%C3%BC.social           | https://www.uni-mannheim.de/               | Germany   | German     | -             | -             | 04/04/2022                       |
+| Universität Stuttgart                     | https://bonn.social/@Uni_Stuttgart@baw%C3%BC.social         | https://www.uni-stuttgart.de/              | Germany   | German     | -             | -             | 09/05/2022                       |
+| Universität Tübingen                      | https://bonn.social/@unituebingen@baw%C3%BC.social          | https://uni-tuebingen.de/                  | Germany   | German     | -             | -             | 20/07/2021                       |
+| Universität Ulm                           | https://mastodon.social/@UniUlm                             | https://www.uni-ulm.de/                    | Germany   | German     | -             | -             | 06/03/2020                       |
+| Universität zu Köln                       | https://wisskomm.social/@UniKoeln                           | https://www.uni-koeln.de/                  | Germany   | German     | -             | -             | 21/11/2022                       |
+
+[View .CSV](germany/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
+### Canada
+
+---
+
+#### Universidades
+
+<!-- CSV start canada/UNIVERSITIES.csv -->
+| Name                   | Mastodon profile                 | Web                       | Country   | Language         | Other links   | Information   | Mastodon profile creation date   |
+|:-----------------------|:---------------------------------|:--------------------------|:----------|:-----------------|:--------------|:--------------|:---------------------------------|
+| McGill University      | https://mstdn.ca/@mcgillu        | http://www.mcgill.ca/     | Canada    | English / French | -             | -             | 18/11/2022                       |
+| Science politique UdeM | https://mstdn.ca/@Sciencepo_UdeM | https://pol.umontreal.ca/ | Canada    | English / French | -             | -             | 19/11/2022                       |
+| University of Toronto  | https://mstdn.social/@UTM        | https://www.utoronto.ca/  | Canada    | English          | -             | -             | 04/11/2022                       |
+| York University        | https://mstdn.ca/@yorkuniversity | https://www.yorku.ca/     | Canada    | English          | -             | -             | 16/11/2022                       |
+
+[View .CSV](canada/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
 ### España
 
 ---
@@ -203,6 +263,23 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 <!-- CSV end -->
 ---
 
+#### Universidades
+
+<!-- CSV start united_states_of_america/UNIVERSITIES.csv -->
+| Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| IU Maurer School of Law         | https://mastodon.lawprofs.org/@IUMaurerLaw | https://law.indiana.edu/               | USA       | English    | -             | -             | 09/11/2022                       |
+| MIT Press                       | https://mastodon.mit.edu/@themitpress      | https://mitpress.mit.edu/              | USA       | English    | -             | -             | 10/11/2022                       |
+| Princeton University            | https://home.social/@princetonuniversity   | https://www.princeton.edu/             | USA       | English    | -             | -             | 17/11/2022                       |
+| Stanford Law School             | https://masto.ai/@stanfordlaw              | https://law.stanford.edu/              | USA       | English    | -             | -             | 21/11/2022                       |
+| UC Berkeley School of Law       | https://sfba.social/@berkeleylaw           | https://www.law.berkeley.edu/          | USA       | English    | -             | -             | 06/11/2022                       |
+| University of California Merced | https://mastodon.social/@universitymerce   | https://graduatedivision.ucmerced.edu/ | USA       | English    | -             | -             | 22/09/2021                       |
+| University of New Hampshire     | https://mastodon.social/@uofnh             | http://unh.edu/                        | USA       | English    | -             | -             | 16/11/2022                       |
+
+[View .CSV](united_states_of_america/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
 ### Nueva Zelanda
 
 ---
@@ -215,6 +292,23 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       |
 
 [View .CSV](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
+<!-- CSV end -->
+---
+
+### Paises bajos
+
+---
+
+#### Universidades
+
+<!-- CSV start netherlands/UNIVERSITIES.csv -->
+| Name                       | Mastodon profile                             | Web                    | Country     | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:---------------------------|:---------------------------------------------|:-----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|
+| Amsterdam Law School - UvA | https://mastodon.social/@amsterdamlawschool  | https://www.uva.nl/law | Netherlands | Dutch      | -             | -             | 30/10/2022                       |
+| Radboud University         | https://mastodon.social/@Radboud_uni         | https://www.ru.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2016                       |
+| Utrecht University         | https://mastodon.online/@UtrechtUniversiteit | https://www.uu.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2022                       |
+
+[View .CSV](netherlands/UNIVERSITIES.csv)
 <!-- CSV end -->
 ---
 
