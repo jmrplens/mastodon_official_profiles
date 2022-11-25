@@ -11,10 +11,29 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 
 # Índice
 
-<!-- START doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- param::isNotitle::true:: -->
 
-<!-- END doctoc -->
+- [Paises](#paises)
+  - [España](#espa%C3%B1a)
+    - [Medios de comunicación](#medios-de-comunicaci%C3%B3n)
+    - [Periodistas](#periodistas)
+    - [Escritores](#escritores)
+    - [Dibujantes / Viñetistas](#dibujantes--vi%C3%B1etistas)
+    - [Comedia](#comedia)
+    - [Musicxs](#musicxs)
+    - [Política](#pol%C3%ADtica)
+- [Global](#global)
+  - [Fundaciones](#fundaciones)
+  - [Organizaciones sin ánimo de lucro](#organizaciones-sin-%C3%A1nimo-de-lucro)
+  - [Educación](#educaci%C3%B3n)
+  - [Plataformas](#plataformas)
+  - [Software](#software)
+- [Ideas &#91;HELP&#93; (con las que necesito ayuda de personas con conocimientos)](#ideas-help-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
+- [Colaboradores](#colaboradores)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Paises
 
