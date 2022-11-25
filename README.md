@@ -24,6 +24,7 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
     - [Comedia](#comedia)
     - [Musicxs](#musicxs)
     - [Política](#pol%C3%ADtica)
+    - [Personalidas y personajes famosos](#personalidas-y-personajes-famosos)
 - [Global](#global)
   - [Fundaciones](#fundaciones)
   - [Organizaciones sin ánimo de lucro](#organizaciones-sin-%C3%A1nimo-de-lucro)
@@ -235,10 +236,12 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 ## Ideas [HELP] (con las que necesito ayuda de personas con conocimientos)
 
 SPANISH:
+Ahora las tablas las actualizo desde mi ordenador con el script de python del repositorio `updateTable.py`, haria falta que el script lo ejecutase github action o sino hacer algo similar como los recursos del siguiente punto.
 - Utilizar [GitHub actions](https://github.com/features/actions) para convertir los .csv a markdown y guardarlos en archivos .md cada vez que se ejecute un PUSH. Recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 - Mejorar la conversión de los .csv para que directamente se incluyan en el Readme.md.
 
 ENGLISH:
+Now I update the tables from my computer with the python script from the `updateTable.py` repository, it would be necessary that the script is executed by github action or else do something similar as the resources in the next point.
 - Use [GitHub actions](https://github.com/features/actions) to convert .csv to markdown and save them to .md files each time a PUSH is executed. Resources: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 - Improve the conversion of the .csv files so that they are directly included in the Readme.md.
 
