@@ -50,11 +50,11 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | CTXT            | https://mastodon.world/@ctxt           | https://ctxt.es/               | España    | Español    | -                          | -                     | 18/11/2022                       |
 | El Mundo Today  | https://mastodon.social/@elmundotoday  | https://www.elmundotoday.com/  | España    | Español    | -                          | Humor / Sátira        | 28/10/2022                       |
 | El Salto Diario | https://mastodon.social/@ElSaltoDiario | https://www.elsaltodiario.com/ | España    | Español    | https://t.me/elsaltodiario | -                     | 02/09/2021                       |
+| elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/       | España    | Español    | -                          | -                     | 21/11/2022                       |
+| infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/      | España    | Español    | -                          | -                     | 20/11/2022                       |
 | La Marea        | https://xarxa.cloud/@lamarea           | https://www.lamarea.com/       | España    | Español    | -                          | BOT                   | 17/01/2020                       |
 | Luzes           | https://mastodon.gal/@Luzes            | https://luzes.gal/             | España    | Gallego    | -                          | -                     | 12/11/2022                       |
 | Maldita.es      | https://mastodon.social/@malditaes     | https://maldita.es/            | España    | Español    | -                          | Verificación de bulos | 18/11/2022                       |
-| elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/       | España    | Español    | -                          | -                     | 21/11/2022                       |
-| infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/      | España    | Español    | -                          | -                     | 20/11/2022                       |
 | microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | España    | Español    | https://t.me/microsiervos  | -                     | 01/08/2018                       |
 
 [View .CSV](spain/PRESS.csv)
@@ -217,8 +217,8 @@ He organizado todo para que sea facilmente escalable y podamos ir aportando más
 | LibreOffice      | https://fosstodon.org/@libreoffice      | https://www.libreoffice.org/  | -          | Multi      | -                                     | -             | 20/03/2019                       |
 | Mastodon         | https://mastodon.social/@Mastodon       | https://joinmastodon.org/     | Germany    | Multi      | -                                     | -             | 23/11/2016                       |
 | Matrix.org       | https://mastodon.matrix.org/@matrix     | https://matrix.org/           | -          | English    | -                                     | -             | 01/05/2017                       |
-| NLnet Labs       | https://fosstodon.org/@nlnetlabs        | https://nlnetlabs.nl/         | Netherland | English    | -                                     | -             | 31/10/2022                       |
 | Nextcloud        | https://mastodon.xyz/@nextcloud         | https://nextcloud.com/        | -          | Multi      | -                                     | -             | 02/05/2017                       |
+| NLnet Labs       | https://fosstodon.org/@nlnetlabs        | https://nlnetlabs.nl/         | Netherland | English    | -                                     | -             | 31/10/2022                       |
 | OpenMandriva     | https://linuxrocks.online/@openmandriva | https://www.openmandriva.org/ | -          | English    | -                                     | -             | 13/02/2021                       |
 | Pixelfed         | https://mastodon.social/@pixelfed       | https://pixelfed.org/         | -          | English    | -                                     | -             | 11/05/2018                       |
 | QGIS             | https://fosstodon.org/@qgis             | https://qgis.org/             | -          | Multi      | -                                     | -             | 01/11/2022                       |
