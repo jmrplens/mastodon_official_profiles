@@ -5,6 +5,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# LIST
+
 <table>
 <tbody>
   <tr>
@@ -18,3 +20,20 @@
   </tr>
 </tbody>
 </table>
+
+--- 
+
+## Contributors
+
+- [José M. Requena Plens](https://github.com/jmrplens) 
+    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jmrplens.github.io/)
+    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://red.niboe.info/@jmrplens)
+- [Lydia Gil](https://socialmediaeninvestigacion.com/) [_Collaborate from outside GitHub_]
+    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://socialmediaeninvestigacion.com/)
+    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://mstdn.science/@TuSocialMedia)
+
+## Relevant sources of information
+
+Individuals and/or organizations that have collected interesting accounts and have been integrated into this repository. They deserve a mention for their work.
+
+- [<img src=".resources/icons/mastodon.svg" height="12"/> `Gerald Leppert`](https://bonn.social/@gerald_leppert)
