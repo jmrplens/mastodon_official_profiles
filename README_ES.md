@@ -148,9 +148,9 @@ La lista está abierta a:
 #### Universidades
 
 <!-- CSV start spain/UNIVERSITIES.csv -->
-| Name      | Mastodon profile                  | Web                                                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
-|:----------|:----------------------------------|:---------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
-| INFOBISOC | https://red.niboe.info/@infobisoc | https://www.ucm.es/informacionbibliotecaysociedad/ | España    | Español    | -             | -             | 25/11/2022                       |
+| Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| INFOBISOC | https://red.niboe.info/@infobisoc | -     | España    | Español    | -             | -             | 25/11/2022                       |
 
 [View .CSV](spain/UNIVERSITIES.csv)
 <!-- CSV end -->
