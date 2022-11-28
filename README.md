@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [LIST](#list)
+  - [Contributors](#contributors)
+  - [Relevant sources of information](#relevant-sources-of-information)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DOCTOC SKIP -->
 
 # LIST
