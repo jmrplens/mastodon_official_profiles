@@ -139,7 +139,7 @@ The list is open to:
 
 ---
 
-### Universities
+#### Universities
 
 <!-- CSV start spain/UNIVERSITIES.csv -->
 | Name      | Mastodon profile                  | Web                                                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
@@ -270,6 +270,8 @@ The list is open to:
 
 [View .CSV](spain/POLICY.csv)
 <!-- CSV end -->
+---
+
 #### Personalities and celebrities
 
 <!-- CSV start spain/PERSONALITIES.csv -->
@@ -298,17 +300,33 @@ The list is open to:
 #### Universities
 
 <!-- CSV start united_states_of_america/UNIVERSITIES.csv -->
-| Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
-|:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
-| IU Maurer School of Law         | https://mastodon.lawprofs.org/@IUMaurerLaw | https://law.indiana.edu/               | USA       | English    | -             | -             | 09/11/2022                       |
-| MIT Press                       | https://mastodon.mit.edu/@themitpress      | https://mitpress.mit.edu/              | USA       | English    | -             | -             | 10/11/2022                       |
-| Princeton University            | https://home.social/@princetonuniversity   | https://www.princeton.edu/             | USA       | English    | -             | -             | 17/11/2022                       |
-| Stanford Law School             | https://masto.ai/@stanfordlaw              | https://law.stanford.edu/              | USA       | English    | -             | -             | 21/11/2022                       |
-| UC Berkeley School of Law       | https://sfba.social/@berkeleylaw           | https://www.law.berkeley.edu/          | USA       | English    | -             | -             | 06/11/2022                       |
-| University of California Merced | https://mastodon.social/@universitymerce   | https://graduatedivision.ucmerced.edu/ | USA       | English    | -             | -             | 22/09/2021                       |
-| University of New Hampshire     | https://mastodon.social/@uofnh             | http://unh.edu/                        | USA       | English    | -             | -             | 16/11/2022                       |
+| Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links                      | Information   | Mastodon profile creation date   |
+|:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:---------------------------------|:--------------|:---------------------------------|
+| HCIL at University of Maryland  | https://hci.social/@hcil_umd               | https://hcil.umd.edu/                  | USA       | English    | https://www.youtube.com/@HCILUMD | -             | 05/11/2022                       |
+| IU Maurer School of Law         | https://mastodon.lawprofs.org/@IUMaurerLaw | https://law.indiana.edu/               | USA       | English    | -                                | -             | 09/11/2022                       |
+| MIT Press                       | https://mastodon.mit.edu/@themitpress      | https://mitpress.mit.edu/              | USA       | English    | -                                | -             | 10/11/2022                       |
+| Princeton University            | https://home.social/@princetonuniversity   | https://www.princeton.edu/             | USA       | English    | -                                | -             | 17/11/2022                       |
+| Stanford Law School             | https://masto.ai/@stanfordlaw              | https://law.stanford.edu/              | USA       | English    | -                                | -             | 21/11/2022                       |
+| UC Berkeley School of Law       | https://sfba.social/@berkeleylaw           | https://www.law.berkeley.edu/          | USA       | English    | -                                | -             | 06/11/2022                       |
+| University of California Merced | https://mastodon.social/@universitymerce   | https://graduatedivision.ucmerced.edu/ | USA       | English    | -                                | -             | 22/09/2021                       |
+| University of New Hampshire     | https://mastodon.social/@uofnh             | http://unh.edu/                        | USA       | English    | -                                | -             | 16/11/2022                       |
 
 [View .CSV](united_states_of_america/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
+### Ireland
+
+---
+
+#### Universities
+
+<!-- CSV start ireland/UNIVERSITIES.csv -->
+| Name                   | Mastodon profile        | Web                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:-----------------------|:------------------------|:-------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| University of Limerick | https://mastodon.ie/@UL | https://www.ul.ie/ | Ireland   | English    | -             | -             | 07/11/2022                       |
+
+[View .CSV](ireland/UNIVERSITIES.csv)
 <!-- CSV end -->
 ---
 
@@ -343,6 +361,35 @@ The list is open to:
 [View .CSV](netherlands/UNIVERSITIES.csv)
 <!-- CSV end -->
 ---
+
+### United Kingdom
+
+---
+
+#### Universities
+
+<!-- CSV start united_kingdom/UNIVERSITIES.csv -->
+| Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|
+| University of Aberdeen | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/ | United Kingdom | English    | -             | -             | 07/11/2022                       |
+
+[View .CSV](united_kingdom/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
+### Switzerland
+
+---
+
+#### Universities
+
+<!-- CSV start switzerland/UNIVERSITIES.csv -->
+| Name                    | Mastodon profile               | Web                       | Country     | Language         | Other links   | Information   | Mastodon profile creation date   |
+|:------------------------|:-------------------------------|:--------------------------|:------------|:-----------------|:--------------|:--------------|:---------------------------------|
+| CDE, University of Bern | https://mstdn.social/@CDEunibe | https://www.cde.unibe.ch/ | Switzerland | English / German | -             | -             | 10/11/2022                       |
+
+[View .CSV](switzerland/UNIVERSITIES.csv)
+<!-- CSV end -->
 
 ## Global
 
@@ -390,33 +437,35 @@ The list is open to:
 ### Software
 
 <!-- CSV start global/SOFTWARE.csv -->
-| Name             | Mastodon profile                        | Web                           | Country    | Language   | Other links                           | Information   | Mastodon profile creation date   |
-|:-----------------|:----------------------------------------|:------------------------------|:-----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|
-| Arch Linux       | https://pokemon.men/@archlinux          | https://archlinux.org/        | -          | English    | -                                     | Bot           | 06/05/2019                       |
-| Blender          | https://mastodon.social/@Blender        | https://www.blender.org/      | -          | English    | -                                     | -             | 14/02/2018                       |
-| F-Droid          | https://floss.social/@fdroidorg         | https://f-droid.org/          | -          | Multi      | https://gitlab.com/fdroid             | -             | 15/10/2022                       |
-| Fedilab          | https://framapiaf.org/@fedilab          | https://fedilab.app/          | -          | Multi      | -                                     | Android App   | 21/04/2019                       |
-| FreeCAD          | https://fosstodon.org/@FreeCAD          | https://www.freecad.org/      | -          | English    | -                                     | -             | 30/12/2018                       |
-| Funkwhale        | https://fosstodon.org/@funkwhale        | https://funkwhale.audio/      | -          | Multi      | -                                     | -             | 20/11/2021                       |
-| GIMP             | https://floss.social/@GIMP              | https://gimp.org/             | -          | English    | -                                     | -             | 11/10/2022                       |
-| GNOME            | https://floss.social/@gnome             | https://www.gnome.org/        | -          | English    | -                                     | -             | 09/07/2018                       |
-| GTK              | https://floss.social/@GTK               | https://www.gtk.org/          | -          | English    | -                                     | -             | 10/11/2022                       |
-| Inkscape         | https://mastodon.art/@inkscape          | https://inkscape.org/         | -          | Multi      | https://gitlab.com/inkscape/inkscape/ | -             | 05/04/2018                       |
-| KDE              | https://floss.social/@kde               | https://kde.org/              | -          | Multi      | -                                     | -             | 07/10/2022                       |
-| Kdenlive         | https://floss.social/@kdenlive          | https://kdenlive.org/         | -          | Multi      | -                                     | -             | 08/10/2022                       |
-| LibreOffice      | https://fosstodon.org/@libreoffice      | https://www.libreoffice.org/  | -          | Multi      | -                                     | -             | 20/03/2019                       |
-| Mastodon         | https://mastodon.social/@Mastodon       | https://joinmastodon.org/     | Germany    | Multi      | -                                     | -             | 23/11/2016                       |
-| Matrix.org       | https://mastodon.matrix.org/@matrix     | https://matrix.org/           | -          | English    | -                                     | -             | 01/05/2017                       |
-| Nextcloud        | https://mastodon.xyz/@nextcloud         | https://nextcloud.com/        | -          | Multi      | -                                     | -             | 02/05/2017                       |
-| NLnet Labs       | https://fosstodon.org/@nlnetlabs        | https://nlnetlabs.nl/         | Netherland | English    | -                                     | -             | 31/10/2022                       |
-| OpenMandriva     | https://linuxrocks.online/@openmandriva | https://www.openmandriva.org/ | -          | English    | -                                     | -             | 13/02/2021                       |
-| Pixelfed         | https://mastodon.social/@pixelfed       | https://pixelfed.org/         | -          | English    | -                                     | -             | 11/05/2018                       |
-| QGIS             | https://fosstodon.org/@qgis             | https://qgis.org/             | -          | Multi      | -                                     | -             | 01/11/2022                       |
-| The R Foundation | https://fosstodon.org/@R_Foundation     | https://r-project.org/        | -          | English    | -                                     | -             | 10/11/2022                       |
-| Thunderbird      | https://mastodon.online/@thunderbird    | https://thunderbird.net/      | -          | Multi      | -                                     | -             | 25/04/2022                       |
-| Tusky            | https://mastodon.social/@Tusky          | https://tusky.app/            | -          | Multi      | -                                     | Android App   | 12/04/2017                       |
-| VideoLAN         | https://floss.social/@videolan          | https://www.videolan.org/     | -          | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       |
-| Vivaldi          | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/          | -          | Multi      | -                                     | -             | 13/11/2022                       |
+| Name                  | Mastodon profile                        | Web                                                 | Country    | Language   | Other links                           | Information   | Mastodon profile creation date   |
+|:----------------------|:----------------------------------------|:----------------------------------------------------|:-----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|
+| Arch Linux            | https://pokemon.men/@archlinux          | https://archlinux.org/                              | -          | English    | -                                     | Bot           | 06/05/2019                       |
+| Blender               | https://mastodon.social/@Blender        | https://www.blender.org/                            | -          | English    | -                                     | -             | 14/02/2018                       |
+| F-Droid               | https://floss.social/@fdroidorg         | https://f-droid.org/                                | -          | Multi      | https://gitlab.com/fdroid             | -             | 15/10/2022                       |
+| Fedilab               | https://framapiaf.org/@fedilab          | https://fedilab.app/                                | -          | Multi      | -                                     | Android App   | 21/04/2019                       |
+| FreeCAD               | https://fosstodon.org/@FreeCAD          | https://www.freecad.org/                            | -          | English    | -                                     | -             | 30/12/2018                       |
+| Funkwhale             | https://fosstodon.org/@funkwhale        | https://funkwhale.audio/                            | -          | Multi      | -                                     | -             | 20/11/2021                       |
+| GIMP                  | https://floss.social/@GIMP              | https://gimp.org/                                   | -          | English    | -                                     | -             | 11/10/2022                       |
+| GNOME                 | https://floss.social/@gnome             | https://www.gnome.org/                              | -          | English    | -                                     | -             | 09/07/2018                       |
+| GTK                   | https://floss.social/@GTK               | https://www.gtk.org/                                | -          | English    | -                                     | -             | 10/11/2022                       |
+| Inkscape              | https://mastodon.art/@inkscape          | https://inkscape.org/                               | -          | Multi      | https://gitlab.com/inkscape/inkscape/ | -             | 05/04/2018                       |
+| KDE                   | https://floss.social/@kde               | https://kde.org/                                    | -          | Multi      | -                                     | -             | 07/10/2022                       |
+| Kdenlive              | https://floss.social/@kdenlive          | https://kdenlive.org/                               | -          | Multi      | -                                     | -             | 08/10/2022                       |
+| LibreOffice           | https://fosstodon.org/@libreoffice      | https://www.libreoffice.org/                        | -          | Multi      | -                                     | -             | 20/03/2019                       |
+| Mastodon              | https://mastodon.social/@Mastodon       | https://joinmastodon.org/                           | Germany    | Multi      | -                                     | -             | 23/11/2016                       |
+| Matrix.org            | https://mastodon.matrix.org/@matrix     | https://matrix.org/                                 | -          | English    | -                                     | -             | 01/05/2017                       |
+| Metabolist / Metatext | https://mastodon.social/@metabolist     | http://metabolist.org/                              | -          | Multi      | -                                     | iOS App       | 30/10/2019                       |
+| Nextcloud             | https://mastodon.xyz/@nextcloud         | https://nextcloud.com/                              | -          | Multi      | -                                     | -             | 02/05/2017                       |
+| NLnet Labs            | https://fosstodon.org/@nlnetlabs        | https://nlnetlabs.nl/                               | Netherland | English    | -                                     | -             | 31/10/2022                       |
+| OpenMandriva          | https://linuxrocks.online/@openmandriva | https://www.openmandriva.org/                       | -          | English    | -                                     | -             | 13/02/2021                       |
+| Pixelfed              | https://mastodon.social/@pixelfed       | https://pixelfed.org/                               | -          | English    | -                                     | -             | 11/05/2018                       |
+| QGIS                  | https://fosstodon.org/@qgis             | https://qgis.org/                                   | -          | Multi      | -                                     | -             | 01/11/2022                       |
+| The R Foundation      | https://fosstodon.org/@R_Foundation     | https://r-project.org/                              | -          | English    | -                                     | -             | 10/11/2022                       |
+| Thunderbird           | https://mastodon.online/@thunderbird    | https://thunderbird.net/                            | -          | Multi      | -                                     | -             | 25/04/2022                       |
+| Tootoise              | https://mastodon.social/@tootoise       | https://apps.apple.com/us/app/tootoise/id1465090190 | -          | Multi      | -                                     | iOS App       | 07/02/2020                       |
+| Tusky                 | https://mastodon.social/@Tusky          | https://tusky.app/                                  | -          | Multi      | -                                     | Android App   | 12/04/2017                       |
+| VideoLAN              | https://floss.social/@videolan          | https://www.videolan.org/                           | -          | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       |
+| Vivaldi               | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/                                | -          | Multi      | -                                     | -             | 13/11/2022                       |
 
 [View .CSV](global/SOFTWARE.csv)
 <!-- CSV end -->
