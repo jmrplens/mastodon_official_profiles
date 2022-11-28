@@ -138,6 +138,17 @@ La lista está abierta a:
 
 ---
 
+### Universidades
+
+<!-- CSV start spain/UNIVERSITIES.csv -->
+| Name      | Mastodon profile                  | Web                                                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
+|:----------|:----------------------------------|:---------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
+| INFOBISOC | https://red.niboe.info/@infobisoc | https://www.ucm.es/informacionbibliotecaysociedad/ | España    | Español    | -             | -             | 25/11/2022                       |
+
+[View .CSV](spain/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
 #### Medios de comunicación
 
 <!-- CSV start spain/PRESS.csv -->
@@ -172,23 +183,24 @@ La lista está abierta a:
 #### Periodistas
 
 <!-- CSV start spain/JOURNALIST.csv -->
-| Name               | Mastodon profile                                | Web                                                  | Country   | Language          | Other links   | Information         | Mastodon profile creation date   |
-|:-------------------|:------------------------------------------------|:-----------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|
-| Alba Precedo       | https://mastodon.world/@AlbaPrecedo             | https://www.infolibre.es/autores/alba-precedo/       | España    | Español           | -             | -                   | 20/11/2022                       |
-| Antonio Maestre    | https://mastodon.social/@_antoniomaestre_/      | https://es.wikipedia.org/wiki/Antonio_Maestre        | España    | Español           | -             | -                   | 29/12/2019                       |
-| Dani Domínguez     | https://mastodon.world/@DaniDominguez           | https://www.lamarea.com/author/dani-dominguez/       | España    | Español / Catalán | -             | -                   | 18/11/2022                       |
-| Elena de Sus       | https://mastodon.world/@elenadesus              | https://ctxt.es/user/profile/elenadesus              | España    | Español           | -             | -                   | 18/11/2022                       |
-| Emilio Doménech    | https://mastodon.online/@nanisimo               | https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech   | España    | Español           | -             | Nanisimo            | 04/11/2022                       |
-| Gerardo Tecé       | https://mastodon.world/@gerardotc               | https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9      | España    | Español           | -             | -                   | 18/11/2022                       |
-| Guillem Martínez   | https://sociale.network/@Guillemmartnez         | https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez  | España    | Español           | -             | -                   | 08/11/2022                       |
-| Jesús Maraña       | https://mastodon.world/@jesusmarana             | https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a | España    | Español           | -             | -                   | 19/11/2022                       |
-| Manuel Rico        | https://mstdn.social/@manuelrico                | https://www.infolibre.es/autores/manuel-rico/        | España    | Español           | -             | -                   | 13/11/2022                       |
-| Miquel Ramos       | https://mastodont.cat/@Miquel_R                 | https://miquelramos.me/                              | España    | Español / Catalán | -             | -                   | 18/11/2022                       |
-| Pedro Vallín       | https://mastodon.social/@pvallin                | https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn      | España    | Español           | -             | -                   | 29/12/2019                       |
-| Rubén Sánchez      | https://mastodon.social/@RubenSanchezTW         | https://rubensanchez.tw/                             | España    | Español           | -             | -                   | 01/10/2018                       |
-| Vanesa Jiménez     | https://mastodon.world/@vjimenez                | https://ctxt.es/user/profile/vanesa                  | España    | Español           | -             | -                   | 18/11/2022                       |
-| Willy Veleta       | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta             | España    | Español           | -             | -                   | 18/11/2022                       |
-| Yago Álvarez Barba | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez     | España    | Español           | -             | Economista Cabreado | 11/11/2022                       |
+| Name                | Mastodon profile                                | Web                                                  | Country   | Language          | Other links   | Information         | Mastodon profile creation date   |
+|:--------------------|:------------------------------------------------|:-----------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|
+| Alba Precedo        | https://mastodon.world/@AlbaPrecedo             | https://www.infolibre.es/autores/alba-precedo/       | España    | Español           | -             | -                   | 20/11/2022                       |
+| Antonio Maestre     | https://mastodon.social/@_antoniomaestre_/      | https://es.wikipedia.org/wiki/Antonio_Maestre        | España    | Español           | -             | -                   | 29/12/2019                       |
+| Carlos Cala Barroso | https://masto.es/@carloscalab                   | https://cadenaser.com/autor/carlos_cala_barroso/a/   | España    | Español           | -             | -                   | 23/11/2022                       |
+| Dani Domínguez      | https://mastodon.world/@DaniDominguez           | https://www.lamarea.com/author/dani-dominguez/       | España    | Español / Catalán | -             | -                   | 18/11/2022                       |
+| Elena de Sus        | https://mastodon.world/@elenadesus              | https://ctxt.es/user/profile/elenadesus              | España    | Español           | -             | -                   | 18/11/2022                       |
+| Emilio Doménech     | https://mastodon.online/@nanisimo               | https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech   | España    | Español           | -             | Nanisimo            | 04/11/2022                       |
+| Gerardo Tecé        | https://mastodon.world/@gerardotc               | https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9      | España    | Español           | -             | -                   | 18/11/2022                       |
+| Guillem Martínez    | https://sociale.network/@Guillemmartnez         | https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez  | España    | Español           | -             | -                   | 08/11/2022                       |
+| Jesús Maraña        | https://mastodon.world/@jesusmarana             | https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a | España    | Español           | -             | -                   | 19/11/2022                       |
+| Manuel Rico         | https://mstdn.social/@manuelrico                | https://www.infolibre.es/autores/manuel-rico/        | España    | Español           | -             | -                   | 13/11/2022                       |
+| Miquel Ramos        | https://mastodont.cat/@Miquel_R                 | https://miquelramos.me/                              | España    | Español / Catalán | -             | -                   | 18/11/2022                       |
+| Pedro Vallín        | https://mastodon.social/@pvallin                | https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn      | España    | Español           | -             | -                   | 29/12/2019                       |
+| Rubén Sánchez       | https://mastodon.social/@RubenSanchezTW         | https://rubensanchez.tw/                             | España    | Español           | -             | -                   | 01/10/2018                       |
+| Vanesa Jiménez      | https://mastodon.world/@vjimenez                | https://ctxt.es/user/profile/vanesa                  | España    | Español           | -             | -                   | 18/11/2022                       |
+| Willy Veleta        | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta             | España    | Español           | -             | -                   | 18/11/2022                       |
+| Yago Álvarez Barba  | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez     | España    | Español           | -             | Economista Cabreado | 11/11/2022                       |
 
 [View .CSV](spain/JOURNALIST.csv)
 <!-- CSV end -->
@@ -209,10 +221,11 @@ La lista está abierta a:
 #### Dibujantes / Viñetistas / Ilustradores
 
 <!-- CSV start spain/CARTOONISTS.csv -->
-| Name             | Mastodon profile                | Web                                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   |
-|:-----------------|:--------------------------------|:--------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|
-| Bernardo Vergara | https://mas.to/@bernardovergara | https://www.eldiario.es/autores/bernardo_vergara/ | España    | Español    | -             | -             | 11/11/2022                       |
-| JRMora           | https://mastodon.social/@jrmora | https://jrmora.com/                               | España    | Español    | -             | -             | 29/12/2019                       |
+| Name             | Mastodon profile                     | Web                                               | Country   | Language         | Other links   | Information            | Mastodon profile creation date   |
+|:-----------------|:-------------------------------------|:--------------------------------------------------|:----------|:-----------------|:--------------|:-----------------------|:---------------------------------|
+| Bernardo Vergara | https://mas.to/@bernardovergara      | https://www.eldiario.es/autores/bernardo_vergara/ | España    | Español          | -             | -                      | 11/11/2022                       |
+| Cirenia Arias    | https://scicomm.xyz/@cireniasketches | http://cienciaenredes.com/cirenia-arias/          | España    | Español / Inglés | -             | Ilustradora científica | 05/11/2022                       |
+| JRMora           | https://mastodon.social/@jrmora      | https://jrmora.com/                               | España    | Español          | -             | -                      | 29/12/2019                       |
 
 [View .CSV](spain/CARTOONISTS.csv)
 <!-- CSV end -->
@@ -254,7 +267,7 @@ La lista está abierta a:
 <!-- CSV end -->
 ---
 
-#### Personalidades y personajes famosos
+#### Personalidades y personajes famosxs
 
 <!-- CSV start spain/PERSONALITIES.csv -->
 | Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   |

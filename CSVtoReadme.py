@@ -23,6 +23,11 @@ for file in result:
     df.to_csv(file, index = False)  # Update CSV file
 
 # Get .md File
-file = MarkdownFile("README.md")
+file = MarkdownFile("README_ES.md")
+# Refresh tables
+file.insert(dict_csv)
+
+# Get .md File
+file = MarkdownFile("README_EN.md")
 # Refresh tables
 file.insert(dict_csv)
