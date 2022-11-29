@@ -117,10 +117,11 @@ The list is open to:
 #### Non profit organizations / Non Governmental Organizations
 
 <!-- CSV start european_union/NPO_NGO.csv -->
-| Name                                   | Mastodon profile              | Web                   | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------------------------|:------------------------------|:----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl | https://www.ecnl.org/ | Netherlands | English    | -             | -             | 01/11/2022                       | -          |
-| European Digital Rights (EDRi)         | https://eupolicy.social/@edri | https://edri.org/     | -           | English    | -             | -             | 01/11/2022                       | -          |
+| Name                                   | Mastodon profile                 | Web                     | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------------------|:---------------------------------|:------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| EU Watch                               | https://eupolicy.social/@euwatch | https://www.euwatch.be/ | -           | Multi      | -             | -             | 01/11/2022                       | -          |
+| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl    | https://www.ecnl.org/   | Netherlands | English    | -             | -             | 01/11/2022                       | -          |
+| European Digital Rights (EDRi)         | https://eupolicy.social/@edri    | https://edri.org/       | -           | English    | -             | -             | 01/11/2022                       | -          |
 
 [View .CSV](european_union/NPO_NGO.csv)
 <!-- CSV end -->
@@ -133,8 +134,20 @@ The list is open to:
 |:-----------|:------------------------------------|:--------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | EUobserver | https://eupolicy.social/@euobserver | https://euobserver.com/   | -         | English    | -             | -             | 01/11/2022                       | -          |
 | EURACTIV   | https://masto.ai/@euractiv          | https://www.euractiv.com/ | -         | Multi      | -             | -             | 07/11/2022                       | -          |
+| Netopia EU | https://eupolicy.social/@netopia    | https://www.netopia.eu/   | Brussels  | English    | -             | -             | 01/10/2022                       | -          |
 
 [View .CSV](european_union/MEDIA.csv)
+<!-- CSV end -->
+---
+
+#### Policy
+
+<!-- CSV start european_union/POLICY.csv -->
+| Name               | Mastodon profile             | Web                                     | Country   | Language   | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
+|:-------------------|:-----------------------------|:----------------------------------------|:----------|:-----------|:--------------|:-------------------------------|:---------------------------------|:-----------|
+| Mattias Bjärnemalm | https://eupolicy.social/@Mab | https://www.linkedin.com/in/bjarnemalm/ | Brussels  | English    | -             | Pirate Parties Network Officer | 01/10/2022                       | -          |
+
+[View .CSV](european_union/POLICY.csv)
 <!-- CSV end -->
 ---
 
@@ -463,6 +476,17 @@ The list is open to:
 <!-- CSV end -->
 ---
 
+#### Media
+
+<!-- CSV start united_states_of_america/MEDIA.csv -->
+| Name           | Mastodon profile                      | Web                        | Country   | Language   | Other links                                               | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------|:--------------------------------------|:---------------------------|:----------|:-----------|:----------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Foreign Policy | https://mastodon.world/@foreignpolicy | https://foreignpolicy.com/ | USA       | English    | https://www.linkedin.com/company/foreign-policy-magazine/ | -             | 18/11/2022                       | -          |
+
+[View .CSV](united_states_of_america/MEDIA.csv)
+<!-- CSV end -->
+---
+
 ### Ireland
 
 ---
@@ -536,6 +560,17 @@ The list is open to:
 <!-- CSV end -->
 ---
 
+#### Non profit organizations / Non Governmental Organizations
+
+<!-- CSV start united_kingdom/NPO_NGO.csv -->
+| Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Open Rights Group | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
+
+[View .CSV](united_kingdom/NPO_NGO.csv)
+<!-- CSV end -->
+---
+
 ### Switzerland
 
 ---
@@ -566,14 +601,15 @@ The list is open to:
 ### Non profit organizations / Non Governmental Organizations
 
 <!-- CSV start global/NPO_NGO.csv -->
-| Name                      | Mastodon profile                               | Web                            | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------------|:-----------------------------------------------|:-------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
-| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights       | https://cartoonistsrights.org/ | -         | English           | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
-| IFEX                      | https://mastodon.social/@ifex                  | https://ifex.org/              | -         | Multi             | -                              | -             | 27/07/2022                       | -          |
-| NetBlocks                 | https://mastodon.social/@netblocks             | https://netblocks.org/         | -         | English           | https://t.me/netblocks         | -             | 07/11/2022                       | -          |
-| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs       | https://www.nptechforgood.com/ | -         | English           | -                              | -             | 21/11/2022                       | -          |
-| The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/        | -         | Multi             | -                              | -             | 03/04/2017                       | -          |
-| Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/           | -         | English / Spanish | -                              | -             | 18/11/2022                       | -          |
+| Name                      | Mastodon profile                               | Web                                | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------|:-----------------------------------------------|:-----------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
+| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights       | https://cartoonistsrights.org/     | -         | English           | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
+| Fight for the Future      | https://mastodon.fightforthefuture.org/@team   | https://www.fightforthefuture.org/ | -         | English           | -                              | -             | 02/11/2022                       | -          |
+| IFEX                      | https://mastodon.social/@ifex                  | https://ifex.org/                  | -         | Multi             | -                              | -             | 27/07/2022                       | -          |
+| NetBlocks                 | https://mastodon.social/@netblocks             | https://netblocks.org/             | -         | English           | https://t.me/netblocks         | -             | 07/11/2022                       | -          |
+| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs       | https://www.nptechforgood.com/     | -         | English           | -                              | -             | 21/11/2022                       | -          |
+| The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/            | -         | Multi             | -                              | -             | 03/04/2017                       | -          |
+| Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/               | -         | English / Spanish | -                              | -             | 18/11/2022                       | -          |
 
 [View .CSV](global/NPO_NGO.csv)
 <!-- CSV end -->
