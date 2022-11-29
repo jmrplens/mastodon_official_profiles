@@ -61,6 +61,7 @@ The list is open to:
 - [Global](#global)
   - [Foundations](#foundations)
   - [Non profit organizations](#non-profit-organizations)
+  - [Non Governmental Organizations](#non-governmental-organizations-1)
   - [Education](#education)
   - [Platforms](#platforms)
   - [Software](#software)
