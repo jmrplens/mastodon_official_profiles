@@ -540,12 +540,25 @@ La lista está abierta a:
 ### Organizaciones sin ánimo de lucro
 
 <!-- CSV start global/NONPROFIT_ORGANIZATIONS.csv -->
-| Name                    | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Nonprofit Tech for Good | https://publicgood.social/@nonprofitorgs | https://www.nptechforgood.com/ | -         | English    | -             | -             | 21/11/2022                       | -          |
-| The Tor Project         | https://mastodon.social/@torproject      | https://torproject.org/        | -         | Multi      | -             | -             | 03/04/2017                       | -          |
+| Name                      | Mastodon profile                         | Web                            | Country   | Language   | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:-------------------------------|:--------------|:---------------------------------|:-----------|
+| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights | https://cartoonistsrights.org/ | -         | English    | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
+| IFEX                      | https://mastodon.social/@ifex            | https://ifex.org/              | -         | Multi      | -                              | -             | 27/07/2022                       | -          |
+| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs | https://www.nptechforgood.com/ | -         | English    | -                              | -             | 21/11/2022                       | -          |
+| The Tor Project           | https://mastodon.social/@torproject      | https://torproject.org/        | -         | Multi      | -                              | -             | 03/04/2017                       | -          |
 
 [View .CSV](global/NONPROFIT_ORGANIZATIONS.csv)
+<!-- CSV end -->
+
+#### Organizaciones no gubernamentales
+
+<!-- CSV start global/NONGOVERNMENTAL_ORGANIZATIONS.csv -->
+| Name                    | Mastodon profile                               | Web                    | Country   | Language          | Other links            | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------|:-----------------------------------------------|:-----------------------|:----------|:------------------|:-----------------------|:--------------|:---------------------------------|:-----------|
+| NetBlocks               | https://mastodon.social/@netblocks             | https://netblocks.org/ | -         | English           | https://t.me/netblocks | -             | 07/11/2022                       | -          |
+| Transnational Institute | https://mastodon.world/@transnationalinstitute | https://www.tni.org/   | -         | English / Spanish | -                      | -             | 18/11/2022                       | -          |
+
+[View .CSV](global/NONGOVERNMENTAL_ORGANIZATIONS.csv)
 <!-- CSV end -->
 
 ### Educación
