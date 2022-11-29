@@ -74,8 +74,6 @@ La lista está abierta a:
 
 #### Instituciones
 
----
-
 <!-- CSV start european_union/INSTITUTIONS.csv -->
 | Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country   | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
 |:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:----------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
@@ -167,8 +165,6 @@ La lista está abierta a:
 ---
 
 #### Instituciones
-
----
 
 <!-- CSV start germany/INSTITUTIONS.csv -->
 | Name                           | Mastodon profile                              | Web                                                                                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
