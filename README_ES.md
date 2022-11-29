@@ -130,6 +130,17 @@ La lista está abierta a:
 <!-- CSV end -->
 ---
 
+#### Institutos, sociedades y revistas científicas
+
+<!-- CSV start european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                          | Mastodon profile                    | Web              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:------------------------------------|:-----------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| European Mathematical Society | https://mathstodon.xyz/@EuroMathSoc | euromathsoc.org/ | Finland   | English    | -             | -             | 11/11/2022                       | -          |
+
+[View .CSV](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
+---
+
 #### Medios de comunicación
 
 <!-- CSV start european_union/MEDIA.csv -->
@@ -160,6 +171,17 @@ La lista está abierta a:
 
 ---
 
+#### Institutos, sociedades y revistas científicas
+
+<!-- CSV start australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                     | Mastodon profile               | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Australian Maths Society | https://mathstodon.xyz/@AustMS | https://austms.org.au/ | Australia | English    | -             | -             | 14/11/2022                       | -          |
+
+[View .CSV](australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
+---
+
 #### Divulgación científica
 
 <!-- CSV start australia/SCIENTIFIC_DISSEMINATION.csv -->
@@ -168,6 +190,19 @@ La lista está abierta a:
 | The Conversation AU | https://mastodon.social/@theconversationau | https://theconversation.com/au | Australia | English    | -             | -             | 18/11/2022                       | -          |
 
 [View .CSV](australia/SCIENTIFIC_DISSEMINATION.csv)
+<!-- CSV end -->
+---
+
+### Austria
+
+#### Institutos, sociedades y revistas científicas
+
+<!-- CSV start austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                                            | Mastodon profile                 | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------------------------|:---------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Research Institute of Molecular Pathology (IMP) | https://mstdn.science/@IMPvienna | https://www.imp.ac.at/ | Austria   | English    | -             | -             | 08/11/2022                       | -          |
+
+[View .CSV](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 <!-- CSV end -->
 ---
 
@@ -278,6 +313,20 @@ La lista está abierta a:
 | ZIF                            | https://social.bund.de/@ZIF                   | https://www.zif-berlin.org/                                                             | Germany   | German     | -             | -             | 01/11/2022                       | -          |
 
 [View .CSV](germany/INSTITUTIONS.csv)
+<!-- CSV end -->
+---
+
+#### Institutos, sociedades y revistas científicas
+
+<!-- CSV start germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                                       | Mastodon profile                  | Web                           | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------------------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Institut für Publizistik                   | https://sciences.social/@ifp      | https://www.ifp.uni-mainz.de/ | Germany   | English    | -             | -             | 21/11/2022                       | -          |
+| MPI for Biological Intelligence            | https://wisskomm.social/@MPIforBI | https://www.bi.mpg.de/en      | Germany   | English    | -             | -             | 21/11/2022                       | -          |
+| MPI of Molecular Cell Biology and Genetics | https://wisskomm.social/@mpicbg   | https://www.mpi-cbg.de/       | Germany   | English    | -             | -             | 19/11/2022                       | -          |
+| Robert Koch-Institut                       | https://social.bund.de/@RKI       | https://www.rki.de            | Germany   | German     | -             | -             | 11/11/2022                       | -          |
+
+[View .CSV](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 <!-- CSV end -->
 ---
 
@@ -450,6 +499,19 @@ La lista está abierta a:
 
 ---
 
+#### Institutos, sociedades y revistas científicas
+
+<!-- CSV start united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                                                          | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------------------------------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Acoustical Society of America                                 | https://fediscience.org/@AcousticalSocietyofAmerica | https://acousticalsociety.org/ | USA       | English    | -             | -             | 07/11/2022                       | -          |
+| Institute for Energy Economics and Financial Analysis (IEEFA) | https://mastodon.energy/@ieefa_institute            | https://ieefa.org/             | USA       | English    | -             | -             | 09/11/2022                       | -          |
+| Society for Glycobiology                                      | https://qoto.org/@SfG                               | https://www.glycobiology.org/  | USA       | English    | -             | -             | 07/11/2022                       | -          |
+
+[View .CSV](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
+---
+
 #### Divulgación científica
 
 <!-- CSV start united_states_of_america/SCIENTIFIC_DISSEMINATION.csv -->
@@ -552,6 +614,18 @@ La lista está abierta a:
 <!-- CSV end -->
 ---
 
+#### Institutos, sociedades y revistas científicas
+
+<!-- CSV start united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                       | Mastodon profile                           | Web                        | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------|:-------------------------------------------|:---------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Royal Astronomical Society | https://astrodon.social/@royalastrosoc     | https://ras.ac.uk/         | United Kingdom | English    | -             | -             | 08/11/2022                       | -          |
+| The Prehistoric Society    | https://mastodonapp.uk/@PrehistoricSociety | www.prehistoricsociety.org | United Kingdom | English    | -             | -             | 26/11/2022                       | -          |
+
+[View .CSV](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
+---
+
 #### Fundaciones
 
 <!-- CSV start united_kingdom/FOUNDATIONS.csv -->
@@ -617,6 +691,15 @@ La lista está abierta a:
 [View .CSV](global/NPO_NGO.csv)
 <!-- CSV end -->
 
+### Institutos, sociedades y revistas científicas
+
+<!-- CSV start global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
+| Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | -         | English    | -             | -             | 07/11/2022                       | -          |
+
+[View .CSV](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
 
 ### Educación
 
