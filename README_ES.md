@@ -60,7 +60,7 @@ La lista está abierta a:
   - [Reino Unido](#reino-unido)
     - [Universidades](#universidades-6)
     - [Fundaciones](#fundaciones-1)
-  - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-%C3%A1nimo-de-lucro--organizaciones-no-gubernamentales-1)
+    - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-%C3%A1nimo-de-lucro--organizaciones-no-gubernamentales-1)
   - [Suiza](#suiza)
     - [Universidades](#universidades-7)
 - [Global](#global)
