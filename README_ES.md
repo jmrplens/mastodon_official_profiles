@@ -21,11 +21,15 @@ La lista está abierta a:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- param::isNotitle::true:: -->
 
+- [Comunidades Políticas](#comunidades-pol%C3%ADticas)
+  - [Unión Europea](#uni%C3%B3n-europea)
+    - [Instituciones](#instituciones)
 - [Paises](#paises)
   - [Australia](#australia)
     - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica)
   - [Alemania](#alemania)
     - [Universidades](#universidades)
+    - [Instituciones](#instituciones-1)
   - [Canada](#canada)
     - [Universidades](#universidades-1)
   - [España](#espa%C3%B1a)
