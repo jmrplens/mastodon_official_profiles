@@ -61,7 +61,7 @@ La lista está abierta a:
 - [Global](#global)
   - [Fundaciones](#fundaciones-1)
   - [Organizaciones sin ánimo de lucro](#organizaciones-sin-%C3%A1nimo-de-lucro)
-    - [Organizaciones no gubernamentales](#organizaciones-no-gubernamentales-1)
+  - [Organizaciones no gubernamentales](#organizaciones-no-gubernamentales-1)
   - [Educación](#educaci%C3%B3n)
   - [Plataformas](#plataformas)
   - [Software](#software)
