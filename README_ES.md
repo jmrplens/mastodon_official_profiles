@@ -103,12 +103,12 @@ La lista está abierta a:
 
 #### Fundaciones
 
-<!-- CSV start european_union/FUNDATIONS.csv -->
+<!-- CSV start european_union/FOUNDATIONS.csv -->
 | Name                 | Mastodon profile                            | Web                             | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:--------------------------------------------|:--------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | -         | English    | -             | -             | 01/11/2022                       | -          |
 
-[View .CSV](european_union/FUNDATIONS.csv)
+[View .CSV](european_union/FOUNDATIONS.csv)
 <!-- CSV end -->
 ---
 
@@ -118,8 +118,21 @@ La lista está abierta a:
 | Name                                   | Mastodon profile              | Web                   | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------------------|:------------------------------|:----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl | https://www.ecnl.org/ | Netherlands | English    | -             | -             | 01/11/2022                       | -          |
+| European Digital Rights (EDRi)         | https://eupolicy.social/@edri | https://edri.org/     | -           | English    | -             | -             | 01/11/2022                       | -          |
 
 [View .CSV](european_union/NPO_NGO.csv)
+<!-- CSV end -->
+---
+
+#### Medios de comunicación
+
+<!-- CSV start european_union/MEDIA.csv -->
+| Name       | Mastodon profile                    | Web                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------|:------------------------------------|:--------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| EUobserver | https://eupolicy.social/@euobserver | https://euobserver.com/   | -         | English    | -             | -             | 01/11/2022                       | -          |
+| EURACTIV   | https://masto.ai/@euractiv          | https://www.euractiv.com/ | -         | Multi      | -             | -             | 07/11/2022                       | -          |
+
+[View .CSV](european_union/MEDIA.csv)
 <!-- CSV end -->
 ---
 
@@ -285,7 +298,7 @@ La lista está abierta a:
 
 #### Medios de comunicación
 
-<!-- CSV start spain/PRESS.csv -->
+<!-- CSV start spain/MEDIA.csv -->
 | Name            | Mastodon profile                       | Web                            | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
 |:----------------|:---------------------------------------|:-------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
 | ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/         | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
@@ -300,7 +313,7 @@ La lista está abierta a:
 | Maldita.es      | https://mastodon.social/@malditaes     | https://maldita.es/            | Spain     | Spanish    | -                          | Verificación de bulos | 18/11/2022                       | -          |
 | microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | Spain     | Spanish    | https://t.me/microsiervos  | -                     | 01/08/2018                       | -          |
 
-[View .CSV](spain/PRESS.csv)
+[View .CSV](spain/MEDIA.csv)
 <!-- CSV end -->
 ---
 
@@ -507,6 +520,17 @@ La lista está abierta a:
 | University of Aberdeen | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/ | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
 
 [View .CSV](united_kingdom/UNIVERSITIES.csv)
+<!-- CSV end -->
+---
+
+#### Fundaciones
+
+<!-- CSV start united_kingdom/FOUNDATIONS.csv -->
+| Name                      | Mastodon profile                  | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------|:----------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Omega Research Foundation | https://mastodon.social/@Omega_RF | https://omegaresearchfoundation.org/ | United Kingdom | English    | -             | -             | 04/11/2022                       | -          |
+
+[View .CSV](united_kingdom/FOUNDATIONS.csv)
 <!-- CSV end -->
 ---
 
