@@ -113,14 +113,14 @@ The list is open to:
 <!-- CSV end -->
 ---
 
-#### Non Governmental Organizations
+#### Non profit organizations / Non Governmental Organizations
 
-<!-- CSV start european_union/NONGOVERNMENTAL_ORGANIZATIONS.csv -->
+<!-- CSV start european_union/NPO_NGO.csv -->
 | Name                                   | Mastodon profile              | Web                   | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------------------|:------------------------------|:----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl | https://www.ecnl.org/ | Netherlands | English    | -             | -             | 01/11/2022                       | -          |
 
-[View .CSV](european_union/NONGOVERNMENTAL_ORGANIZATIONS.csv)
+[View .CSV](european_union/NPO_NGO.csv)
 <!-- CSV end -->
 ---
 
@@ -538,28 +538,19 @@ The list is open to:
 [View .CSV](global/FOUNDATIONS.csv)
 <!-- CSV end -->
 
-### Non profit organizations
+### Non profit organizations / Non Governmental Organizations
 
-<!-- CSV start global/NONPROFIT_ORGANIZATIONS.csv -->
-| Name                      | Mastodon profile                         | Web                            | Country   | Language   | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:-------------------------------|:--------------|:---------------------------------|:-----------|
-| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights | https://cartoonistsrights.org/ | -         | English    | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
-| IFEX                      | https://mastodon.social/@ifex            | https://ifex.org/              | -         | Multi      | -                              | -             | 27/07/2022                       | -          |
-| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs | https://www.nptechforgood.com/ | -         | English    | -                              | -             | 21/11/2022                       | -          |
-| The Tor Project           | https://mastodon.social/@torproject      | https://torproject.org/        | -         | Multi      | -                              | -             | 03/04/2017                       | -          |
+<!-- CSV start global/NPO_NGO.csv -->
+| Name                      | Mastodon profile                               | Web                            | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------|:-----------------------------------------------|:-------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
+| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights       | https://cartoonistsrights.org/ | -         | English           | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
+| IFEX                      | https://mastodon.social/@ifex                  | https://ifex.org/              | -         | Multi             | -                              | -             | 27/07/2022                       | -          |
+| NetBlocks                 | https://mastodon.social/@netblocks             | https://netblocks.org/         | -         | English           | https://t.me/netblocks         | -             | 07/11/2022                       | -          |
+| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs       | https://www.nptechforgood.com/ | -         | English           | -                              | -             | 21/11/2022                       | -          |
+| The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/        | -         | Multi             | -                              | -             | 03/04/2017                       | -          |
+| Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/           | -         | English / Spanish | -                              | -             | 18/11/2022                       | -          |
 
-[View .CSV](global/NONPROFIT_ORGANIZATIONS.csv)
-<!-- CSV end -->
-
-### Non Governmental Organizations
-
-<!-- CSV start global/NONGOVERNMENTAL_ORGANIZATIONS.csv -->
-| Name                    | Mastodon profile                               | Web                    | Country   | Language          | Other links            | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------|:-----------------------------------------------|:-----------------------|:----------|:------------------|:-----------------------|:--------------|:---------------------------------|:-----------|
-| NetBlocks               | https://mastodon.social/@netblocks             | https://netblocks.org/ | -         | English           | https://t.me/netblocks | -             | 07/11/2022                       | -          |
-| Transnational Institute | https://mastodon.world/@transnationalinstitute | https://www.tni.org/   | -         | English / Spanish | -                      | -             | 18/11/2022                       | -          |
-
-[View .CSV](global/NONGOVERNMENTAL_ORGANIZATIONS.csv)
+[View .CSV](global/NPO_NGO.csv)
 <!-- CSV end -->
 
 ### Education
