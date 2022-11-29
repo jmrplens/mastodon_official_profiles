@@ -99,6 +99,28 @@ La lista está abierta a:
 <!-- CSV end -->
 ---
 
+#### Fundaciones
+
+<!-- CSV start european_union/FUNDATIONS.csv -->
+| Name                 | Mastodon profile                            | Web                             | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------|:--------------------------------------------|:--------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | -         | English    | -             | -             | 01/11/2022                       | -          |
+
+[View .CSV](european_union/FUNDATIONS.csv)
+<!-- CSV end -->
+---
+
+#### Organizaciones no gubernamentales
+
+<!-- CSV start european_union/NONGOVERNMENTAL_ORGANIZATIONS.csv -->
+| Name                                   | Mastodon profile              | Web                   | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------------------|:------------------------------|:----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl | https://www.ecnl.org/ | Netherlands | English    | -             | -             | 01/11/2022                       | -          |
+
+[View .CSV](european_union/NONGOVERNMENTAL_ORGANIZATIONS.csv)
+<!-- CSV end -->
+---
+
 ## Paises
 
 ### Australia
@@ -516,9 +538,10 @@ La lista está abierta a:
 ### Organizaciones sin ánimo de lucro
 
 <!-- CSV start global/NONPROFIT_ORGANIZATIONS.csv -->
-| Name            | Mastodon profile                    | Web                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:----------------|:------------------------------------|:------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Tor Project | https://mastodon.social/@torproject | https://torproject.org/ | -         | Multi      | -             | -             | 03/04/2017                       | -          |
+| Name                    | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Nonprofit Tech for Good | https://publicgood.social/@nonprofitorgs | https://www.nptechforgood.com/ | -         | English    | -             | -             | 21/11/2022                       | -          |
+| The Tor Project         | https://mastodon.social/@torproject      | https://torproject.org/        | -         | Multi      | -             | -             | 03/04/2017                       | -          |
 
 [View .CSV](global/NONPROFIT_ORGANIZATIONS.csv)
 <!-- CSV end -->
