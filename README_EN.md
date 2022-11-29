@@ -24,6 +24,8 @@ The list is open to:
 - [Political Communities](#political-communities)
   - [European Union](#european-union)
     - [Institutions](#institutions)
+    - [Fundations](#fundations)
+    - [Non Governmental Organizations](#non-governmental-organizations)
 - [Countries](#countries)
   - [Australia](#australia)
     - [Science outreach](#science-outreach)
