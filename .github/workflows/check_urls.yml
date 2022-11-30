@@ -1,9 +1,9 @@
-name: Check links
+name: Check Markdown links
 
 on:
   push:
     branches:
-    - main
+    - master
   schedule:
   # Run everyday at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
   - cron: "0 9 * * *"
@@ -17,3 +17,5 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
+        config-file: 'mlc_config.json'
+        file-path: './README.md, ./README_EN.md, README_ES.md'
