@@ -121,6 +121,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -141,6 +142,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -164,6 +166,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](canada/UNIVERSITIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -264,6 +267,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/POLICY.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -407,6 +411,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/UNIVERSITIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -523,6 +528,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SOFTWARE.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -543,6 +549,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](ireland/UNIVERSITIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -577,6 +584,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](netherlands/UNIVERSITIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -597,6 +605,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -617,6 +626,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](norway/SCI_RESEARCH_GROUPS.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -779,6 +789,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/POLICY.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -799,6 +810,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](switzerland/UNIVERSITIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -870,6 +882,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/UNIVERSITIES.csv)
 
 ---
+<br>
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
@@ -948,6 +961,7 @@ La lista está abierta a:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/UNIVERSITIES.csv)
 
 ---
+<br>
 
 ## Ideas (con las que necesito ayuda de personas con conocimientos)
 
