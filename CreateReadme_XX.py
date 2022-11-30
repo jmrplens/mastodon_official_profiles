@@ -43,7 +43,7 @@ def gen_by_country(lang):
     for country in country_list:
         # Print Country heading
         icon_country = '<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">'
-        str_readme = str_readme + icon_country + "\n\n## " + country + '\n\n<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>\n'
+        str_readme = str_readme + icon_country + "\n\n## " + country + '\n\n<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>\n\n'
         #
         profiles_country = df_gen.loc[df_gen["Country"] == country]
         profiles_country.sort_values(by = 'Country', inplace = True,

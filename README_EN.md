@@ -25,69 +25,6 @@ The list is open to:
 # Table of contents
 
 <!--ts-->
-   * [Australia](#australia)
-      * [Scientific dissemination](#scientific-dissemination)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals)
-   * [Austria](#austria)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-1)
-   * [Canada](#canada)
-      * [Universities](#universities)
-   * [European Union](#european-union)
-      * [Foundations](#foundations)
-      * [Institutions](#institutions)
-      * [Media](#media)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations)
-      * [Policy](#policy)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-2)
-   * [Germany](#germany)
-      * [Institutions](#institutions-1)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-3)
-      * [Scientific research groups](#scientific-research-groups)
-      * [Universities](#universities-1)
-   * [Global](#global)
-      * [Education](#education)
-      * [Foundations](#foundations-1)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-1)
-      * [Platforms](#platforms)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-4)
-      * [Software](#software)
-   * [Ireland](#ireland)
-      * [Universities](#universities-2)
-   * [Netherlands](#netherlands)
-      * [Scientific research groups](#scientific-research-groups-1)
-      * [Universities](#universities-3)
-   * [New Zealand](#new-zealand)
-      * [Scientific dissemination](#scientific-dissemination-1)
-   * [Norway](#norway)
-      * [Scientific research groups](#scientific-research-groups-2)
-   * [Spain](#spain)
-      * [Cartoonists / Illustrators](#cartoonists--illustrators)
-      * [Comedians](#comedians)
-      * [Journalists](#journalists)
-      * [Media](#media-1)
-      * [Musicians](#musicians)
-      * [Personalities and celebrities](#personalities-and-celebrities)
-      * [Policy](#policy-1)
-      * [Scientific dissemination](#scientific-dissemination-2)
-      * [Scientific research groups](#scientific-research-groups-3)
-      * [Writers](#writers)
-   * [Switzerland](#switzerland)
-      * [Universities](#universities-4)
-   * [United Kingdom](#united-kingdom)
-      * [Foundations](#foundations-2)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-2)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-5)
-      * [Scientific research groups](#scientific-research-groups-4)
-      * [Universities](#universities-5)
-   * [USA](#usa)
-      * [Media](#media-2)
-      * [Scientific dissemination](#scientific-dissemination-3)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-6)
-      * [Scientific research groups](#scientific-research-groups-5)
-      * [Universities](#universities-6)
-   * [Ideas (with which I need help from knowledgeable people)](#ideas-with-which-i-need-help-from-knowledgeable-people)
-   * [Contributors](#contributors)
-   * [Relevant sources of information](#relevant-sources-of-information)
 <!--te-->
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
@@ -95,6 +32,7 @@ The list is open to:
 ## Australia
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Scientific dissemination
@@ -122,6 +60,7 @@ The list is open to:
 ## Austria
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
@@ -139,6 +78,7 @@ The list is open to:
 ## Canada
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
@@ -159,6 +99,7 @@ The list is open to:
 ## European Union
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Foundations
@@ -246,6 +187,7 @@ The list is open to:
 ## Germany
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
@@ -380,6 +322,7 @@ The list is open to:
 ## Global
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/EDUCATION.svg" alt="Country">
 
 ### Education
@@ -483,6 +426,7 @@ The list is open to:
 ## Ireland
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
@@ -500,6 +444,7 @@ The list is open to:
 ## Netherlands
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
@@ -529,6 +474,7 @@ The list is open to:
 ## New Zealand
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Scientific dissemination
@@ -546,6 +492,7 @@ The list is open to:
 ## Norway
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
@@ -563,6 +510,7 @@ The list is open to:
 ## Spain
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/CARTOONISTS.svg" alt="Country">
 
 ### Cartoonists / Illustrators
@@ -704,6 +652,7 @@ The list is open to:
 ## Switzerland
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
@@ -721,6 +670,7 @@ The list is open to:
 ## United Kingdom
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Foundations
@@ -781,6 +731,7 @@ The list is open to:
 ## USA
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/MEDIA.svg" alt="Country">
 
 ### Media

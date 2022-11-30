@@ -25,69 +25,6 @@ La lista está abierta a:
 # Índice
 
 <!--ts-->
-   * [Australia](#australia)
-      * [Divulgación científica](#divulgación-científica)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas)
-   * [Austria](#austria)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-1)
-   * [Canada](#canada)
-      * [Universidades](#universidades)
-   * [European Union](#european-union)
-      * [Fundaciones](#fundaciones)
-      * [Instituciones](#instituciones)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-2)
-      * [Medios de comunicación](#medios-de-comunicación)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales)
-      * [Política](#política)
-   * [Germany](#germany)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica)
-      * [Instituciones](#instituciones-1)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-3)
-      * [Universidades](#universidades-1)
-   * [Global](#global)
-      * [Educación](#educación)
-      * [Fundaciones](#fundaciones-1)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-4)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-1)
-      * [Plataformas](#plataformas)
-      * [Software](#software)
-   * [Ireland](#ireland)
-      * [Universidades](#universidades-2)
-   * [Netherlands](#netherlands)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-1)
-      * [Universidades](#universidades-3)
-   * [New Zealand](#new-zealand)
-      * [Divulgación científica](#divulgación-científica-1)
-   * [Norway](#norway)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-2)
-   * [Spain](#spain)
-      * [Dibujantes / Viñetistas / Ilustradores](#dibujantes--viñetistas--ilustradores)
-      * [Divulgación científica](#divulgación-científica-2)
-      * [Escritorxs](#escritorxs)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-3)
-      * [Humoristas](#humoristas)
-      * [Medios de comunicación](#medios-de-comunicación-1)
-      * [Músicxs](#músicxs)
-      * [Periodistas](#periodistas)
-      * [Personalidades y personajes famosxs](#personalidades-y-personajes-famosxs)
-      * [Política](#política-1)
-   * [Switzerland](#switzerland)
-      * [Universidades](#universidades-4)
-   * [United Kingdom](#united-kingdom)
-      * [Fundaciones](#fundaciones-2)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-4)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-5)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-2)
-      * [Universidades](#universidades-5)
-   * [USA](#usa)
-      * [Divulgación científica](#divulgación-científica-3)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-5)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-6)
-      * [Medios de comunicación](#medios-de-comunicación-2)
-      * [Universidades](#universidades-6)
-   * [Ideas (con las que necesito ayuda de personas con conocimientos)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
-   * [Colaboradores](#colaboradores)
-   * [Fuentes de información relevantes](#fuentes-de-información-relevantes)
 <!--te-->
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
@@ -95,6 +32,7 @@ La lista está abierta a:
 ## Australia
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Divulgación científica
@@ -122,6 +60,7 @@ La lista está abierta a:
 ## Austria
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Institutos, sociedades y revistas científicas
@@ -139,6 +78,7 @@ La lista está abierta a:
 ## Canada
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universidades
@@ -159,6 +99,7 @@ La lista está abierta a:
 ## European Union
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Fundaciones
@@ -246,6 +187,7 @@ La lista está abierta a:
 ## Germany
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Grupos de investigación científica
@@ -380,6 +322,7 @@ La lista está abierta a:
 ## Global
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/EDUCATION.svg" alt="Country">
 
 ### Educación
@@ -483,6 +426,7 @@ La lista está abierta a:
 ## Ireland
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universidades
@@ -500,6 +444,7 @@ La lista está abierta a:
 ## Netherlands
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Grupos de investigación científica
@@ -529,6 +474,7 @@ La lista está abierta a:
 ## New Zealand
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Divulgación científica
@@ -546,6 +492,7 @@ La lista está abierta a:
 ## Norway
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Grupos de investigación científica
@@ -563,6 +510,7 @@ La lista está abierta a:
 ## Spain
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/CARTOONISTS.svg" alt="Country">
 
 ### Dibujantes / Viñetistas / Ilustradores
@@ -704,6 +652,7 @@ La lista está abierta a:
 ## Switzerland
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universidades
@@ -721,6 +670,7 @@ La lista está abierta a:
 ## United Kingdom
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Fundaciones
@@ -781,6 +731,7 @@ La lista está abierta a:
 ## USA
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Divulgación científica
