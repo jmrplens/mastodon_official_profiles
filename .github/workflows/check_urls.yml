@@ -18,4 +18,4 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         config-file: 'mlc_config.json'
-        file-path: './README.md, ./README_EN.md, ./README_ES.md'
+        file-path: 'README.md, README_EN.md, README_ES.md'
