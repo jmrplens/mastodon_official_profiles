@@ -17,5 +17,5 @@ jobs:
       with:
         use-quiet-mode: 'no'
         use-verbose-mode: 'no'
-        config-file: 'mlc_config.json'
+        config-file: './.github/workflows/mlc_config.json'
         file-path: './README.md, ./README_EN.md, ./README_ES.md'
