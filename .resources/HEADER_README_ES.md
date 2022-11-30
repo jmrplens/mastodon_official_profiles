@@ -1,9 +1,3 @@
-![GitHub file size in bytes](https://img.shields.io/github/size/jmrplens/mastodon_official_profiles/MAIN.csv?label=Tamaño%20base%20datos&logo=MAIN.csv&style=for-the-badge)
-![GitHub repo directory count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=carpetas&style=for-the-badge&type=dir)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=archivos&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
-
 # Perfiles oficiales en Mastodon
 
 Este repositorio se ha creado con la siguientes premisas:
@@ -22,10 +16,3 @@ La lista está abierta a:
 - Otros cambios que aun no se hayan previsto.
 
 # Índice
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<!-- param::isNotitle::true:: -->
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
