@@ -13,7 +13,7 @@
 <table>
 <tbody>
   <tr>
-    <td align='center' ><a href="README_EN.md"><b>See list in English</b><br>
+    <td align='center'><a href="README_EN.md"><b>See list in English</b><br>
       <img src=".resources/flags/uk.svg" height="40"/></a>
     </td>
     <td> </td>
