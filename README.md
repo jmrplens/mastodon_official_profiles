@@ -1,3 +1,9 @@
+![GitHub file size in bytes](https://img.shields.io/github/size/jmrplens/mastodon_official_profiles/MAIN.csv?label=Database%20size&logo=MAIN.csv&style=for-the-badge)
+![GitHub repo directory count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=folders&style=for-the-badge&type=dir)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
