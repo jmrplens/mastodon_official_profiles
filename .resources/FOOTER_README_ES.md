@@ -1,6 +1,6 @@
 ## Ideas (con las que necesito ayuda de personas con conocimientos)
 
-Ahora las tablas las actualizo desde mi ordenador con el script de python del repositorio `updateTable.py`, haria falta que el script lo ejecutase github action o sino hacer algo similar como los recursos del siguiente punto.
+Ahora las tablas las actualizo desde mi ordenador con el script de python del repositorio `CreateReadme_XX.py`, haria falta que el script lo ejecutase github action o sino hacer algo similar como los recursos del siguiente punto.
 - Utilizar [GitHub actions](https://github.com/features/actions) para que las tablas se actualicen automaticamente al modificar el repositorio (`PUSH`). Algunos recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 
 ## Colaboradores

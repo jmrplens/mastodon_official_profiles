@@ -21,71 +21,6 @@ The list is open to:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- param::isNotitle::true:: -->
 
-- [Australia](#australia)
-  - [Scientific dissemination](#scientific-dissemination)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals)
-- [Austria](#austria)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-1)
-- [Canada](#canada)
-  - [Universities](#universities)
-- [European Union](#european-union)
-  - [Foundations](#foundations)
-  - [Institutions](#institutions)
-  - [Media](#media)
-  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations)
-  - [Policy](#policy)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-2)
-- [France](#france)
-  - [Platforms](#platforms)
-- [Germany](#germany)
-  - [Institutions](#institutions-1)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-3)
-  - [Scientific research groups](#scientific-research-groups)
-  - [Universities](#universities-1)
-- [Global](#global)
-  - [Education](#education)
-  - [Foundations](#foundations-1)
-  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-1)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-4)
-  - [Software](#software)
-- [Ireland](#ireland)
-  - [Universities](#universities-2)
-- [Netherlands](#netherlands)
-  - [Scientific research groups](#scientific-research-groups-1)
-  - [Universities](#universities-3)
-- [New Zealand](#new-zealand)
-  - [Scientific dissemination](#scientific-dissemination-1)
-- [Norway](#norway)
-  - [Scientific research groups](#scientific-research-groups-2)
-- [Spain](#spain)
-  - [Cartoonists / Illustrators](#cartoonists--illustrators)
-  - [Comedians](#comedians)
-  - [Journalists](#journalists)
-  - [Media](#media-1)
-  - [Musicians](#musicians)
-  - [Personalities and celebrities](#personalities-and-celebrities)
-  - [Policy](#policy-1)
-  - [Scientific dissemination](#scientific-dissemination-2)
-  - [Scientific research groups](#scientific-research-groups-3)
-  - [Writers](#writers)
-- [Switzerland](#switzerland)
-  - [Universities](#universities-4)
-- [United Kingdom](#united-kingdom)
-  - [Foundations](#foundations-2)
-  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-2)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-5)
-  - [Scientific research groups](#scientific-research-groups-4)
-  - [Universities](#universities-5)
-- [USA](#usa)
-  - [Media](#media-2)
-  - [Scientific dissemination](#scientific-dissemination-3)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-6)
-  - [Scientific research groups](#scientific-research-groups-5)
-  - [Universities](#universities-6)
-- [Ideas (with which I need help from knowledgeable people)](#ideas-with-which-i-need-help-from-knowledgeable-people)
-- [Contributors](#contributors)
-- [Relevant sources of information](#relevant-sources-of-information)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
@@ -715,7 +650,7 @@ The list is open to:
 
 ## Ideas (with which I need help from knowledgeable people)
 
-Ahora las tablas las actualizo desde mi ordenador con el script de python del repositorio `updateTable.py`, haria falta que el script lo ejecutase github action o sino hacer algo similar como los recursos del siguiente punto.
+Ahora las tablas las actualizo desde mi ordenador con el script de python del repositorio `CreateReadme_XX.py`, haria falta que el script lo ejecutase github action o sino hacer algo similar como los recursos del siguiente punto.
 - Use [GitHub actions](https://github.com/features/actions) to make the tables update automatically when modifying the repository (`PUSH`). Some resources: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 
 ## Contributors
