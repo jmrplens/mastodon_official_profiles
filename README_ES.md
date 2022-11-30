@@ -91,11 +91,10 @@ La lista está abierta a:
    * [Fuentes de información relevantes](#fuentes-de-información-relevantes)
 <!--te-->
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Australia
 
-## Australia
-
-### Divulgación científica
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">Divulgación científica
 
 | Name                | Mastodon profile                           | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -103,7 +102,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](australia/SCIENTIFIC_DISSEMINATION.csv)
 
-### Institutos, sociedades y revistas científicas
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                     | Mastodon profile               | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -113,11 +112,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Austria
 
-## Austria
-
-### Institutos, sociedades y revistas científicas
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                                            | Mastodon profile                 | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------------------------|:---------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -127,11 +125,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Canada
 
-## Canada
-
-### Universidades
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                   | Mastodon profile                 | Web                       | Country   | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:---------------------------------|:--------------------------|:----------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -144,11 +141,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">European Union
 
-## European Union
-
-### Fundaciones
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/FOUNDATIONS.svg" alt="Country">Fundaciones
 
 | Name                 | Mastodon profile                            | Web                             | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:--------------------------------------------|:--------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -156,7 +152,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/FOUNDATIONS.csv)
 
-### Instituciones
+### <img align="left" height="40" src=".resources/icons/INSTITUTIONS.svg" alt="Country">Instituciones
 
 | Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country        | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
 |:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:---------------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
@@ -180,7 +176,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/INSTITUTIONS.csv)
 
-### Institutos, sociedades y revistas científicas
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                          | Mastodon profile                    | Web              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:------------------------------------|:-----------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -188,7 +184,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-### Medios de comunicación
+### <img align="left" height="40" src=".resources/icons/MEDIA.svg" alt="Country">Medios de comunicación
 
 | Name       | Mastodon profile                    | Web                       | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------|:------------------------------------|:--------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -198,7 +194,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/MEDIA.csv)
 
-### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+### <img align="left" height="40" src=".resources/icons/NPO_NGO.svg" alt="Country">Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
 
 | Name                                   | Mastodon profile                 | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------------------|:---------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -208,7 +204,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/NPO_NGO.csv)
 
-### Política
+### <img align="left" height="40" src=".resources/icons/POLICY.svg" alt="Country">Política
 
 | Name               | Mastodon profile             | Web                                     | Country        | Language   | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
 |:-------------------|:-----------------------------|:----------------------------------------|:---------------|:-----------|:--------------|:-------------------------------|:---------------------------------|:-----------|
@@ -218,25 +214,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Germany
 
-## France
-
-### Plataformas
-
-| Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |   Keywords |
-|:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|-----------:|
-| Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | France    | Multi      | Global        | Donations platform | 10/12/2017                       |        nan |
-
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/PLATFORMS.csv)
-
----
-
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
-
-## Germany
-
-### Grupos de investigación científica
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">Grupos de investigación científica
 
 | Name                   | Mastodon profile               | Web                                                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------|:--------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -244,7 +225,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_RESEARCH_GROUPS.csv)
 
-### Instituciones
+### <img align="left" height="40" src=".resources/icons/INSTITUTIONS.svg" alt="Country">Instituciones
 
 | Name                           | Mastodon profile                              | Web                                                                                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:----------------------------------------------|:----------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -303,7 +284,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/INSTITUTIONS.csv)
 
-### Institutos, sociedades y revistas científicas
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                                       | Mastodon profile                  | Web                           | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -314,7 +295,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-### Universidades
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                                      | Mastodon profile                                            | Web                                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------------------|:------------------------------------------------------------|:-------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -357,11 +338,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Global
 
-## Global
-
-### Educación
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/EDUCATION.svg" alt="Country">Educación
 
 | Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -369,7 +349,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/EDUCATION.csv)
 
-### Fundaciones
+### <img align="left" height="40" src=".resources/icons/FOUNDATIONS.svg" alt="Country">Fundaciones
 
 | Name                           | Mastodon profile             | Web                  | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:-----------------------------|:---------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -378,7 +358,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/FOUNDATIONS.csv)
 
-### Institutos, sociedades y revistas científicas
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -386,7 +366,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+### <img align="left" height="40" src=".resources/icons/NPO_NGO.svg" alt="Country">Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
 
 | Name                      | Mastodon profile                               | Web                                | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:-----------------------------------------------|:-----------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
@@ -401,7 +381,15 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/NPO_NGO.csv)
 
-### Software
+### <img align="left" height="40" src=".resources/icons/PLATFORMS.svg" alt="Country">Plataformas
+
+| Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |   Keywords |
+|:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|-----------:|
+| Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | Global    | Multi      | -             | Donations platform | 10/12/2017                       |        nan |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/PLATFORMS.csv)
+
+### <img align="left" height="40" src=".resources/icons/SOFTWARE.svg" alt="Country">Software
 
 | Name                  | Mastodon profile                        | Web                                                 | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:----------------------|:----------------------------------------|:----------------------------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -439,11 +427,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Ireland
 
-## Ireland
-
-### Universidades
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                   | Mastodon profile        | Web                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:------------------------|:-------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -453,11 +440,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Netherlands
 
-## Netherlands
-
-### Grupos de investigación científica
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">Grupos de investigación científica
 
 | Name                   | Mastodon profile                     | Web                                  | Country     | Language   | Other links                                                                    | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------------|:-------------------------------------|:------------|:-----------|:-------------------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -465,7 +451,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](netherlands/SCI_RESEARCH_GROUPS.csv)
 
-### Universidades
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                       | Mastodon profile                             | Web                    | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------|:---------------------------------------------|:-----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -477,11 +463,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">New Zealand
 
-## New Zealand
-
-### Divulgación científica
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">Divulgación científica
 
 | Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -491,11 +476,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Norway
 
-## Norway
-
-### Grupos de investigación científica
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">Grupos de investigación científica
 
 | Name                          | Mastodon profile                  | Web                                                                                                                                                                                 | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -505,11 +489,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Spain
 
-## Spain
-
-### Dibujantes / Viñetistas / Ilustradores
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/CARTOONISTS.svg" alt="Country">Dibujantes / Viñetistas / Ilustradores
 
 | Name             | Mastodon profile                     | Web                                               | Country   | Language          | Other links   | Information            | Mastodon profile creation date   | Keywords   |
 |:-----------------|:-------------------------------------|:--------------------------------------------------|:----------|:------------------|:--------------|:-----------------------|:---------------------------------|:-----------|
@@ -519,7 +502,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/CARTOONISTS.csv)
 
-### Divulgación científica
+### <img align="left" height="40" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">Divulgación científica
 
 | Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -527,7 +510,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCIENTIFIC_DISSEMINATION.csv)
 
-### Escritorxs
+### <img align="left" height="40" src=".resources/icons/WRITERS.svg" alt="Country">Escritorxs
 
 | Name          | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -536,7 +519,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/WRITERS.csv)
 
-### Grupos de investigación científica
+### <img align="left" height="40" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">Grupos de investigación científica
 
 | Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -544,7 +527,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCI_RESEARCH_GROUPS.csv)
 
-### Humoristas
+### <img align="left" height="40" src=".resources/icons/COMEDIANS.svg" alt="Country">Humoristas
 
 | Name             | Mastodon profile                    | Web                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------|:------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -553,7 +536,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/COMEDIANS.csv)
 
-### Medios de comunicación
+### <img align="left" height="40" src=".resources/icons/MEDIA.svg" alt="Country">Medios de comunicación
 
 | Name            | Mastodon profile                       | Web                            | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
 |:----------------|:---------------------------------------|:-------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
@@ -571,7 +554,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MEDIA.csv)
 
-### Músicxs
+### <img align="left" height="40" src=".resources/icons/MUSICIANS.svg" alt="Country">Músicxs
 
 | Name           | Mastodon profile                   | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:-----------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -579,7 +562,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MUSICIANS.csv)
 
-### Periodistas
+### <img align="left" height="40" src=".resources/icons/JOURNALISTS.svg" alt="Country">Periodistas
 
 | Name                     | Mastodon profile                                | Web                                                          | Country   | Language          | Other links   | Information         | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:------------------------------------------------|:-------------------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|:-----------|
@@ -605,7 +588,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/JOURNALISTS.csv)
 
-### Personalidades y personajes famosxs
+### <img align="left" height="40" src=".resources/icons/PERSONALITIES.svg" alt="Country">Personalidades y personajes famosxs
 
 | Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -613,7 +596,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/PERSONALITIES.csv)
 
-### Política
+### <img align="left" height="40" src=".resources/icons/POLICY.svg" alt="Country">Política
 
 | Name                 | Mastodon profile                     | Web                                           | Country   | Language                    | Other links                 | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:-------------------------------------|:----------------------------------------------|:----------|:----------------------------|:----------------------------|:--------------|:---------------------------------|:-----------|
@@ -625,11 +608,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">Switzerland
 
-## Switzerland
-
-### Universidades
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                    | Mastodon profile               | Web                       | Country     | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------|:-------------------------------|:--------------------------|:------------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -639,11 +621,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">United Kingdom
 
-## United Kingdom
-
-### Fundaciones
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/FOUNDATIONS.svg" alt="Country">Fundaciones
 
 | Name                      | Mastodon profile                  | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:----------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -651,7 +632,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/FOUNDATIONS.csv)
 
-### Grupos de investigación científica
+### <img align="left" height="40" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">Grupos de investigación científica
 
 | Name                     | Mastodon profile               | Web                                                                                                                                                | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -661,7 +642,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/SCI_RESEARCH_GROUPS.csv)
 
-### Institutos, sociedades y revistas científicas
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                       | Mastodon profile                           | Web                        | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------|:-------------------------------------------|:---------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -670,7 +651,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+### <img align="left" height="40" src=".resources/icons/NPO_NGO.svg" alt="Country">Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
 
 | Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -678,7 +659,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/NPO_NGO.csv)
 
-### Universidades
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -688,11 +669,10 @@ La lista está abierta a:
 
 ---
 
-<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+## <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">USA
 
-## USA
-
-### Divulgación científica
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>
+### <img align="left" height="40" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">Divulgación científica
 
 | Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -700,7 +680,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCIENTIFIC_DISSEMINATION.csv)
 
-### Grupos de investigación científica
+### <img align="left" height="40" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">Grupos de investigación científica
 
 | Name                     | Mastodon profile                         | Web                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-----------------------------------------|:------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -709,7 +689,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCI_RESEARCH_GROUPS.csv)
 
-### Institutos, sociedades y revistas científicas
+### <img align="left" height="40" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">Institutos, sociedades y revistas científicas
 
 | Name                                                          | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------------------------------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -719,7 +699,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-### Medios de comunicación
+### <img align="left" height="40" src=".resources/icons/MEDIA.svg" alt="Country">Medios de comunicación
 
 | Name           | Mastodon profile                      | Web                        | Country   | Language   | Other links                                               | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:--------------------------------------|:---------------------------|:----------|:-----------|:----------------------------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -727,7 +707,7 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/MEDIA.csv)
 
-### Universidades
+### <img align="left" height="40" src=".resources/icons/UNIVERSITIES.svg" alt="Country">Universidades
 
 | Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links                      | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:---------------------------------|:--------------|:---------------------------------|:-----------|

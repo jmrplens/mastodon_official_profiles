@@ -42,8 +42,8 @@ def gen_by_country(lang):
     # For each country
     for country in country_list:
         # Print Country heading
-        icon_country = '<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">'
-        str_readme = str_readme + icon_country + "\n\n## " + country + "\n\n"
+        icon_country = '<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">'
+        str_readme = str_readme + "## " + icon_country + country + '\n\n<img align="left" height="10" src=".resources/icons/sep.svg" alt="Country"><br>\n'
         #
         profiles_country = df_gen.loc[df_gen["Country"] == country]
         profiles_country.sort_values(by = 'Country', inplace = True,
@@ -54,14 +54,16 @@ def gen_by_country(lang):
         category_list = np.sort(category_list)  # Sort categories
         # For each category
         for category in category_list:
-            # Print Category heading
-            str_readme = str_readme + "### " + category + "\n\n"
             # print(category)
             data = df_gen.loc[(df_gen['Country'] == country) & (df_gen["CATEGORY_"+lang] == category)]
             # Sort by name
             data.sort_values(by = 'Name', inplace = True,
                              key = lambda col: col.str.lower())
             # print(data)
+            # Print Category heading
+            icon_category = '<img align="left" height="40" src=".resources/icons/' + data['FILENAME'].values[0] + '.svg" alt="Country">'
+            str_readme = str_readme + "### " + icon_category + category + "\n\n"
+            # Markdown
             md_table = data.iloc[:, 0:9].to_markdown(index = False)
             # Print Table
             str_readme = str_readme + md_table + "\n\n"
