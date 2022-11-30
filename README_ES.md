@@ -21,81 +21,69 @@ La lista está abierta a:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- param::isNotitle::true:: -->
 
-- [Comunidades Políticas](#comunidades-pol%C3%ADticas)
-  - [Unión Europea](#uni%C3%B3n-europea)
-    - [Instituciones](#instituciones)
-    - [Fundaciones](#fundaciones)
-    - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-%C3%A1nimo-de-lucro--organizaciones-no-gubernamentales)
-    - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas)
-    - [Medios de comunicación](#medios-de-comunicaci%C3%B3n)
-    - [Política](#pol%C3%ADtica)
-- [Paises](#paises)
-  - [Australia](#australia)
-    - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas-1)
-    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica)
-  - [Austria](#austria)
-    - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas-2)
-  - [Alemania](#alemania)
-    - [Universidades](#universidades)
-    - [Instituciones](#instituciones-1)
-    - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas-3)
-    - [Grupos de investigación científica](#grupos-de-investigaci%C3%B3n-cient%C3%ADfica)
-  - [Canada](#canada)
-    - [Universidades](#universidades-1)
-  - [España](#espa%C3%B1a)
-    - [Grupos de investigación científica](#grupos-de-investigaci%C3%B3n-cient%C3%ADfica-1)
-    - [Medios de comunicación](#medios-de-comunicaci%C3%B3n-1)
-    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica-1)
-    - [Periodistas](#periodistas)
-    - [Escritores](#escritores)
-    - [Dibujantes / Viñetistas / Ilustradores](#dibujantes--vi%C3%B1etistas--ilustradores)
-    - [Comedia](#comedia)
-    - [Musicxs](#musicxs)
-    - [Política](#pol%C3%ADtica-1)
-    - [Personalidades y personajes famosxs](#personalidades-y-personajes-famosxs)
-  - [Estados Unidos de América](#estados-unidos-de-am%C3%A9rica)
-    - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas-4)
-    - [Grupos de investigación científica](#grupos-de-investigaci%C3%B3n-cient%C3%ADfica-2)
-    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica-2)
-    - [Universidades](#universidades-2)
-    - [Medios de comunicación](#medios-de-comunicaci%C3%B3n-2)
-  - [Irlanda](#irlanda)
-    - [Universidades](#universidades-3)
-  - [Noruega](#noruega)
-    - [Grupos de investigación científica](#grupos-de-investigaci%C3%B3n-cient%C3%ADfica-3)
-  - [Nueva Zelanda](#nueva-zelanda)
-    - [Divulgación científica](#divulgaci%C3%B3n-cient%C3%ADfica-3)
-  - [Paises bajos](#paises-bajos)
-    - [Universidades](#universidades-4)
-    - [Grupos de investigación científica](#grupos-de-investigaci%C3%B3n-cient%C3%ADfica-4)
-  - [Reino Unido](#reino-unido)
-    - [Universidades](#universidades-5)
-    - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas-5)
-    - [Grupos de investigación científica](#grupos-de-investigaci%C3%B3n-cient%C3%ADfica-5)
-    - [Fundaciones](#fundaciones-1)
-    - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-%C3%A1nimo-de-lucro--organizaciones-no-gubernamentales-1)
-  - [Suiza](#suiza)
-    - [Universidades](#universidades-6)
-- [Global](#global)
-  - [Fundaciones](#fundaciones-2)
-  - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-%C3%A1nimo-de-lucro--organizaciones-no-gubernamentales-2)
-  - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-cient%C3%ADficas-6)
-  - [Educación](#educaci%C3%B3n)
-  - [Plataformas](#plataformas)
-  - [Software](#software)
-- [Ideas (con las que necesito ayuda de personas con conocimientos)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
-- [Colaboradores](#colaboradores)
-- [Fuentes de información relevantes](#fuentes-de-informaci%C3%B3n-relevantes)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Comunidades Políticas
 
-### Unión Europea
 
-#### Instituciones
+## Australia
 
-<!-- CSV start european_union/INSTITUTIONS.csv -->
+### Divulgación científica
+
+| Name                | Mastodon profile                           | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------|:-------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| The Conversation AU | https://mastodon.social/@theconversationau | https://theconversation.com/au | Australia | English    | -             | -             | 18/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](australia/SCIENTIFIC_DISSEMINATION.csv)
+
+### Institutos, sociedades y revistas científicas
+
+| Name                     | Mastodon profile               | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Australian Maths Society | https://mathstodon.xyz/@AustMS | https://austms.org.au/ | Australia | English    | -             | -             | 14/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+
+---
+
+## Austria
+
+### Institutos, sociedades y revistas científicas
+
+| Name                                            | Mastodon profile                 | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------------------------|:---------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Research Institute of Molecular Pathology (IMP) | https://mstdn.science/@IMPvienna | https://www.imp.ac.at/ | Austria   | English    | -             | -             | 08/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+
+---
+
+## Canada
+
+### Universidades
+
+| Name                   | Mastodon profile                 | Web                       | Country   | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:---------------------------------|:--------------------------|:----------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
+| McGill University      | https://mstdn.ca/@mcgillu        | http://www.mcgill.ca/     | Canada    | English / French | -             | -             | 18/11/2022                       | -          |
+| Science politique UdeM | https://mstdn.ca/@Sciencepo_UdeM | https://pol.umontreal.ca/ | Canada    | English / French | -             | -             | 19/11/2022                       | -          |
+| University of Toronto  | https://mstdn.social/@UTM        | https://www.utoronto.ca/  | Canada    | English          | -             | -             | 04/11/2022                       | -          |
+| York University        | https://mstdn.ca/@yorkuniversity | https://www.yorku.ca/     | Canada    | English          | -             | -             | 16/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](canada/UNIVERSITIES.csv)
+
+---
+
+## European Union
+
+### Fundaciones
+
+| Name                 | Mastodon profile                            | Web                             | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------|:--------------------------------------------|:--------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | European Union | English    | -             | -             | 01/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/FOUNDATIONS.csv)
+
+### Instituciones
+
 | Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country        | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
 |:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:---------------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
 | Cour de justice de l'UE                                                                                                     | https://social.network.europa.eu/@Curia_fr      | https://curia.europa.eu/                                                    | European Union | French     | -             | Bot                                          | 01/04/2022                       | -          |
@@ -116,161 +104,70 @@ La lista está abierta a:
 | Open Source Programme Office                                                                                                | https://social.network.europa.eu/@EC_OSPO       | https://joinup.ec.europa.eu/collection/ec-ospo                              | European Union | English    | -             | -                                            | 01/02/2022                       | -          |
 | The Translation Centre for the Bodies                                                                                       | https://social.network.europa.eu/@CDT           | https://cdt.europa.eu/                                                      | European Union | Multi      | -             | -                                            | 01/04/2022                       | -          |
 
-[View .CSV](european_union/INSTITUTIONS.csv)
-<!-- CSV end -->
----
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/INSTITUTIONS.csv)
 
-#### Fundaciones
+### Institutos, sociedades y revistas científicas
 
-<!-- CSV start european_union/FOUNDATIONS.csv -->
-| Name                 | Mastodon profile                            | Web                             | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------|:--------------------------------------------|:--------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | European Union | English    | -             | -             | 01/11/2022                       | -          |
-
-[View .CSV](european_union/FOUNDATIONS.csv)
-<!-- CSV end -->
----
-
-#### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
-
-<!-- CSV start european_union/NPO_NGO.csv -->
-| Name                                   | Mastodon profile                 | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------------------------|:---------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| EU Watch                               | https://eupolicy.social/@euwatch | https://www.euwatch.be/ | European Union | Multi      | -             | -             | 01/11/2022                       | -          |
-| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl    | https://www.ecnl.org/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
-| European Digital Rights (EDRi)         | https://eupolicy.social/@edri    | https://edri.org/       | European Union | English    | -             | -             | 01/11/2022                       | -          |
-
-[View .CSV](european_union/NPO_NGO.csv)
-<!-- CSV end -->
----
-
-#### Institutos, sociedades y revistas científicas
-
-<!-- CSV start european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
 | Name                          | Mastodon profile                    | Web              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:------------------------------------|:-----------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | European Mathematical Society | https://mathstodon.xyz/@EuroMathSoc | euromathsoc.org/ | European Union | English    | -             | -             | 11/11/2022                       | -          |
 
-[View .CSV](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
----
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-#### Medios de comunicación
+### Medios de comunicación
 
-<!-- CSV start european_union/MEDIA.csv -->
 | Name       | Mastodon profile                    | Web                       | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------|:------------------------------------|:--------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | EUobserver | https://eupolicy.social/@euobserver | https://euobserver.com/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
 | EURACTIV   | https://masto.ai/@euractiv          | https://www.euractiv.com/ | European Union | Multi      | -             | -             | 07/11/2022                       | -          |
 | Netopia EU | https://eupolicy.social/@netopia    | https://www.netopia.eu/   | European Union | English    | -             | -             | 01/10/2022                       | -          |
 
-[View .CSV](european_union/MEDIA.csv)
-<!-- CSV end -->
----
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/MEDIA.csv)
 
-#### Política
+### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
 
-<!-- CSV start european_union/POLICY.csv -->
+| Name                                   | Mastodon profile                 | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------------------|:---------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| EU Watch                               | https://eupolicy.social/@euwatch | https://www.euwatch.be/ | European Union | Multi      | -             | -             | 01/11/2022                       | -          |
+| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl    | https://www.ecnl.org/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
+| European Digital Rights (EDRi)         | https://eupolicy.social/@edri    | https://edri.org/       | European Union | English    | -             | -             | 01/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/NPO_NGO.csv)
+
+### Política
+
 | Name               | Mastodon profile             | Web                                     | Country        | Language   | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
 |:-------------------|:-----------------------------|:----------------------------------------|:---------------|:-----------|:--------------|:-------------------------------|:---------------------------------|:-----------|
 | Mattias Bjärnemalm | https://eupolicy.social/@Mab | https://www.linkedin.com/in/bjarnemalm/ | European Union | English    | -             | Pirate Parties Network Officer | 01/10/2022                       | -          |
 
-[View .CSV](european_union/POLICY.csv)
-<!-- CSV end -->
----
-
-## Paises
-
-### Australia
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/POLICY.csv)
 
 ---
 
-#### Institutos, sociedades y revistas científicas
+## France
 
-<!-- CSV start australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
-| Name                     | Mastodon profile               | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-------------------------|:-------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Australian Maths Society | https://mathstodon.xyz/@AustMS | https://austms.org.au/ | Australia | English    | -             | -             | 14/11/2022                       | -          |
+### Plataformas
 
-[View .CSV](australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
----
+| Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |   Keywords |
+|:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|-----------:|
+| Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | France    | Multi      | Global        | Donations platform | 10/12/2017                       |        nan |
 
-#### Divulgación científica
-
-<!-- CSV start australia/SCIENTIFIC_DISSEMINATION.csv -->
-| Name                | Mastodon profile                           | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------|:-------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Conversation AU | https://mastodon.social/@theconversationau | https://theconversation.com/au | Australia | English    | -             | -             | 18/11/2022                       | -          |
-
-[View .CSV](australia/SCIENTIFIC_DISSEMINATION.csv)
-<!-- CSV end -->
----
-
-### Austria
-
-#### Institutos, sociedades y revistas científicas
-
-<!-- CSV start austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
-| Name                                            | Mastodon profile                 | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------------------------------|:---------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Research Institute of Molecular Pathology (IMP) | https://mstdn.science/@IMPvienna | https://www.imp.ac.at/ | Austria   | English    | -             | -             | 08/11/2022                       | -          |
-
-[View .CSV](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
----
-
-### Alemania
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/PLATFORMS.csv)
 
 ---
 
-#### Universidades
+## Germany
 
-<!-- CSV start germany/UNIVERSITIES.csv -->
-| Name                                      | Mastodon profile                                            | Web                                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------------------------|:------------------------------------------------------------|:-------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| FAU Erlangen-Nürnberg                     | https://mastodon.social/@FAU                                | https://www.fau.de/                        | Germany   | German     | -             | -             | 24/05/2022                       | -          |
-| FernUniversität in Hagen                  | https://bildung.social/@fernunihagen                        | https://www.fernuni-hagen.de/              | Germany   | German     | -             | -             | 28/10/2022                       | -          |
-| HafenCity Universität (HCU)               | https://mastodon.social/@HCUHamburg                         | https://www.hcu-hamburg.de/                | Germany   | German     | -             | -             | 13/10/2022                       | -          |
-| Heinrich-Heine-Universität                | https://nrw.social/@HHU                                     | https://www.hhu.de/                        | Germany   | German     | -             | -             | 10/11/2022                       | -          |
-| Hochschule Anhalt                         | https://mastodon.social/@hsanhalt                           | https://www.hs-anhalt.de/                  | Germany   | German     | -             | -             | 17/11/2022                       | -          |
-| Hochschule der Medien                     | https://bonn.social/@hdmstuttgart@baw%C3%BC.social          | https://www.hdm-stuttgart.de/              | Germany   | German     | -             | -             | 26/07/2021                       | -          |
-| Hochschule für Gestaltung                 | https://bonn.social/@hfg_gmuend@baw%C3%BC.social            | https://www.hfg-gmuend.de/                 | Germany   | German     | -             | -             | 19/05/2022                       | -          |
-| Hochschule für Wirtschaft und Umwelt      | https://bonn.social/@HfWU@baw%C3%BC.social                  | https://www.hfwu.de/                       | Germany   | German     | -             | -             | 14/11/2022                       | -          |
-| Hochschule Kehl                           | https://mastodon.social/@hochschule_kehl                    | https://www.hs-kehl.de/                    | Germany   | German     | -             | -             | 20/05/2022                       | -          |
-| Hochschule Ravensburg-Weingarten          | https://mastodon.online/@rwu                                | https://www.rwu.de/                        | Germany   | German     | -             | -             | 02/12/2020                       | -          |
-| Hochschule Reutlingen                     | https://bonn.social/@Hochschule_Reutlingen@baw%C3%BC.social | https://www.reutlingen-university.de/home/ | Germany   | German     | -             | -             | 17/05/2022                       | -          |
-| HTW Berlin                                | https://wisskomm.social/@HTW_Berlin                         | https://www.htw-berlin.de/                 | Germany   | German     | -             | -             | 22/11/2022                       | -          |
-| Karlsruher Institut für Technologie (KIT) | https://mastodon.social/@KIT_Karlsruhe                      | https://www.kit.edu/                       | Germany   | German     | -             | -             | 29/07/2021                       | -          |
-| Magdeburg-Stendal University              | https://machteburch.social/@h2international                 | https://www.h2.de/                         | Germany   | German     | -             | -             | 04/08/2021                       | -          |
-| PH Ludwigsburg                            | https://bonn.social/@phludwigsburg@baw%C3%BC.social         | https://www.ph-ludwigsburg.de/             | Germany   | German     | -             | -             | 20/05/2021                       | -          |
-| PH Weingarten                             | https://bonn.social/@phweingarten@baw%C3%BC.social          | https://www.ph-weingarten.de/              | Germany   | German     | -             | -             | 11/04/2022                       | -          |
-| TU Braunschweig                           | https://wisskomm.social/@tubraunschweig                     | https://www.tu-braunschweig.de/            | Germany   | German     | -             | -             | 21/11/2022                       | -          |
-| TU Chemnitz                               | https://mastodon.social/@tuchemnitz                         | https://www.tu-chemnitz.de/                | Germany   | German     | -             | -             | 12/05/2022                       | -          |
-| TU Darmstadt                              | https://darmstadt.social/@TU                                | https://www.tu-darmstadt.de/               | Germany   | German     | -             | -             | 12/11/2022                       | -          |
-| TU München                                | https://mastodon.social/@tu_muenchen                        | https://www.tum.de/                        | Germany   | German     | -             | -             | 18/05/2022                       | -          |
-| Uniklinikum Heidelberg                    | https://xn--baw-joa.social/@uniklinikum_hd                  | https://www.klinikum.uni-heidelberg.de/    | Germany   | German     | -             | -             | 28/11/2022                       | -          |
-| Universität Bremen                        | https://wisskomm.social/@unibremen                          | https://www.uni-bremen.de/                 | Germany   | German     | -             | -             | 22/11/2022                       | -          |
-| Universität Freiburg                      | https://bonn.social/@unifreiburg@baw%C3%BC.social           | https://uni-freiburg.de/                   | Germany   | German     | -             | -             | 04/05/2021                       | -          |
-| Universität Greifswald                    | https://mastodon.social/@unigreifswald                      | https://www.uni-greifswald.de/             | Germany   | German     | -             | -             | 25/06/2021                       | -          |
-| Universität Hohenheim                     | https://bonn.social/@unihohenheim@baw%C3%BC.social          | https://www.uni-hohenheim.de/              | Germany   | German     | -             | -             | 28/04/2021                       | -          |
-| Universität Jena                          | https://mastodon.social/@unijena                            | https://uni-jena.de/                       | Germany   | German     | -             | Bot           | 27/01/2020                       | -          |
-| Universität Kassel                        | https://mastodon.social/@unikassel                          | https://www.uni-kassel.de/                 | Germany   | German     | -             | -             | 17/11/2022                       | -          |
-| Universität Konstanz                      | https://bonn.social/@unikonstanz@baw%C3%BC.social           | https://uni.kn/                            | Germany   | German     | -             | -             | 02/05/2022                       | -          |
-| Universität Mannheim                      | https://bonn.social/@unimannheim@baw%C3%BC.social           | https://www.uni-mannheim.de/               | Germany   | German     | -             | -             | 04/04/2022                       | -          |
-| Universität Oldenburg                     | https://wisskomm.social/@UniOldenburg                       | https://uol.de/                            | Germany   | German     | -             | -             | 28/11/2022                       | -          |
-| Universität Stuttgart                     | https://bonn.social/@Uni_Stuttgart@baw%C3%BC.social         | https://www.uni-stuttgart.de/              | Germany   | German     | -             | -             | 09/05/2022                       | -          |
-| Universität Tübingen                      | https://bonn.social/@unituebingen@baw%C3%BC.social          | https://uni-tuebingen.de/                  | Germany   | German     | -             | -             | 20/07/2021                       | -          |
-| Universität Ulm                           | https://mastodon.social/@UniUlm                             | https://www.uni-ulm.de/                    | Germany   | German     | -             | -             | 06/03/2020                       | -          |
-| Universität zu Köln                       | https://wisskomm.social/@UniKoeln                           | https://www.uni-koeln.de/                  | Germany   | German     | -             | -             | 21/11/2022                       | -          |
+### Grupos de investigación científica
 
-[View .CSV](germany/UNIVERSITIES.csv)
-<!-- CSV end -->
----
+| Name                   | Mastodon profile               | Web                                                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:-------------------------------|:--------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| FIZ ISE Research Group | https://sigmoid.social/@fizise | https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering | Germany   | English    | -             | -             | 27/11/2022                       | -          |
 
-#### Instituciones
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_RESEARCH_GROUPS.csv)
 
-<!-- CSV start germany/INSTITUTIONS.csv -->
+### Instituciones
+
 | Name                           | Mastodon profile                              | Web                                                                                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:----------------------------------------------|:----------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | ADS_Bund                       | https://social.bund.de/@antidiskriminierung   | https://www.antidiskriminierungsstelle.de/                                              | Germany   | German     | -             | -             | 01/11/2022                       | -          |
@@ -326,13 +223,10 @@ La lista está abierta a:
 | Wirtschaft & Klimaschutz       | https://social.bund.de/@BMWK                  | https://www.bmwk.de/Navigation/DE/Home/home.html                                        | Germany   | German     | -             | -             | 01/11/2022                       | -          |
 | ZIF                            | https://social.bund.de/@ZIF                   | https://www.zif-berlin.org/                                                             | Germany   | German     | -             | -             | 01/11/2022                       | -          |
 
-[View .CSV](germany/INSTITUTIONS.csv)
-<!-- CSV end -->
----
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/INSTITUTIONS.csv)
 
-#### Institutos, sociedades y revistas científicas
+### Institutos, sociedades y revistas científicas
 
-<!-- CSV start germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
 | Name                                       | Mastodon profile                  | Web                           | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Institut für Publizistik                   | https://sciences.social/@ifp      | https://www.ifp.uni-mainz.de/ | Germany   | English    | -             | -             | 21/11/2022                       | -          |
@@ -340,420 +234,80 @@ La lista está abierta a:
 | MPI of Molecular Cell Biology and Genetics | https://wisskomm.social/@mpicbg   | https://www.mpi-cbg.de/       | Germany   | English    | -             | -             | 19/11/2022                       | -          |
 | Robert Koch-Institut                       | https://social.bund.de/@RKI       | https://www.rki.de            | Germany   | German     | -             | -             | 11/11/2022                       | -          |
 
-[View .CSV](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
----
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
-#### Grupos de investigación científica
+### Universidades
 
-<!-- CSV start germany/SCI_RESEARCH_GROUPS.csv -->
-| Name                   | Mastodon profile               | Web                                                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------------|:-------------------------------|:--------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| FIZ ISE Research Group | https://sigmoid.social/@fizise | https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering | Germany   | English    | -             | -             | 27/11/2022                       | -          |
+| Name                                      | Mastodon profile                                            | Web                                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------------------|:------------------------------------------------------------|:-------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| FAU Erlangen-Nürnberg                     | https://mastodon.social/@FAU                                | https://www.fau.de/                        | Germany   | German     | -             | -             | 24/05/2022                       | -          |
+| FernUniversität in Hagen                  | https://bildung.social/@fernunihagen                        | https://www.fernuni-hagen.de/              | Germany   | German     | -             | -             | 28/10/2022                       | -          |
+| HafenCity Universität (HCU)               | https://mastodon.social/@HCUHamburg                         | https://www.hcu-hamburg.de/                | Germany   | German     | -             | -             | 13/10/2022                       | -          |
+| Heinrich-Heine-Universität                | https://nrw.social/@HHU                                     | https://www.hhu.de/                        | Germany   | German     | -             | -             | 10/11/2022                       | -          |
+| Hochschule Anhalt                         | https://mastodon.social/@hsanhalt                           | https://www.hs-anhalt.de/                  | Germany   | German     | -             | -             | 17/11/2022                       | -          |
+| Hochschule der Medien                     | https://bonn.social/@hdmstuttgart@baw%C3%BC.social          | https://www.hdm-stuttgart.de/              | Germany   | German     | -             | -             | 26/07/2021                       | -          |
+| Hochschule für Gestaltung                 | https://bonn.social/@hfg_gmuend@baw%C3%BC.social            | https://www.hfg-gmuend.de/                 | Germany   | German     | -             | -             | 19/05/2022                       | -          |
+| Hochschule für Wirtschaft und Umwelt      | https://bonn.social/@HfWU@baw%C3%BC.social                  | https://www.hfwu.de/                       | Germany   | German     | -             | -             | 14/11/2022                       | -          |
+| Hochschule Kehl                           | https://mastodon.social/@hochschule_kehl                    | https://www.hs-kehl.de/                    | Germany   | German     | -             | -             | 20/05/2022                       | -          |
+| Hochschule Ravensburg-Weingarten          | https://mastodon.online/@rwu                                | https://www.rwu.de/                        | Germany   | German     | -             | -             | 02/12/2020                       | -          |
+| Hochschule Reutlingen                     | https://bonn.social/@Hochschule_Reutlingen@baw%C3%BC.social | https://www.reutlingen-university.de/home/ | Germany   | German     | -             | -             | 17/05/2022                       | -          |
+| HTW Berlin                                | https://wisskomm.social/@HTW_Berlin                         | https://www.htw-berlin.de/                 | Germany   | German     | -             | -             | 22/11/2022                       | -          |
+| Karlsruher Institut für Technologie (KIT) | https://mastodon.social/@KIT_Karlsruhe                      | https://www.kit.edu/                       | Germany   | German     | -             | -             | 29/07/2021                       | -          |
+| Magdeburg-Stendal University              | https://machteburch.social/@h2international                 | https://www.h2.de/                         | Germany   | German     | -             | -             | 04/08/2021                       | -          |
+| PH Ludwigsburg                            | https://bonn.social/@phludwigsburg@baw%C3%BC.social         | https://www.ph-ludwigsburg.de/             | Germany   | German     | -             | -             | 20/05/2021                       | -          |
+| PH Weingarten                             | https://bonn.social/@phweingarten@baw%C3%BC.social          | https://www.ph-weingarten.de/              | Germany   | German     | -             | -             | 11/04/2022                       | -          |
+| TU Braunschweig                           | https://wisskomm.social/@tubraunschweig                     | https://www.tu-braunschweig.de/            | Germany   | German     | -             | -             | 21/11/2022                       | -          |
+| TU Chemnitz                               | https://mastodon.social/@tuchemnitz                         | https://www.tu-chemnitz.de/                | Germany   | German     | -             | -             | 12/05/2022                       | -          |
+| TU Darmstadt                              | https://darmstadt.social/@TU                                | https://www.tu-darmstadt.de/               | Germany   | German     | -             | -             | 12/11/2022                       | -          |
+| TU München                                | https://mastodon.social/@tu_muenchen                        | https://www.tum.de/                        | Germany   | German     | -             | -             | 18/05/2022                       | -          |
+| Uniklinikum Heidelberg                    | https://xn--baw-joa.social/@uniklinikum_hd                  | https://www.klinikum.uni-heidelberg.de/    | Germany   | German     | -             | -             | 28/11/2022                       | -          |
+| Universität Bremen                        | https://wisskomm.social/@unibremen                          | https://www.uni-bremen.de/                 | Germany   | German     | -             | -             | 22/11/2022                       | -          |
+| Universität Freiburg                      | https://bonn.social/@unifreiburg@baw%C3%BC.social           | https://uni-freiburg.de/                   | Germany   | German     | -             | -             | 04/05/2021                       | -          |
+| Universität Greifswald                    | https://mastodon.social/@unigreifswald                      | https://www.uni-greifswald.de/             | Germany   | German     | -             | -             | 25/06/2021                       | -          |
+| Universität Hohenheim                     | https://bonn.social/@unihohenheim@baw%C3%BC.social          | https://www.uni-hohenheim.de/              | Germany   | German     | -             | -             | 28/04/2021                       | -          |
+| Universität Jena                          | https://mastodon.social/@unijena                            | https://uni-jena.de/                       | Germany   | German     | -             | Bot           | 27/01/2020                       | -          |
+| Universität Kassel                        | https://mastodon.social/@unikassel                          | https://www.uni-kassel.de/                 | Germany   | German     | -             | -             | 17/11/2022                       | -          |
+| Universität Konstanz                      | https://bonn.social/@unikonstanz@baw%C3%BC.social           | https://uni.kn/                            | Germany   | German     | -             | -             | 02/05/2022                       | -          |
+| Universität Mannheim                      | https://bonn.social/@unimannheim@baw%C3%BC.social           | https://www.uni-mannheim.de/               | Germany   | German     | -             | -             | 04/04/2022                       | -          |
+| Universität Oldenburg                     | https://wisskomm.social/@UniOldenburg                       | https://uol.de/                            | Germany   | German     | -             | -             | 28/11/2022                       | -          |
+| Universität Stuttgart                     | https://bonn.social/@Uni_Stuttgart@baw%C3%BC.social         | https://www.uni-stuttgart.de/              | Germany   | German     | -             | -             | 09/05/2022                       | -          |
+| Universität Tübingen                      | https://bonn.social/@unituebingen@baw%C3%BC.social          | https://uni-tuebingen.de/                  | Germany   | German     | -             | -             | 20/07/2021                       | -          |
+| Universität Ulm                           | https://mastodon.social/@UniUlm                             | https://www.uni-ulm.de/                    | Germany   | German     | -             | -             | 06/03/2020                       | -          |
+| Universität zu Köln                       | https://wisskomm.social/@UniKoeln                           | https://www.uni-koeln.de/                  | Germany   | German     | -             | -             | 21/11/2022                       | -          |
 
-[View .CSV](germany/SCI_RESEARCH_GROUPS.csv)
-<!-- CSV end -->
----
-
-### Canada
-
----
-
-#### Universidades
-
-<!-- CSV start canada/UNIVERSITIES.csv -->
-| Name                   | Mastodon profile                 | Web                       | Country   | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------------|:---------------------------------|:--------------------------|:----------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
-| McGill University      | https://mstdn.ca/@mcgillu        | http://www.mcgill.ca/     | Canada    | English / French | -             | -             | 18/11/2022                       | -          |
-| Science politique UdeM | https://mstdn.ca/@Sciencepo_UdeM | https://pol.umontreal.ca/ | Canada    | English / French | -             | -             | 19/11/2022                       | -          |
-| University of Toronto  | https://mstdn.social/@UTM        | https://www.utoronto.ca/  | Canada    | English          | -             | -             | 04/11/2022                       | -          |
-| York University        | https://mstdn.ca/@yorkuniversity | https://www.yorku.ca/     | Canada    | English          | -             | -             | 16/11/2022                       | -          |
-
-[View .CSV](canada/UNIVERSITIES.csv)
-<!-- CSV end -->
----
-
-### España
-
----
-
-#### Grupos de investigación científica
-
-<!-- CSV start spain/SCI_RESEARCH_GROUPS.csv -->
-| Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| INFOBISOC | https://red.niboe.info/@infobisoc | -     | Spain     | Spanish    | -             | -             | 25/11/2022                       | -          |
-
-[View .CSV](spain/SCI_RESEARCH_GROUPS.csv)
-<!-- CSV end -->
----
-
-#### Medios de comunicación
-
-<!-- CSV start spain/MEDIA.csv -->
-| Name            | Mastodon profile                       | Web                            | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
-|:----------------|:---------------------------------------|:-------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
-| ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/         | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
-| CTXT            | https://mastodon.world/@ctxt           | https://ctxt.es/               | Spain     | Spanish    | -                          | -                     | 18/11/2022                       | -          |
-| El Mundo Today  | https://mastodon.social/@elmundotoday  | https://www.elmundotoday.com/  | Spain     | Spanish    | -                          | Humor / Sátira        | 28/10/2022                       | -          |
-| El Salto Diario | https://mastodon.social/@ElSaltoDiario | https://www.elsaltodiario.com/ | Spain     | Spanish    | https://t.me/elsaltodiario | -                     | 02/09/2021                       | -          |
-| elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/       | Spain     | Spanish    | -                          | -                     | 21/11/2022                       | -          |
-| Electomanía     | https://masto.ai/@electomania          | https://electomania.es/        | Spain     | Spanish    | http://t.me/electomania    | Demoscopia            | 18/11/2022                       | -          |
-| infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/      | Spain     | Spanish    | -                          | -                     | 20/11/2022                       | -          |
-| La Marea        | https://xarxa.cloud/@lamarea           | https://www.lamarea.com/       | Spain     | Spanish    | -                          | BOT                   | 17/01/2020                       | -          |
-| Luzes           | https://mastodon.gal/@Luzes            | https://luzes.gal/             | Spain     | Galego     | -                          | -                     | 12/11/2022                       | -          |
-| Maldita.es      | https://mastodon.social/@malditaes     | https://maldita.es/            | Spain     | Spanish    | -                          | Verificación de bulos | 18/11/2022                       | -          |
-| microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | Spain     | Spanish    | https://t.me/microsiervos  | -                     | 01/08/2018                       | -          |
-
-[View .CSV](spain/MEDIA.csv)
-<!-- CSV end -->
----
-
-#### Divulgación científica
-
-<!-- CSV start spain/SCIENTIFIC_DISSEMINATION.csv -->
-| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Conversation ES | https://newsie.social/@theconversationes | https://theconversation.com/es | Spain     | Spanish    | -             | -             | 18/11/2022                       | -          |
-
-[View .CSV](spain/SCIENTIFIC_DISSEMINATION.csv)
-<!-- CSV end -->
----
-
-#### Periodistas
-
-<!-- CSV start spain/JOURNALISTS.csv -->
-| Name                     | Mastodon profile                                | Web                                                          | Country   | Language          | Other links   | Information         | Mastodon profile creation date   | Keywords   |
-|:-------------------------|:------------------------------------------------|:-------------------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|:-----------|
-| Alba Precedo             | https://mastodon.world/@AlbaPrecedo             | https://www.infolibre.es/autores/alba-precedo/               | Spain     | Spanish           | -             | -                   | 20/11/2022                       | -          |
-| Antonio Maestre          | https://mastodon.social/@_antoniomaestre_/      | https://es.wikipedia.org/wiki/Antonio_Maestre                | Spain     | Spanish           | -             | -                   | 29/12/2019                       | -          |
-| Borja Ventura            | https://newsie.social/@borjaventura             | http://www.borjaventura.com/                                 | Spain     | Spanish           | -             | -                   | 11/11/2022                       | -          |
-| Carlos Cala Barroso      | https://masto.es/@carloscalab                   | https://cadenaser.com/autor/carlos_cala_barroso/a/           | Spain     | Spanish           | -             | -                   | 23/11/2022                       | -          |
-| Dani Domínguez           | https://mastodon.world/@DaniDominguez           | https://www.lamarea.com/author/dani-dominguez/               | Spain     | Spanish / Catalan | -             | -                   | 18/11/2022                       | -          |
-| Elena de Sus             | https://mastodon.world/@elenadesus              | https://ctxt.es/user/profile/elenadesus                      | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
-| Emilio Doménech          | https://mastodon.online/@nanisimo               | https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech           | Spain     | Spanish           | -             | Nanisimo            | 04/11/2022                       | -          |
-| Fernando Hernández Valls | https://masto.ai/@fernandohvalls                | https://www.linkedin.com/in/fernando-h-valls-283452111/      | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
-| Gerardo Tecé             | https://mastodon.world/@gerardotc               | https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9              | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
-| Guillem Martínez         | https://sociale.network/@Guillemmartnez         | https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez          | Spain     | Spanish           | -             | -                   | 08/11/2022                       | -          |
-| Jesús Maraña             | https://mastodon.world/@jesusmarana             | https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a         | Spain     | Spanish           | -             | -                   | 19/11/2022                       | -          |
-| Manuel Rico              | https://mstdn.social/@manuelrico                | https://www.infolibre.es/autores/manuel-rico/                | Spain     | Spanish           | -             | -                   | 13/11/2022                       | -          |
-| Miquel Ramos             | https://mastodont.cat/@Miquel_R                 | https://miquelramos.me/                                      | Spain     | Spanish / Catalan | -             | -                   | 18/11/2022                       | -          |
-| Pedro Vallín             | https://mastodon.social/@pvallin                | https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn              | Spain     | Spanish           | -             | -                   | 29/12/2019                       | -          |
-| Rubén Sánchez            | https://mastodon.social/@RubenSanchezTW         | https://rubensanchez.tw/                                     | Spain     | Spanish           | -             | -                   | 01/10/2018                       | -          |
-| Vanesa Jiménez           | https://mastodon.world/@vjimenez                | https://ctxt.es/user/profile/vanesa                          | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
-| Víctor Olazábal          | https://mastodon.world/@vic_olazabal            | https://www.linkedin.com/in/victor-m-olaz%C3%A1bal-7734a1101 | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
-| Willy Veleta             | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta                     | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
-| Yago Álvarez Barba       | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez             | Spain     | Spanish           | -             | Economista Cabreado | 11/11/2022                       | -          |
-
-[View .CSV](spain/JOURNALISTS.csv)
-<!-- CSV end -->
----
-
-#### Escritores
-
-<!-- CSV start spain/WRITERS.csv -->
-| Name          | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Bob Pop       | https://universeodon.com/@BobPoP      | https://es.wikipedia.org/wiki/Bob_Pop            | Spain     | Spanish    | -             | -             | 08/11/2022                       | -          |
-| Gonzalo Torné | https://mastodon.social/@GonzaloTorne | https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9 | Spain     | Spanish    | -             | -             | 03/10/2018                       | -          |
-
-[View .CSV](spain/WRITERS.csv)
-<!-- CSV end -->
----
-
-#### Dibujantes / Viñetistas / Ilustradores
-
-<!-- CSV start spain/CARTOONISTS.csv -->
-| Name             | Mastodon profile                     | Web                                               | Country   | Language          | Other links   | Information            | Mastodon profile creation date   | Keywords   |
-|:-----------------|:-------------------------------------|:--------------------------------------------------|:----------|:------------------|:--------------|:-----------------------|:---------------------------------|:-----------|
-| Bernardo Vergara | https://mas.to/@bernardovergara      | https://www.eldiario.es/autores/bernardo_vergara/ | Spain     | Spanish           | -             | -                      | 11/11/2022                       | -          |
-| Cirenia Arias    | https://scicomm.xyz/@cireniasketches | http://cienciaenredes.com/cirenia-arias/          | Spain     | Spanish / English | -             | Ilustradora científica | 05/11/2022                       | -          |
-| JRMora           | https://mastodon.social/@jrmora      | https://jrmora.com/                               | Spain     | Spanish           | -             | -                      | 29/12/2019                       | -          |
-
-[View .CSV](spain/CARTOONISTS.csv)
-<!-- CSV end -->
----
-
-#### Comedia
-
-<!-- CSV start spain/COMEDIANS.csv -->
-| Name             | Mastodon profile                    | Web                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------|:------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Anacleto Panceto | https://mastodon.social/@Xuxipc     | https://www.instagram.com/xuxipc/ | Spain     | Spanish    | -             | -             | 06/07/2018                       | -          |
-| norcoreano       | https://mastodon.social/@norcoreano | https://twitter.com/norcoreano    | Spain     | Spanish    | -             | -             | 01/10/2018                       | -          |
-
-[View .CSV](spain/COMEDIANS.csv)
-<!-- CSV end -->
----
-
-#### Musicxs
-
-<!-- CSV start spain/MUSICIANS.csv -->
-| Name           | Mastodon profile                   | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------|:-----------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Ismael Serrano | https://mastodon.la/@serranoismael | https://www.ismaelserrano.com/ | Spain     | Spanish    | -             | -             | 12/11/2022                       | -          |
-
-[View .CSV](spain/MUSICIANS.csv)
-<!-- CSV end -->
----
-
-#### Política
-
-<!-- CSV start spain/POLICY.csv -->
-| Name                 | Mastodon profile                     | Web                                           | Country   | Language                    | Other links                 | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------|:-------------------------------------|:----------------------------------------------|:----------|:----------------------------|:----------------------------|:--------------|:---------------------------------|:-----------|
-| Barcelona en Comú    | https://mastodon.world/@bcnencomu    | https://barcelonaencomu.cat/                  | Spain     | Spanish / Catalan           | https://t.me/bcnencomu      | -             | 18/11/2022                       | -          |
-| Pablo Echenique      | https://todon.eu/@PabloEchenique     | https://es.wikipedia.org/wiki/Pablo_Echenique | Spain     | Spanish                     | https://t.me/PabloEchenique | -             | 13/11/2022                       | -          |
-| Pirates de Catalunya | https://mastodont.cat/@partit_pirata | https://pirates.cat/                          | Spain     | Spanish / Catalan / English | https://t.me/PirataCat      | -             | 14/05/2018                       | -          |
-
-[View .CSV](spain/POLICY.csv)
-<!-- CSV end -->
----
-
-#### Personalidades y personajes famosxs
-
-<!-- CSV start spain/PERSONALITIES.csv -->
-| Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
-|:-------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
-| Chema Alonso | https://ioc.exchange/@chemaalonso | https://www.elladodelmal.com/ | Spain     | Spanish    | https://mypublicinbox.com/ChemaAlonso | -             | 15/11/2022                       | -          |
-
-[View .CSV](spain/PERSONALITIES.csv)
-<!-- CSV end -->
-
-### Estados Unidos de América
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/UNIVERSITIES.csv)
 
 ---
-
-#### Institutos, sociedades y revistas científicas
-
-<!-- CSV start united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
-| Name                                                          | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------------------------------------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Acoustical Society of America                                 | https://fediscience.org/@AcousticalSocietyofAmerica | https://acousticalsociety.org/ | USA       | English    | -             | -             | 07/11/2022                       | -          |
-| Institute for Energy Economics and Financial Analysis (IEEFA) | https://mastodon.energy/@ieefa_institute            | https://ieefa.org/             | USA       | English    | -             | -             | 09/11/2022                       | -          |
-| Society for Glycobiology                                      | https://qoto.org/@SfG                               | https://www.glycobiology.org/  | USA       | English    | -             | -             | 07/11/2022                       | -          |
-
-[View .CSV](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
----
-
-#### Grupos de investigación científica
-
-<!-- CSV start united_states_of_america/SCI_RESEARCH_GROUPS.csv -->
-| Name                     | Mastodon profile                         | Web                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-------------------------|:-----------------------------------------|:------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Max Lab UW Seattle       | https://fediscience.org/@StutteringLabUW | http://faculty.washington.edu/ludomax/lab | USA       | English    | -             | -             | 04/11/2022                       | -          |
-| Taia Wang Research Group | https://mstdn.science/@wanglab           | https://profiles.stanford.edu/taia-wang   | USA       | English    | -             | -             | 07/11/2022                       | -          |
-
-[View .CSV](united_states_of_america/SCI_RESEARCH_GROUPS.csv)
-<!-- CSV end -->
----
-
-#### Divulgación científica
-
-<!-- CSV start united_states_of_america/SCIENTIFIC_DISSEMINATION.csv -->
-| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Conversation US | https://newsie.social/@TheConversationUS | https://theconversation.com/us | USA       | English    | -             | -             | 04/11/2022                       | -          |
-
-[View .CSV](united_states_of_america/SCIENTIFIC_DISSEMINATION.csv)
-<!-- CSV end -->
----
-
-#### Universidades
-
-<!-- CSV start united_states_of_america/UNIVERSITIES.csv -->
-| Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links                      | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:---------------------------------|:--------------|:---------------------------------|:-----------|
-| HCIL at University of Maryland  | https://hci.social/@hcil_umd               | https://hcil.umd.edu/                  | USA       | English    | https://www.youtube.com/@HCILUMD | -             | 05/11/2022                       | -          |
-| IU Maurer School of Law         | https://mastodon.lawprofs.org/@IUMaurerLaw | https://law.indiana.edu/               | USA       | English    | -                                | -             | 09/11/2022                       | -          |
-| MIT Press                       | https://mastodon.mit.edu/@themitpress      | https://mitpress.mit.edu/              | USA       | English    | -                                | -             | 10/11/2022                       | -          |
-| Princeton University            | https://home.social/@princetonuniversity   | https://www.princeton.edu/             | USA       | English    | -                                | -             | 17/11/2022                       | -          |
-| Stanford Law School             | https://masto.ai/@stanfordlaw              | https://law.stanford.edu/              | USA       | English    | -                                | -             | 21/11/2022                       | -          |
-| UC Berkeley School of Law       | https://sfba.social/@berkeleylaw           | https://www.law.berkeley.edu/          | USA       | English    | -                                | -             | 06/11/2022                       | -          |
-| University of California Merced | https://mastodon.social/@universitymerce   | https://graduatedivision.ucmerced.edu/ | USA       | English    | -                                | -             | 22/09/2021                       | -          |
-| University of New Hampshire     | https://mastodon.social/@uofnh             | http://unh.edu/                        | USA       | English    | -                                | -             | 16/11/2022                       | -          |
-
-[View .CSV](united_states_of_america/UNIVERSITIES.csv)
-<!-- CSV end -->
----
-
-#### Medios de comunicación
-
-<!-- CSV start united_states_of_america/MEDIA.csv -->
-| Name           | Mastodon profile                      | Web                        | Country   | Language   | Other links                                               | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------|:--------------------------------------|:---------------------------|:----------|:-----------|:----------------------------------------------------------|:--------------|:---------------------------------|:-----------|
-| Foreign Policy | https://mastodon.world/@foreignpolicy | https://foreignpolicy.com/ | USA       | English    | https://www.linkedin.com/company/foreign-policy-magazine/ | -             | 18/11/2022                       | -          |
-
-[View .CSV](united_states_of_america/MEDIA.csv)
-<!-- CSV end -->
----
-
-### Irlanda
-
----
-
-#### Universidades
-
-<!-- CSV start ireland/UNIVERSITIES.csv -->
-| Name                   | Mastodon profile        | Web                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------------|:------------------------|:-------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| University of Limerick | https://mastodon.ie/@UL | https://www.ul.ie/ | Ireland   | English    | -             | -             | 07/11/2022                       | -          |
-
-[View .CSV](ireland/UNIVERSITIES.csv)
-<!-- CSV end -->
----
-
-### Noruega
-
----
-
-#### Grupos de investigación científica
-
-<!-- CSV start norway/SCI_RESEARCH_GROUPS.csv -->
-| Name                          | Mastodon profile                  | Web                                                                                                                                                                                 | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| MINS Research Group/Faggruppe | https://sciences.social/@minsnord | https://www.nord.no/en/about/faculties-and-centres/faculty-of-social-sciences/research/divisions/miljo-internasjonale-relasjoner-noromrader-og-samfunnssikkerhet/Pages/default.aspx | Norway    | English    | -             | -             | 18/11/2022                       | -          |
-
-[View .CSV](norway/SCI_RESEARCH_GROUPS.csv)
-<!-- CSV end -->
----
-
-### Nueva Zelanda
-
----
-
-#### Divulgación científica
-
-<!-- CSV start new_zealand/SCIENTIFIC_DISSEMINATION.csv -->
-| Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       | -          |
-
-[View .CSV](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
-<!-- CSV end -->
----
-
-### Paises bajos
-
----
-
-#### Universidades
-
-<!-- CSV start netherlands/UNIVERSITIES.csv -->
-| Name                       | Mastodon profile                             | Web                    | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------------|:---------------------------------------------|:-----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Amsterdam Law School - UvA | https://mastodon.social/@amsterdamlawschool  | https://www.uva.nl/law | Netherlands | Dutch      | -             | -             | 30/10/2022                       | -          |
-| Radboud University         | https://mastodon.social/@Radboud_uni         | https://www.ru.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2016                       | -          |
-| Utrecht University         | https://mastodon.online/@UtrechtUniversiteit | https://www.uu.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2022                       | -          |
-
-[View .CSV](netherlands/UNIVERSITIES.csv)
-<!-- CSV end -->
----
-
-#### Grupos de investigación científica
-
-<!-- CSV start netherlands/SCI_RESEARCH_GROUPS.csv -->
-| Name                   | Mastodon profile                     | Web                                  | Country     | Language   | Other links                                                                    | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------------|:-------------------------------------|:-------------------------------------|:------------|:-----------|:-------------------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
-| Dugdale Research Group | https://ecoevo.social/@Hannahdugdale | https://hannahdugdale.wordpress.com/ | Netherlands | English    | https://research.rug.nl/en/organisations/dugdale-group-evolution-of-senescence | -             | 16/11/2022                       | -          |
-
-[View .CSV](netherlands/SCI_RESEARCH_GROUPS.csv)
-<!-- CSV end -->
----
-
-### Reino Unido
-
----
-
-#### Universidades
-
-<!-- CSV start united_kingdom/UNIVERSITIES.csv -->
-| Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| University of Aberdeen | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/ | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
-
-[View .CSV](united_kingdom/UNIVERSITIES.csv)
-<!-- CSV end -->
----
-
-#### Institutos, sociedades y revistas científicas
-
-<!-- CSV start united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
-| Name                       | Mastodon profile                           | Web                        | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------------|:-------------------------------------------|:---------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Royal Astronomical Society | https://astrodon.social/@royalastrosoc     | https://ras.ac.uk/         | United Kingdom | English    | -             | -             | 08/11/2022                       | -          |
-| The Prehistoric Society    | https://mastodonapp.uk/@PrehistoricSociety | www.prehistoricsociety.org | United Kingdom | English    | -             | -             | 26/11/2022                       | -          |
-
-[View .CSV](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
----
-
-#### Grupos de investigación científica
-
-<!-- CSV start united_kingdom/SCI_RESEARCH_GROUPS.csv -->
-| Name                     | Mastodon profile               | Web                                                                                                                                                | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-------------------------|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| ABWC Research Group      | https://mstdn.science/@ABWC    | https://www.wlv.ac.uk/research/institutes-and-centres/rihs---research-institute-in-healthcare-science/animal-behaviour-and-wildlife-conservation-/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
-| Landscape Research Group | https://mas.to/@aboutlandscape | https://landscaperesearch.org/                                                                                                                     | United Kingdom | English    | -             | -             | 10/11/2022                       | -          |
-| LIP Research Group       | https://sciences.social/@lip   | https://wp.lancs.ac.uk/lip/                                                                                                                        | United Kingdom | English    | -             | -             | 14/11/2022                       | -          |
-
-[View .CSV](united_kingdom/SCI_RESEARCH_GROUPS.csv)
-<!-- CSV end -->
----
-
-#### Fundaciones
-
-<!-- CSV start united_kingdom/FOUNDATIONS.csv -->
-| Name                      | Mastodon profile                  | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------------|:----------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Omega Research Foundation | https://mastodon.social/@Omega_RF | https://omegaresearchfoundation.org/ | United Kingdom | English    | -             | -             | 04/11/2022                       | -          |
-
-[View .CSV](united_kingdom/FOUNDATIONS.csv)
-<!-- CSV end -->
----
-
-#### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
-
-<!-- CSV start united_kingdom/NPO_NGO.csv -->
-| Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Open Rights Group | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
-
-[View .CSV](united_kingdom/NPO_NGO.csv)
-<!-- CSV end -->
----
-
-### Suiza
-
----
-
-#### Universidades
-
-<!-- CSV start switzerland/UNIVERSITIES.csv -->
-| Name                    | Mastodon profile               | Web                       | Country     | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------|:-------------------------------|:--------------------------|:------------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
-| CDE, University of Bern | https://mstdn.social/@CDEunibe | https://www.cde.unibe.ch/ | Switzerland | English / German | -             | -             | 10/11/2022                       | -          |
-
-[View .CSV](switzerland/UNIVERSITIES.csv)
-<!-- CSV end -->
 
 ## Global
 
+### Educación
+
+| Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Open Culture | https://toot.community/@openculture | https://openculture.com/ | Global    | English    | -             | -             | 05/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/EDUCATION.csv)
+
 ### Fundaciones
 
-<!-- CSV start global/FOUNDATIONS.csv -->
 | Name                           | Mastodon profile             | Web                  | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:-----------------------------|:---------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Electronic Frontier Foundation | https://mastodon.social/@eff | https://www.eff.org/ | Global    | English    | -             | -             | 04/04/2017                       | -          |
 | Free Software Foundation       | https://hostux.social/@fsf   | https://www.fsf.org/ | Global    | Multi      | -             | -             | 16/12/2019                       | -          |
 
-[View .CSV](global/FOUNDATIONS.csv)
-<!-- CSV end -->
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/FOUNDATIONS.csv)
+
+### Institutos, sociedades y revistas científicas
+
+| Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | Global    | English    | -             | -             | 07/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
 
-<!-- CSV start global/NPO_NGO.csv -->
 | Name                      | Mastodon profile                               | Web                                | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:-----------------------------------------------|:-----------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
 | Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights       | https://cartoonistsrights.org/     | Global    | English           | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
@@ -765,42 +319,10 @@ La lista está abierta a:
 | The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/            | Global    | Multi             | -                              | -             | 03/04/2017                       | -          |
 | Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/               | Global    | English / Spanish | -                              | -             | 18/11/2022                       | -          |
 
-[View .CSV](global/NPO_NGO.csv)
-<!-- CSV end -->
-
-### Institutos, sociedades y revistas científicas
-
-<!-- CSV start global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
-| Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | Global    | English    | -             | -             | 07/11/2022                       | -          |
-
-[View .CSV](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
-<!-- CSV end -->
-
-### Educación
-
-<!-- CSV start global/EDUCATION.csv -->
-| Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Open Culture | https://toot.community/@openculture | https://openculture.com/ | Global    | English    | -             | -             | 05/11/2022                       | -          |
-
-[View .CSV](global/EDUCATION.csv)
-<!-- CSV end -->
-
-### Plataformas
-
-<!-- CSV start global/PLATFORMS.csv -->
-| Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   | CATEGORY_EN   |
-|:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|:--------------|
-| Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | France    | Multi      | Global        | Donations platform | 10/12/2017                       | Platforms     |
-
-[View .CSV](global/PLATFORMS.csv)
-<!-- CSV end -->
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/NPO_NGO.csv)
 
 ### Software
 
-<!-- CSV start global/SOFTWARE.csv -->
 | Name                  | Mastodon profile                        | Web                                                 | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:----------------------|:----------------------------------------|:----------------------------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
 | Arch Linux            | https://pokemon.men/@archlinux          | https://archlinux.org/                              | Global    | English    | -                                     | Bot           | 06/05/2019                       | -          |
@@ -833,8 +355,298 @@ La lista está abierta a:
 | VideoLAN              | https://floss.social/@videolan          | https://www.videolan.org/                           | Global    | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       | -          |
 | Vivaldi               | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/                                | Global    | Multi      | -                                     | -             | 13/11/2022                       | -          |
 
-[View .CSV](global/SOFTWARE.csv)
-<!-- CSV end -->
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SOFTWARE.csv)
+
+---
+
+## Ireland
+
+### Universidades
+
+| Name                   | Mastodon profile        | Web                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:------------------------|:-------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| University of Limerick | https://mastodon.ie/@UL | https://www.ul.ie/ | Ireland   | English    | -             | -             | 07/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](ireland/UNIVERSITIES.csv)
+
+---
+
+## Netherlands
+
+### Grupos de investigación científica
+
+| Name                   | Mastodon profile                     | Web                                  | Country     | Language   | Other links                                                                    | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:-------------------------------------|:-------------------------------------|:------------|:-----------|:-------------------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Dugdale Research Group | https://ecoevo.social/@Hannahdugdale | https://hannahdugdale.wordpress.com/ | Netherlands | English    | https://research.rug.nl/en/organisations/dugdale-group-evolution-of-senescence | -             | 16/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](netherlands/SCI_RESEARCH_GROUPS.csv)
+
+### Universidades
+
+| Name                       | Mastodon profile                             | Web                    | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------|:---------------------------------------------|:-----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Amsterdam Law School - UvA | https://mastodon.social/@amsterdamlawschool  | https://www.uva.nl/law | Netherlands | Dutch      | -             | -             | 30/10/2022                       | -          |
+| Radboud University         | https://mastodon.social/@Radboud_uni         | https://www.ru.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2016                       | -          |
+| Utrecht University         | https://mastodon.online/@UtrechtUniversiteit | https://www.uu.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](netherlands/UNIVERSITIES.csv)
+
+---
+
+## New Zealand
+
+### Divulgación científica
+
+| Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
+
+---
+
+## Norway
+
+### Grupos de investigación científica
+
+| Name                          | Mastodon profile                  | Web                                                                                                                                                                                 | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| MINS Research Group/Faggruppe | https://sciences.social/@minsnord | https://www.nord.no/en/about/faculties-and-centres/faculty-of-social-sciences/research/divisions/miljo-internasjonale-relasjoner-noromrader-og-samfunnssikkerhet/Pages/default.aspx | Norway    | English    | -             | -             | 18/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](norway/SCI_RESEARCH_GROUPS.csv)
+
+---
+
+## Spain
+
+### Dibujantes / Viñetistas / Ilustradores
+
+| Name             | Mastodon profile                     | Web                                               | Country   | Language          | Other links   | Information            | Mastodon profile creation date   | Keywords   |
+|:-----------------|:-------------------------------------|:--------------------------------------------------|:----------|:------------------|:--------------|:-----------------------|:---------------------------------|:-----------|
+| Bernardo Vergara | https://mas.to/@bernardovergara      | https://www.eldiario.es/autores/bernardo_vergara/ | Spain     | Spanish           | -             | -                      | 11/11/2022                       | -          |
+| Cirenia Arias    | https://scicomm.xyz/@cireniasketches | http://cienciaenredes.com/cirenia-arias/          | Spain     | Spanish / English | -             | Ilustradora científica | 05/11/2022                       | -          |
+| JRMora           | https://mastodon.social/@jrmora      | https://jrmora.com/                               | Spain     | Spanish           | -             | -                      | 29/12/2019                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/CARTOONISTS.csv)
+
+### Divulgación científica
+
+| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| The Conversation ES | https://newsie.social/@theconversationes | https://theconversation.com/es | Spain     | Spanish    | -             | -             | 18/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCIENTIFIC_DISSEMINATION.csv)
+
+### Escritorxs
+
+| Name          | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Bob Pop       | https://universeodon.com/@BobPoP      | https://es.wikipedia.org/wiki/Bob_Pop            | Spain     | Spanish    | -             | -             | 08/11/2022                       | -          |
+| Gonzalo Torné | https://mastodon.social/@GonzaloTorne | https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9 | Spain     | Spanish    | -             | -             | 03/10/2018                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/WRITERS.csv)
+
+### Grupos de investigación científica
+
+| Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| INFOBISOC | https://red.niboe.info/@infobisoc | -     | Spain     | Spanish    | -             | -             | 25/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCI_RESEARCH_GROUPS.csv)
+
+### Humoristas
+
+| Name             | Mastodon profile                    | Web                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------|:------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Anacleto Panceto | https://mastodon.social/@Xuxipc     | https://www.instagram.com/xuxipc/ | Spain     | Spanish    | -             | -             | 06/07/2018                       | -          |
+| norcoreano       | https://mastodon.social/@norcoreano | https://twitter.com/norcoreano    | Spain     | Spanish    | -             | -             | 01/10/2018                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/COMEDIANS.csv)
+
+### Medios de comunicación
+
+| Name            | Mastodon profile                       | Web                            | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
+|:----------------|:---------------------------------------|:-------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
+| ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/         | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
+| CTXT            | https://mastodon.world/@ctxt           | https://ctxt.es/               | Spain     | Spanish    | -                          | -                     | 18/11/2022                       | -          |
+| El Mundo Today  | https://mastodon.social/@elmundotoday  | https://www.elmundotoday.com/  | Spain     | Spanish    | -                          | Humor / Sátira        | 28/10/2022                       | -          |
+| El Salto Diario | https://mastodon.social/@ElSaltoDiario | https://www.elsaltodiario.com/ | Spain     | Spanish    | https://t.me/elsaltodiario | -                     | 02/09/2021                       | -          |
+| elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/       | Spain     | Spanish    | -                          | -                     | 21/11/2022                       | -          |
+| Electomanía     | https://masto.ai/@electomania          | https://electomania.es/        | Spain     | Spanish    | http://t.me/electomania    | Demoscopia            | 18/11/2022                       | -          |
+| infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/      | Spain     | Spanish    | -                          | -                     | 20/11/2022                       | -          |
+| La Marea        | https://xarxa.cloud/@lamarea           | https://www.lamarea.com/       | Spain     | Spanish    | -                          | BOT                   | 17/01/2020                       | -          |
+| Luzes           | https://mastodon.gal/@Luzes            | https://luzes.gal/             | Spain     | Galego     | -                          | -                     | 12/11/2022                       | -          |
+| Maldita.es      | https://mastodon.social/@malditaes     | https://maldita.es/            | Spain     | Spanish    | -                          | Verificación de bulos | 18/11/2022                       | -          |
+| microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | Spain     | Spanish    | https://t.me/microsiervos  | -                     | 01/08/2018                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MEDIA.csv)
+
+### Músicxs
+
+| Name           | Mastodon profile                   | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------|:-----------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Ismael Serrano | https://mastodon.la/@serranoismael | https://www.ismaelserrano.com/ | Spain     | Spanish    | -             | -             | 12/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MUSICIANS.csv)
+
+### Periodistas
+
+| Name                     | Mastodon profile                                | Web                                                          | Country   | Language          | Other links   | Information         | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:------------------------------------------------|:-------------------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|:-----------|
+| Alba Precedo             | https://mastodon.world/@AlbaPrecedo             | https://www.infolibre.es/autores/alba-precedo/               | Spain     | Spanish           | -             | -                   | 20/11/2022                       | -          |
+| Antonio Maestre          | https://mastodon.social/@_antoniomaestre_/      | https://es.wikipedia.org/wiki/Antonio_Maestre                | Spain     | Spanish           | -             | -                   | 29/12/2019                       | -          |
+| Borja Ventura            | https://newsie.social/@borjaventura             | http://www.borjaventura.com/                                 | Spain     | Spanish           | -             | -                   | 11/11/2022                       | -          |
+| Carlos Cala Barroso      | https://masto.es/@carloscalab                   | https://cadenaser.com/autor/carlos_cala_barroso/a/           | Spain     | Spanish           | -             | -                   | 23/11/2022                       | -          |
+| Dani Domínguez           | https://mastodon.world/@DaniDominguez           | https://www.lamarea.com/author/dani-dominguez/               | Spain     | Spanish / Catalan | -             | -                   | 18/11/2022                       | -          |
+| Elena de Sus             | https://mastodon.world/@elenadesus              | https://ctxt.es/user/profile/elenadesus                      | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
+| Emilio Doménech          | https://mastodon.online/@nanisimo               | https://es.wikipedia.org/wiki/Emilio_Dom%C3%A9nech           | Spain     | Spanish           | -             | Nanisimo            | 04/11/2022                       | -          |
+| Fernando Hernández Valls | https://masto.ai/@fernandohvalls                | https://www.linkedin.com/in/fernando-h-valls-283452111/      | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
+| Gerardo Tecé             | https://mastodon.world/@gerardotc               | https://es.wikipedia.org/wiki/Gerardo_Tec%C3%A9              | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
+| Guillem Martínez         | https://sociale.network/@Guillemmartnez         | https://es.wikipedia.org/wiki/Guillem_Mart%C3%ADnez          | Spain     | Spanish           | -             | -                   | 08/11/2022                       | -          |
+| Jesús Maraña             | https://mastodon.world/@jesusmarana             | https://es.wikipedia.org/wiki/Jes%C3%BAs_Mara%C3%B1a         | Spain     | Spanish           | -             | -                   | 19/11/2022                       | -          |
+| Manuel Rico              | https://mstdn.social/@manuelrico                | https://www.infolibre.es/autores/manuel-rico/                | Spain     | Spanish           | -             | -                   | 13/11/2022                       | -          |
+| Miquel Ramos             | https://mastodont.cat/@Miquel_R                 | https://miquelramos.me/                                      | Spain     | Spanish / Catalan | -             | -                   | 18/11/2022                       | -          |
+| Pedro Vallín             | https://mastodon.social/@pvallin                | https://es.wikipedia.org/wiki/Pedro_Vall%C3%ADn              | Spain     | Spanish           | -             | -                   | 29/12/2019                       | -          |
+| Rubén Sánchez            | https://mastodon.social/@RubenSanchezTW         | https://rubensanchez.tw/                                     | Spain     | Spanish           | -             | -                   | 01/10/2018                       | -          |
+| Vanesa Jiménez           | https://mastodon.world/@vjimenez                | https://ctxt.es/user/profile/vanesa                          | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
+| Víctor Olazábal          | https://mastodon.world/@vic_olazabal            | https://www.linkedin.com/in/victor-m-olaz%C3%A1bal-7734a1101 | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
+| Willy Veleta             | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta                     | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
+| Yago Álvarez Barba       | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez             | Spain     | Spanish           | -             | Economista Cabreado | 11/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/JOURNALISTS.csv)
+
+### Personalidades y personajes famosxs
+
+| Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
+| Chema Alonso | https://ioc.exchange/@chemaalonso | https://www.elladodelmal.com/ | Spain     | Spanish    | https://mypublicinbox.com/ChemaAlonso | -             | 15/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/PERSONALITIES.csv)
+
+### Política
+
+| Name                 | Mastodon profile                     | Web                                           | Country   | Language                    | Other links                 | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------|:-------------------------------------|:----------------------------------------------|:----------|:----------------------------|:----------------------------|:--------------|:---------------------------------|:-----------|
+| Barcelona en Comú    | https://mastodon.world/@bcnencomu    | https://barcelonaencomu.cat/                  | Spain     | Spanish / Catalan           | https://t.me/bcnencomu      | -             | 18/11/2022                       | -          |
+| Pablo Echenique      | https://todon.eu/@PabloEchenique     | https://es.wikipedia.org/wiki/Pablo_Echenique | Spain     | Spanish                     | https://t.me/PabloEchenique | -             | 13/11/2022                       | -          |
+| Pirates de Catalunya | https://mastodont.cat/@partit_pirata | https://pirates.cat/                          | Spain     | Spanish / Catalan / English | https://t.me/PirataCat      | -             | 14/05/2018                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/POLICY.csv)
+
+---
+
+## Switzerland
+
+### Universidades
+
+| Name                    | Mastodon profile               | Web                       | Country     | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------|:-------------------------------|:--------------------------|:------------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
+| CDE, University of Bern | https://mstdn.social/@CDEunibe | https://www.cde.unibe.ch/ | Switzerland | English / German | -             | -             | 10/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](switzerland/UNIVERSITIES.csv)
+
+---
+
+## United Kingdom
+
+### Fundaciones
+
+| Name                      | Mastodon profile                  | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------|:----------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Omega Research Foundation | https://mastodon.social/@Omega_RF | https://omegaresearchfoundation.org/ | United Kingdom | English    | -             | -             | 04/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/FOUNDATIONS.csv)
+
+### Grupos de investigación científica
+
+| Name                     | Mastodon profile               | Web                                                                                                                                                | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| ABWC Research Group      | https://mstdn.science/@ABWC    | https://www.wlv.ac.uk/research/institutes-and-centres/rihs---research-institute-in-healthcare-science/animal-behaviour-and-wildlife-conservation-/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
+| Landscape Research Group | https://mas.to/@aboutlandscape | https://landscaperesearch.org/                                                                                                                     | United Kingdom | English    | -             | -             | 10/11/2022                       | -          |
+| LIP Research Group       | https://sciences.social/@lip   | https://wp.lancs.ac.uk/lip/                                                                                                                        | United Kingdom | English    | -             | -             | 14/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/SCI_RESEARCH_GROUPS.csv)
+
+### Institutos, sociedades y revistas científicas
+
+| Name                       | Mastodon profile                           | Web                        | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------|:-------------------------------------------|:---------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Royal Astronomical Society | https://astrodon.social/@royalastrosoc     | https://ras.ac.uk/         | United Kingdom | English    | -             | -             | 08/11/2022                       | -          |
+| The Prehistoric Society    | https://mastodonapp.uk/@PrehistoricSociety | www.prehistoricsociety.org | United Kingdom | English    | -             | -             | 26/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+
+### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+
+| Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Open Rights Group | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/NPO_NGO.csv)
+
+### Universidades
+
+| Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| University of Aberdeen | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/ | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/UNIVERSITIES.csv)
+
+---
+
+## USA
+
+### Divulgación científica
+
+| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| The Conversation US | https://newsie.social/@TheConversationUS | https://theconversation.com/us | USA       | English    | -             | -             | 04/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCIENTIFIC_DISSEMINATION.csv)
+
+### Grupos de investigación científica
+
+| Name                     | Mastodon profile                         | Web                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-----------------------------------------|:------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Max Lab UW Seattle       | https://fediscience.org/@StutteringLabUW | http://faculty.washington.edu/ludomax/lab | USA       | English    | -             | -             | 04/11/2022                       | -          |
+| Taia Wang Research Group | https://mstdn.science/@wanglab           | https://profiles.stanford.edu/taia-wang   | USA       | English    | -             | -             | 07/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCI_RESEARCH_GROUPS.csv)
+
+### Institutos, sociedades y revistas científicas
+
+| Name                                                          | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------------------------------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Acoustical Society of America                                 | https://fediscience.org/@AcousticalSocietyofAmerica | https://acousticalsociety.org/ | USA       | English    | -             | -             | 07/11/2022                       | -          |
+| Institute for Energy Economics and Financial Analysis (IEEFA) | https://mastodon.energy/@ieefa_institute            | https://ieefa.org/             | USA       | English    | -             | -             | 09/11/2022                       | -          |
+| Society for Glycobiology                                      | https://qoto.org/@SfG                               | https://www.glycobiology.org/  | USA       | English    | -             | -             | 07/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+
+### Medios de comunicación
+
+| Name           | Mastodon profile                      | Web                        | Country   | Language   | Other links                                               | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------|:--------------------------------------|:---------------------------|:----------|:-----------|:----------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Foreign Policy | https://mastodon.world/@foreignpolicy | https://foreignpolicy.com/ | USA       | English    | https://www.linkedin.com/company/foreign-policy-magazine/ | -             | 18/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/MEDIA.csv)
+
+### Universidades
+
+| Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links                      | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:---------------------------------|:--------------|:---------------------------------|:-----------|
+| HCIL at University of Maryland  | https://hci.social/@hcil_umd               | https://hcil.umd.edu/                  | USA       | English    | https://www.youtube.com/@HCILUMD | -             | 05/11/2022                       | -          |
+| IU Maurer School of Law         | https://mastodon.lawprofs.org/@IUMaurerLaw | https://law.indiana.edu/               | USA       | English    | -                                | -             | 09/11/2022                       | -          |
+| MIT Press                       | https://mastodon.mit.edu/@themitpress      | https://mitpress.mit.edu/              | USA       | English    | -                                | -             | 10/11/2022                       | -          |
+| Princeton University            | https://home.social/@princetonuniversity   | https://www.princeton.edu/             | USA       | English    | -                                | -             | 17/11/2022                       | -          |
+| Stanford Law School             | https://masto.ai/@stanfordlaw              | https://law.stanford.edu/              | USA       | English    | -                                | -             | 21/11/2022                       | -          |
+| UC Berkeley School of Law       | https://sfba.social/@berkeleylaw           | https://www.law.berkeley.edu/          | USA       | English    | -                                | -             | 06/11/2022                       | -          |
+| University of California Merced | https://mastodon.social/@universitymerce   | https://graduatedivision.ucmerced.edu/ | USA       | English    | -                                | -             | 22/09/2021                       | -          |
+| University of New Hampshire     | https://mastodon.social/@uofnh             | http://unh.edu/                        | USA       | English    | -                                | -             | 16/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/UNIVERSITIES.csv)
+
+---
 
 ## Ideas (con las que necesito ayuda de personas con conocimientos)
 

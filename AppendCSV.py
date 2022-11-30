@@ -1,13 +1,8 @@
-# CSV to Markdown in desired locations
+# Append CSV's
 # Jose M. Requena Plens
-# Use the html comments to write markdown tables
-# Between:
-# <!-- CSV start filepath -->
-# <!-- CSV end -->
 
 import glob
 import pandas as pd  # To import CSV and Markdown conversion
-from minsert import MarkdownFile  # To insert Markdown in md.file
 
 # Get all CSV Filepaths
 result = glob.glob('*/**.csv')
@@ -16,26 +11,16 @@ result = glob.glob('*/**.csv')
 dict_csv = {}
 df_append = pd.DataFrame()  # To main.csv file
 for file in result:
-    # Create Keys with filepaths and values with Markdown table
+
     df = pd.read_csv(file)
     df.fillna("-", inplace=True)  # Fill empty cells with "-"
+    # Sort Rows by name account
     df.sort_values(by='Name', inplace=True, key=lambda col: col.str.lower())
-    dfm = df.iloc[:, 0:9]
-    dict_csv[file] = \
-        dfm.to_markdown(index = False) + '\n\n' + '[View .CSV](' + file + ')'
     df.to_csv(file, index = False)  # Update CSV file
-    df_append = pd.concat([df_append,df], ignore_index=True)
+    # Append CSV data to create MAIN.CSV
+    df['FILEPATH'] = file
+    df_append = pd.concat([df_append, df], ignore_index=True)
 
 # Save MAIN.csv
 df_append.sort_values(by='Name', inplace=True, key=lambda col: col.str.lower())
 df_append.to_csv("MAIN.csv", index = False)
-
-# Get .md File
-file = MarkdownFile("README_ES.md")
-# Refresh tables
-file.insert(dict_csv)
-
-# Get .md File
-file = MarkdownFile("README_EN.md")
-# Refresh tables
-file.insert(dict_csv)
