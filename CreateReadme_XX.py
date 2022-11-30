@@ -16,10 +16,14 @@ order_data_by = "Country"  # Available: "Country"
 
 def gen_by_country(lang):
     # print(lang)
+    # Store top header
+    with open('.resources/TOP_HEADER_README_' + lang + '.md', 'r') as file:
+        top_header_text = file.read()
+    str_readme = top_header_text + "\n\n"
     # Store header
     with open('.resources/HEADER_README_' + lang + '.md', 'r') as file:
         header_text = file.read()
-    str_readme = header_text + "\n<!--ts-->\n<!--te-->" + "\n\n"
+    str_readme = str_readme + header_text + "\n<!--ts-->\n<!--te-->" + "\n\n"
     df_gen = df
     # # Translate countries
     # df_gen['Country'] = df_gen['Country'].apply(
