@@ -96,25 +96,25 @@ The list is open to:
 #### Institutions
 
 <!-- CSV start european_union/INSTITUTIONS.csv -->
-| Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country   | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
-|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:----------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
-| Cour de justice de l'UE                                                                                                     | https://social.network.europa.eu/@Curia_fr      | https://curia.europa.eu/                                                    | -         | French     | -             | Bot                                          | 01/04/2022                       | -          |
-| Court of Justice of the EU                                                                                                  | https://social.network.europa.eu/@Curia         | https://curia.europa.eu/                                                    | -         | English    | -             | Bot                                          | 01/04/2022                       | -          |
-| Directorate-General for Informatics                                                                                         | https://social.network.europa.eu/@EC_DIGIT      | https://ec.europa.eu/info/departments/informatics_en                        | -         | Multi      | -             | -                                            | 01/02/2022                       | -          |
-| European Commission                                                                                                         | https://social.network.europa.eu/@EU_Commission | https://ec.europa.eu/                                                       | -         | Multi      | -             | -                                            | 01/04/2022                       | -          |
-| European Data Protection Supervisor                                                                                         | https://social.network.europa.eu/@EDPS          | https://edps.europa.eu/                                                     | -         | Multi      | -             | -                                            | 01/02/2022                       | -          |
-| European Investment Bank                                                                                                    | https://social.network.europa.eu/@eib           | https://www.eib.org/                                                        | -         | Multi      | -             | -                                            | 01/11/2022                       | -          |
-| European Labour Authority                                                                                                   | https://social.network.europa.eu/@ELA           | https://www.ela.europa.eu/                                                  | -         | Multi      | -             | -                                            | 01/06/2022                       | -          |
-| European Ombudsman                                                                                                          | https://social.network.europa.eu/@ombudsman     | https://www.ombudsman.europa.eu/                                            | -         | Multi      | -             | -                                            | 01/03/2022                       | -          |
-| European Union Agency for Fundamental Rights                                                                                | https://social.network.europa.eu/@FRA           | https://fra.europa.eu/                                                      | -         | Multi      | -             | -                                            | 01/03/2022                       | -          |
-| European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice | https://social.network.europa.eu/@EULISA        | https://eulisa.europa.eu/                                                   | -         | English    | -             | -                                            | 01/09/2022                       | -          |
-| European Union Agency for the Space Programme                                                                               | https://social.network.europa.eu/@EUSPA         | https://www.euspa.europa.eu/                                                | -         | English    | -             | -                                            | 01/03/2022                       | -          |
-| European Union External Action                                                                                              | https://social.network.europa.eu/@EEAS          | https://www.eeas.europa.eu/                                                 | -         | Multi      | -             | The Diplomatic Service of the European Union | 01/11/2022                       | -          |
-| European Union Intellectual Property Office                                                                                 | https://social.network.europa.eu/@EUIPO         | https://euipo.europa.eu/                                                    | -         | Multi      | -             | -                                            | 01/05/2022                       | -          |
-| European Union Sanctions                                                                                                    | https://social.network.europa.eu/@EC_Sanctions  | https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures_en | -         | English    | -             | -                                            | 01/11/2022                       | -          |
-| Next Generation Internet                                                                                                    | https://social.network.europa.eu/@EC_NGI        | https://www.ngi.eu/                                                         | -         | English    | -             | -                                            | 01/03/2022                       | -          |
-| Open Source Programme Office                                                                                                | https://social.network.europa.eu/@EC_OSPO       | https://joinup.ec.europa.eu/collection/ec-ospo                              | -         | English    | -             | -                                            | 01/02/2022                       | -          |
-| The Translation Centre for the Bodies                                                                                       | https://social.network.europa.eu/@CDT           | https://cdt.europa.eu/                                                      | -         | Multi      | -             | -                                            | 01/04/2022                       | -          |
+| Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country        | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
+|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:---------------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
+| Cour de justice de l'UE                                                                                                     | https://social.network.europa.eu/@Curia_fr      | https://curia.europa.eu/                                                    | European Union | French     | -             | Bot                                          | 01/04/2022                       | -          |
+| Court of Justice of the EU                                                                                                  | https://social.network.europa.eu/@Curia         | https://curia.europa.eu/                                                    | European Union | English    | -             | Bot                                          | 01/04/2022                       | -          |
+| Directorate-General for Informatics                                                                                         | https://social.network.europa.eu/@EC_DIGIT      | https://ec.europa.eu/info/departments/informatics_en                        | European Union | Multi      | -             | -                                            | 01/02/2022                       | -          |
+| European Commission                                                                                                         | https://social.network.europa.eu/@EU_Commission | https://ec.europa.eu/                                                       | European Union | Multi      | -             | -                                            | 01/04/2022                       | -          |
+| European Data Protection Supervisor                                                                                         | https://social.network.europa.eu/@EDPS          | https://edps.europa.eu/                                                     | European Union | Multi      | -             | -                                            | 01/02/2022                       | -          |
+| European Investment Bank                                                                                                    | https://social.network.europa.eu/@eib           | https://www.eib.org/                                                        | European Union | Multi      | -             | -                                            | 01/11/2022                       | -          |
+| European Labour Authority                                                                                                   | https://social.network.europa.eu/@ELA           | https://www.ela.europa.eu/                                                  | European Union | Multi      | -             | -                                            | 01/06/2022                       | -          |
+| European Ombudsman                                                                                                          | https://social.network.europa.eu/@ombudsman     | https://www.ombudsman.europa.eu/                                            | European Union | Multi      | -             | -                                            | 01/03/2022                       | -          |
+| European Union Agency for Fundamental Rights                                                                                | https://social.network.europa.eu/@FRA           | https://fra.europa.eu/                                                      | European Union | Multi      | -             | -                                            | 01/03/2022                       | -          |
+| European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice | https://social.network.europa.eu/@EULISA        | https://eulisa.europa.eu/                                                   | European Union | English    | -             | -                                            | 01/09/2022                       | -          |
+| European Union Agency for the Space Programme                                                                               | https://social.network.europa.eu/@EUSPA         | https://www.euspa.europa.eu/                                                | European Union | English    | -             | -                                            | 01/03/2022                       | -          |
+| European Union External Action                                                                                              | https://social.network.europa.eu/@EEAS          | https://www.eeas.europa.eu/                                                 | European Union | Multi      | -             | The Diplomatic Service of the European Union | 01/11/2022                       | -          |
+| European Union Intellectual Property Office                                                                                 | https://social.network.europa.eu/@EUIPO         | https://euipo.europa.eu/                                                    | European Union | Multi      | -             | -                                            | 01/05/2022                       | -          |
+| European Union Sanctions                                                                                                    | https://social.network.europa.eu/@EC_Sanctions  | https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures_en | European Union | English    | -             | -                                            | 01/11/2022                       | -          |
+| Next Generation Internet                                                                                                    | https://social.network.europa.eu/@EC_NGI        | https://www.ngi.eu/                                                         | European Union | English    | -             | -                                            | 01/03/2022                       | -          |
+| Open Source Programme Office                                                                                                | https://social.network.europa.eu/@EC_OSPO       | https://joinup.ec.europa.eu/collection/ec-ospo                              | European Union | English    | -             | -                                            | 01/02/2022                       | -          |
+| The Translation Centre for the Bodies                                                                                       | https://social.network.europa.eu/@CDT           | https://cdt.europa.eu/                                                      | European Union | Multi      | -             | -                                            | 01/04/2022                       | -          |
 
 [View .CSV](european_union/INSTITUTIONS.csv)
 <!-- CSV end -->
@@ -123,9 +123,9 @@ The list is open to:
 #### Foundations
 
 <!-- CSV start european_union/FOUNDATIONS.csv -->
-| Name                 | Mastodon profile                            | Web                             | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------|:--------------------------------------------|:--------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | -         | English    | -             | -             | 01/11/2022                       | -          |
+| Name                 | Mastodon profile                            | Web                             | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------|:--------------------------------------------|:--------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | European Union | English    | -             | -             | 01/11/2022                       | -          |
 
 [View .CSV](european_union/FOUNDATIONS.csv)
 <!-- CSV end -->
@@ -134,11 +134,11 @@ The list is open to:
 #### Non profit organizations / Non Governmental Organizations
 
 <!-- CSV start european_union/NPO_NGO.csv -->
-| Name                                   | Mastodon profile                 | Web                     | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:---------------------------------------|:---------------------------------|:------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| EU Watch                               | https://eupolicy.social/@euwatch | https://www.euwatch.be/ | -           | Multi      | -             | -             | 01/11/2022                       | -          |
-| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl    | https://www.ecnl.org/   | Netherlands | English    | -             | -             | 01/11/2022                       | -          |
-| European Digital Rights (EDRi)         | https://eupolicy.social/@edri    | https://edri.org/       | -           | English    | -             | -             | 01/11/2022                       | -          |
+| Name                                   | Mastodon profile                 | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------------------------|:---------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| EU Watch                               | https://eupolicy.social/@euwatch | https://www.euwatch.be/ | European Union | Multi      | -             | -             | 01/11/2022                       | -          |
+| European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl    | https://www.ecnl.org/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
+| European Digital Rights (EDRi)         | https://eupolicy.social/@edri    | https://edri.org/       | European Union | English    | -             | -             | 01/11/2022                       | -          |
 
 [View .CSV](european_union/NPO_NGO.csv)
 <!-- CSV end -->
@@ -147,9 +147,9 @@ The list is open to:
 #### Scientific institutes, societies and journals
 
 <!-- CSV start european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
-| Name                          | Mastodon profile                    | Web              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------------|:------------------------------------|:-----------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| European Mathematical Society | https://mathstodon.xyz/@EuroMathSoc | euromathsoc.org/ | Finland   | English    | -             | -             | 11/11/2022                       | -          |
+| Name                          | Mastodon profile                    | Web              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:------------------------------------|:-----------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| European Mathematical Society | https://mathstodon.xyz/@EuroMathSoc | euromathsoc.org/ | European Union | English    | -             | -             | 11/11/2022                       | -          |
 
 [View .CSV](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 <!-- CSV end -->
@@ -158,11 +158,11 @@ The list is open to:
 #### Media
 
 <!-- CSV start european_union/MEDIA.csv -->
-| Name       | Mastodon profile                    | Web                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------|:------------------------------------|:--------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| EUobserver | https://eupolicy.social/@euobserver | https://euobserver.com/   | -         | English    | -             | -             | 01/11/2022                       | -          |
-| EURACTIV   | https://masto.ai/@euractiv          | https://www.euractiv.com/ | -         | Multi      | -             | -             | 07/11/2022                       | -          |
-| Netopia EU | https://eupolicy.social/@netopia    | https://www.netopia.eu/   | Brussels  | English    | -             | -             | 01/10/2022                       | -          |
+| Name       | Mastodon profile                    | Web                       | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------|:------------------------------------|:--------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| EUobserver | https://eupolicy.social/@euobserver | https://euobserver.com/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
+| EURACTIV   | https://masto.ai/@euractiv          | https://www.euractiv.com/ | European Union | Multi      | -             | -             | 07/11/2022                       | -          |
+| Netopia EU | https://eupolicy.social/@netopia    | https://www.netopia.eu/   | European Union | English    | -             | -             | 01/10/2022                       | -          |
 
 [View .CSV](european_union/MEDIA.csv)
 <!-- CSV end -->
@@ -171,9 +171,9 @@ The list is open to:
 #### Policy
 
 <!-- CSV start european_union/POLICY.csv -->
-| Name               | Mastodon profile             | Web                                     | Country   | Language   | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
-|:-------------------|:-----------------------------|:----------------------------------------|:----------|:-----------|:--------------|:-------------------------------|:---------------------------------|:-----------|
-| Mattias Bjärnemalm | https://eupolicy.social/@Mab | https://www.linkedin.com/in/bjarnemalm/ | Brussels  | English    | -             | Pirate Parties Network Officer | 01/10/2022                       | -          |
+| Name               | Mastodon profile             | Web                                     | Country        | Language   | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
+|:-------------------|:-----------------------------|:----------------------------------------|:---------------|:-----------|:--------------|:-------------------------------|:---------------------------------|:-----------|
+| Mattias Bjärnemalm | https://eupolicy.social/@Mab | https://www.linkedin.com/in/bjarnemalm/ | European Union | English    | -             | Pirate Parties Network Officer | 01/10/2022                       | -          |
 
 [View .CSV](european_union/POLICY.csv)
 <!-- CSV end -->
@@ -422,7 +422,7 @@ The list is open to:
 
 #### Journalists
 
-<!-- CSV start spain/JOURNALIST.csv -->
+<!-- CSV start spain/JOURNALISTS.csv -->
 | Name                     | Mastodon profile                                | Web                                                          | Country   | Language          | Other links   | Information         | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:------------------------------------------------|:-------------------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|:-----------|
 | Alba Precedo             | https://mastodon.world/@AlbaPrecedo             | https://www.infolibre.es/autores/alba-precedo/               | Spain     | Spanish           | -             | -                   | 20/11/2022                       | -          |
@@ -445,7 +445,7 @@ The list is open to:
 | Willy Veleta             | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta                     | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
 | Yago Álvarez Barba       | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez             | Spain     | Spanish           | -             | Economista Cabreado | 11/11/2022                       | -          |
 
-[View .CSV](spain/JOURNALIST.csv)
+[View .CSV](spain/JOURNALISTS.csv)
 <!-- CSV end -->
 ---
 
@@ -745,8 +745,8 @@ The list is open to:
 <!-- CSV start global/FOUNDATIONS.csv -->
 | Name                           | Mastodon profile             | Web                  | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:-----------------------------|:---------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Electronic Frontier Foundation | https://mastodon.social/@eff | https://www.eff.org/ | -         | English    | -             | -             | 04/04/2017                       | -          |
-| Free Software Foundation       | https://hostux.social/@fsf   | https://www.fsf.org/ | -         | Multi      | -             | -             | 16/12/2019                       | -          |
+| Electronic Frontier Foundation | https://mastodon.social/@eff | https://www.eff.org/ | Global    | English    | -             | -             | 04/04/2017                       | -          |
+| Free Software Foundation       | https://hostux.social/@fsf   | https://www.fsf.org/ | Global    | Multi      | -             | -             | 16/12/2019                       | -          |
 
 [View .CSV](global/FOUNDATIONS.csv)
 <!-- CSV end -->
@@ -756,14 +756,14 @@ The list is open to:
 <!-- CSV start global/NPO_NGO.csv -->
 | Name                      | Mastodon profile                               | Web                                | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:-----------------------------------------------|:-----------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
-| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights       | https://cartoonistsrights.org/     | -         | English           | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
-| Fight for the Future      | https://mastodon.fightforthefuture.org/@team   | https://www.fightforthefuture.org/ | -         | English           | -                              | -             | 02/11/2022                       | -          |
-| IFEX                      | https://mastodon.social/@ifex                  | https://ifex.org/                  | -         | Multi             | -                              | -             | 27/07/2022                       | -          |
-| NetBlocks                 | https://mastodon.social/@netblocks             | https://netblocks.org/             | -         | English           | https://t.me/netblocks         | -             | 07/11/2022                       | -          |
-| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs       | https://www.nptechforgood.com/     | -         | English           | -                              | -             | 21/11/2022                       | -          |
-| Tactical Tech             | https://mastodon.cc/@info_activism             | https://tacticaltech.org/          | -         | English           | -                              | -             | 05/04/2017                       | -          |
-| The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/            | -         | Multi             | -                              | -             | 03/04/2017                       | -          |
-| Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/               | -         | English / Spanish | -                              | -             | 18/11/2022                       | -          |
+| Cartoonists Rights (CRNI) | https://newsie.social/@cartoonistsrights       | https://cartoonistsrights.org/     | Global    | English           | https://instagram.com/CRNetInt | -             | 18/11/2022                       | -          |
+| Fight for the Future      | https://mastodon.fightforthefuture.org/@team   | https://www.fightforthefuture.org/ | Global    | English           | -                              | -             | 02/11/2022                       | -          |
+| IFEX                      | https://mastodon.social/@ifex                  | https://ifex.org/                  | Global    | Multi             | -                              | -             | 27/07/2022                       | -          |
+| NetBlocks                 | https://mastodon.social/@netblocks             | https://netblocks.org/             | Global    | English           | https://t.me/netblocks         | -             | 07/11/2022                       | -          |
+| Nonprofit Tech for Good   | https://publicgood.social/@nonprofitorgs       | https://www.nptechforgood.com/     | Global    | English           | -                              | -             | 21/11/2022                       | -          |
+| Tactical Tech             | https://mastodon.cc/@info_activism             | https://tacticaltech.org/          | Global    | English           | -                              | -             | 05/04/2017                       | -          |
+| The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/            | Global    | Multi             | -                              | -             | 03/04/2017                       | -          |
+| Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/               | Global    | English / Spanish | -                              | -             | 18/11/2022                       | -          |
 
 [View .CSV](global/NPO_NGO.csv)
 <!-- CSV end -->
@@ -773,7 +773,7 @@ The list is open to:
 <!-- CSV start global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv -->
 | Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | -         | English    | -             | -             | 07/11/2022                       | -          |
+| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | Global    | English    | -             | -             | 07/11/2022                       | -          |
 
 [View .CSV](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 <!-- CSV end -->
@@ -784,7 +784,7 @@ The list is open to:
 <!-- CSV start global/EDUCATION.csv -->
 | Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Open Culture | https://toot.community/@openculture | https://openculture.com/ | England   | English    | -             | -             | 05/11/2022                       | -          |
+| Open Culture | https://toot.community/@openculture | https://openculture.com/ | Global    | English    | -             | -             | 05/11/2022                       | -          |
 
 [View .CSV](global/EDUCATION.csv)
 <!-- CSV end -->
@@ -792,9 +792,9 @@ The list is open to:
 ### Platforms
 
 <!-- CSV start global/PLATFORMS.csv -->
-| Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |
-|:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|
-| Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | France    | Multi      | -             | Donations platform | 10/12/2017                       |
+| Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   | CATEGORY_EN   |
+|:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|:--------------|
+| Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | France    | Multi      | Global        | Donations platform | 10/12/2017                       | Platforms     |
 
 [View .CSV](global/PLATFORMS.csv)
 <!-- CSV end -->
@@ -802,37 +802,37 @@ The list is open to:
 ### Software
 
 <!-- CSV start global/SOFTWARE.csv -->
-| Name                  | Mastodon profile                        | Web                                                 | Country    | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
-|:----------------------|:----------------------------------------|:----------------------------------------------------|:-----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
-| Arch Linux            | https://pokemon.men/@archlinux          | https://archlinux.org/                              | -          | English    | -                                     | Bot           | 06/05/2019                       | -          |
-| Blender               | https://mastodon.social/@Blender        | https://www.blender.org/                            | -          | English    | -                                     | -             | 14/02/2018                       | -          |
-| F-Droid               | https://floss.social/@fdroidorg         | https://f-droid.org/                                | -          | Multi      | https://gitlab.com/fdroid             | -             | 15/10/2022                       | -          |
-| Fedilab               | https://framapiaf.org/@fedilab          | https://fedilab.app/                                | -          | Multi      | -                                     | Android App   | 21/04/2019                       | -          |
-| FreeCAD               | https://fosstodon.org/@FreeCAD          | https://www.freecad.org/                            | -          | English    | -                                     | -             | 30/12/2018                       | -          |
-| Funkwhale             | https://fosstodon.org/@funkwhale        | https://funkwhale.audio/                            | -          | Multi      | -                                     | -             | 20/11/2021                       | -          |
-| GIMP                  | https://floss.social/@GIMP              | https://gimp.org/                                   | -          | English    | -                                     | -             | 11/10/2022                       | -          |
-| GNOME                 | https://floss.social/@gnome             | https://www.gnome.org/                              | -          | English    | -                                     | -             | 09/07/2018                       | -          |
-| GTK                   | https://floss.social/@GTK               | https://www.gtk.org/                                | -          | English    | -                                     | -             | 10/11/2022                       | -          |
-| Inkscape              | https://mastodon.art/@inkscape          | https://inkscape.org/                               | -          | Multi      | https://gitlab.com/inkscape/inkscape/ | -             | 05/04/2018                       | -          |
-| KDE                   | https://floss.social/@kde               | https://kde.org/                                    | -          | Multi      | -                                     | -             | 07/10/2022                       | -          |
-| Kdenlive              | https://floss.social/@kdenlive          | https://kdenlive.org/                               | -          | Multi      | -                                     | -             | 08/10/2022                       | -          |
-| LibreOffice           | https://fosstodon.org/@libreoffice      | https://www.libreoffice.org/                        | -          | Multi      | -                                     | -             | 20/03/2019                       | -          |
-| Mastodon              | https://mastodon.social/@Mastodon       | https://joinmastodon.org/                           | Germany    | Multi      | -                                     | -             | 23/11/2016                       | -          |
-| Matrix.org            | https://mastodon.matrix.org/@matrix     | https://matrix.org/                                 | -          | English    | -                                     | -             | 01/05/2017                       | -          |
-| Metabolist / Metatext | https://mastodon.social/@metabolist     | http://metabolist.org/                              | -          | Multi      | -                                     | iOS App       | 30/10/2019                       | -          |
-| Nextcloud             | https://mastodon.xyz/@nextcloud         | https://nextcloud.com/                              | -          | Multi      | -                                     | -             | 02/05/2017                       | -          |
-| NLnet Labs            | https://fosstodon.org/@nlnetlabs        | https://nlnetlabs.nl/                               | Netherland | English    | -                                     | -             | 31/10/2022                       | -          |
-| OpenMandriva          | https://linuxrocks.online/@openmandriva | https://www.openmandriva.org/                       | -          | English    | -                                     | -             | 13/02/2021                       | -          |
-| Penpot                | https://fosstodon.org/@penpot           | https://penpot.app/                                 | -          | English    | https://github.com/penpot/            | -             | 16/06/2020                       | -          |
-| Pixelfed              | https://mastodon.social/@pixelfed       | https://pixelfed.org/                               | -          | English    | -                                     | -             | 11/05/2018                       | -          |
-| QGIS                  | https://fosstodon.org/@qgis             | https://qgis.org/                                   | -          | Multi      | -                                     | -             | 01/11/2022                       | -          |
-| The R Foundation      | https://fosstodon.org/@R_Foundation     | https://r-project.org/                              | -          | English    | -                                     | -             | 10/11/2022                       | -          |
-| Thunderbird           | https://mastodon.online/@thunderbird    | https://thunderbird.net/                            | -          | Multi      | -                                     | -             | 25/04/2022                       | -          |
-| Toot!                 | https://mastodon.social/@tootapp        | https://apps.apple.com/app/toot/id1229021451        | -          | Multi      | -                                     | iOS App       | 14/08/2018                       | -          |
-| Tootoise              | https://mastodon.social/@tootoise       | https://apps.apple.com/us/app/tootoise/id1465090190 | -          | Multi      | -                                     | iOS App       | 07/02/2020                       | -          |
-| Tusky                 | https://mastodon.social/@Tusky          | https://tusky.app/                                  | -          | Multi      | -                                     | Android App   | 12/04/2017                       | -          |
-| VideoLAN              | https://floss.social/@videolan          | https://www.videolan.org/                           | -          | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       | -          |
-| Vivaldi               | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/                                | -          | Multi      | -                                     | -             | 13/11/2022                       | -          |
+| Name                  | Mastodon profile                        | Web                                                 | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
+|:----------------------|:----------------------------------------|:----------------------------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
+| Arch Linux            | https://pokemon.men/@archlinux          | https://archlinux.org/                              | Global    | English    | -                                     | Bot           | 06/05/2019                       | -          |
+| Blender               | https://mastodon.social/@Blender        | https://www.blender.org/                            | Global    | English    | -                                     | -             | 14/02/2018                       | -          |
+| F-Droid               | https://floss.social/@fdroidorg         | https://f-droid.org/                                | Global    | Multi      | https://gitlab.com/fdroid             | -             | 15/10/2022                       | -          |
+| Fedilab               | https://framapiaf.org/@fedilab          | https://fedilab.app/                                | Global    | Multi      | -                                     | Android App   | 21/04/2019                       | -          |
+| FreeCAD               | https://fosstodon.org/@FreeCAD          | https://www.freecad.org/                            | Global    | English    | -                                     | -             | 30/12/2018                       | -          |
+| Funkwhale             | https://fosstodon.org/@funkwhale        | https://funkwhale.audio/                            | Global    | Multi      | -                                     | -             | 20/11/2021                       | -          |
+| GIMP                  | https://floss.social/@GIMP              | https://gimp.org/                                   | Global    | English    | -                                     | -             | 11/10/2022                       | -          |
+| GNOME                 | https://floss.social/@gnome             | https://www.gnome.org/                              | Global    | English    | -                                     | -             | 09/07/2018                       | -          |
+| GTK                   | https://floss.social/@GTK               | https://www.gtk.org/                                | Global    | English    | -                                     | -             | 10/11/2022                       | -          |
+| Inkscape              | https://mastodon.art/@inkscape          | https://inkscape.org/                               | Global    | Multi      | https://gitlab.com/inkscape/inkscape/ | -             | 05/04/2018                       | -          |
+| KDE                   | https://floss.social/@kde               | https://kde.org/                                    | Global    | Multi      | -                                     | -             | 07/10/2022                       | -          |
+| Kdenlive              | https://floss.social/@kdenlive          | https://kdenlive.org/                               | Global    | Multi      | -                                     | -             | 08/10/2022                       | -          |
+| LibreOffice           | https://fosstodon.org/@libreoffice      | https://www.libreoffice.org/                        | Global    | Multi      | -                                     | -             | 20/03/2019                       | -          |
+| Mastodon              | https://mastodon.social/@Mastodon       | https://joinmastodon.org/                           | Global    | Multi      | -                                     | -             | 23/11/2016                       | -          |
+| Matrix.org            | https://mastodon.matrix.org/@matrix     | https://matrix.org/                                 | Global    | English    | -                                     | -             | 01/05/2017                       | -          |
+| Metabolist / Metatext | https://mastodon.social/@metabolist     | http://metabolist.org/                              | Global    | Multi      | -                                     | iOS App       | 30/10/2019                       | -          |
+| Nextcloud             | https://mastodon.xyz/@nextcloud         | https://nextcloud.com/                              | Global    | Multi      | -                                     | -             | 02/05/2017                       | -          |
+| NLnet Labs            | https://fosstodon.org/@nlnetlabs        | https://nlnetlabs.nl/                               | Global    | English    | -                                     | -             | 31/10/2022                       | -          |
+| OpenMandriva          | https://linuxrocks.online/@openmandriva | https://www.openmandriva.org/                       | Global    | English    | -                                     | -             | 13/02/2021                       | -          |
+| Penpot                | https://fosstodon.org/@penpot           | https://penpot.app/                                 | Global    | English    | https://github.com/penpot/            | -             | 16/06/2020                       | -          |
+| Pixelfed              | https://mastodon.social/@pixelfed       | https://pixelfed.org/                               | Global    | English    | -                                     | -             | 11/05/2018                       | -          |
+| QGIS                  | https://fosstodon.org/@qgis             | https://qgis.org/                                   | Global    | Multi      | -                                     | -             | 01/11/2022                       | -          |
+| The R Foundation      | https://fosstodon.org/@R_Foundation     | https://r-project.org/                              | Global    | English    | -                                     | -             | 10/11/2022                       | -          |
+| Thunderbird           | https://mastodon.online/@thunderbird    | https://thunderbird.net/                            | Global    | Multi      | -                                     | -             | 25/04/2022                       | -          |
+| Toot!                 | https://mastodon.social/@tootapp        | https://apps.apple.com/app/toot/id1229021451        | Global    | Multi      | -                                     | iOS App       | 14/08/2018                       | -          |
+| Tootoise              | https://mastodon.social/@tootoise       | https://apps.apple.com/us/app/tootoise/id1465090190 | Global    | Multi      | -                                     | iOS App       | 07/02/2020                       | -          |
+| Tusky                 | https://mastodon.social/@Tusky          | https://tusky.app/                                  | Global    | Multi      | -                                     | Android App   | 12/04/2017                       | -          |
+| VideoLAN              | https://floss.social/@videolan          | https://www.videolan.org/                           | Global    | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       | -          |
+| Vivaldi               | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/                                | Global    | Multi      | -                                     | -             | 13/11/2022                       | -          |
 
 [View .CSV](global/SOFTWARE.csv)
 <!-- CSV end -->

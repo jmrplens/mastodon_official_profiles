@@ -1,4 +1,4 @@
-Name,Mastodon profile,Web,Country,Language,Other links,Information,Mastodon profile creation date,Keywords
-EUobserver,https://eupolicy.social/@euobserver,https://euobserver.com/,-,English,-,-,01/11/2022,-
-EURACTIV,https://masto.ai/@euractiv,https://www.euractiv.com/,-,Multi,-,-,07/11/2022,-
-Netopia EU,https://eupolicy.social/@netopia,https://www.netopia.eu/,Brussels,English,-,-,01/10/2022,-
+Name,Mastodon profile,Web,Country,Language,Other links,Information,Mastodon profile creation date,Keywords,CATEGORY_EN,CATEGORY_ES
+EUobserver,https://eupolicy.social/@euobserver,https://euobserver.com/,European Union,English,-,-,01/11/2022,-,Media,Medios de comunicación
+EURACTIV,https://masto.ai/@euractiv,https://www.euractiv.com/,European Union,Multi,-,-,07/11/2022,-,Media,Medios de comunicación
+Netopia EU,https://eupolicy.social/@netopia,https://www.netopia.eu/,European Union,English,-,-,01/10/2022,-,Media,Medios de comunicación

@@ -20,8 +20,9 @@ for file in result:
     df = pd.read_csv(file)
     df.fillna("-", inplace=True)  # Fill empty cells with "-"
     df.sort_values(by='Name', inplace=True, key=lambda col: col.str.lower())
+    dfm = df.iloc[:, 0:9]
     dict_csv[file] = \
-        df.to_markdown(index = False) + '\n\n' + '[View .CSV](' + file + ')'
+        dfm.to_markdown(index = False) + '\n\n' + '[View .CSV](' + file + ')'
     df.to_csv(file, index = False)  # Update CSV file
     df_append = pd.concat([df_append,df], ignore_index=True)
 
