@@ -338,6 +338,17 @@ The list is open to:
 <!-- CSV end -->
 ---
 
+#### Scientific research groups
+
+<!-- CSV start germany/SCI_RESEARCH_GROUPS.csv -->
+| Name                   | Mastodon profile               | Web                                                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:-------------------------------|:--------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| FIZ ISE Research Group | https://sigmoid.social/@fizise | https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering | Germany   | English    | -             | -             | 27/11/2022                       | -          |
+
+[View .CSV](germany/SCI_RESEARCH_GROUPS.csv)
+<!-- CSV end -->
+---
+
 ### Canada
 
 ---
@@ -360,14 +371,14 @@ The list is open to:
 
 ---
 
-#### Universities
+#### Scientific research groups
 
-<!-- CSV start spain/UNIVERSITIES.csv -->
+<!-- CSV start spain/SCI_RESEARCH_GROUPS.csv -->
 | Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | INFOBISOC | https://red.niboe.info/@infobisoc | -     | Spain     | Spanish    | -             | -             | 25/11/2022                       | -          |
 
-[View .CSV](spain/UNIVERSITIES.csv)
+[View .CSV](spain/SCI_RESEARCH_GROUPS.csv)
 <!-- CSV end -->
 ---
 
@@ -503,7 +514,7 @@ The list is open to:
 [View .CSV](spain/PERSONALITIES.csv)
 <!-- CSV end -->
 
-### United States
+### United States of America
 
 ---
 
@@ -517,6 +528,18 @@ The list is open to:
 | Society for Glycobiology                                      | https://qoto.org/@SfG                               | https://www.glycobiology.org/  | USA       | English    | -             | -             | 07/11/2022                       | -          |
 
 [View .CSV](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
+---
+
+#### Scientific research groups
+
+<!-- CSV start united_states_of_america/SCI_RESEARCH_GROUPS.csv -->
+| Name                     | Mastodon profile                         | Web                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-----------------------------------------|:------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Max Lab UW Seattle       | https://fediscience.org/@StutteringLabUW | http://faculty.washington.edu/ludomax/lab | USA       | English    | -             | -             | 04/11/2022                       | -          |
+| Taia Wang Research Group | https://mstdn.science/@wanglab           | https://profiles.stanford.edu/taia-wang   | USA       | English    | -             | -             | 07/11/2022                       | -          |
+
+[View .CSV](united_states_of_america/SCI_RESEARCH_GROUPS.csv)
 <!-- CSV end -->
 ---
 
@@ -575,6 +598,21 @@ The list is open to:
 <!-- CSV end -->
 ---
 
+### Norway
+
+---
+
+#### Scientific research groups
+
+<!-- CSV start norway/SCI_RESEARCH_GROUPS.csv -->
+| Name                          | Mastodon profile                  | Web                                                                                                                                                                                 | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| MINS Research Group/Faggruppe | https://sciences.social/@minsnord | https://www.nord.no/en/about/faculties-and-centres/faculty-of-social-sciences/research/divisions/miljo-internasjonale-relasjoner-noromrader-og-samfunnssikkerhet/Pages/default.aspx | Norway    | English    | -             | -             | 18/11/2022                       | -          |
+
+[View .CSV](norway/SCI_RESEARCH_GROUPS.csv)
+<!-- CSV end -->
+---
+
 ### New Zealand
 
 ---
@@ -607,6 +645,17 @@ The list is open to:
 <!-- CSV end -->
 ---
 
+#### Scientific research groups
+
+<!-- CSV start netherlands/SCI_RESEARCH_GROUPS.csv -->
+| Name                   | Mastodon profile                     | Web                                  | Country     | Language   | Other links                                                                    | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------------|:-------------------------------------|:-------------------------------------|:------------|:-----------|:-------------------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Dugdale Research Group | https://ecoevo.social/@Hannahdugdale | https://hannahdugdale.wordpress.com/ | Netherlands | English    | https://research.rug.nl/en/organisations/dugdale-group-evolution-of-senescence | -             | 16/11/2022                       | -          |
+
+[View .CSV](netherlands/SCI_RESEARCH_GROUPS.csv)
+<!-- CSV end -->
+---
+
 ### United Kingdom
 
 ---
@@ -631,6 +680,19 @@ The list is open to:
 | The Prehistoric Society    | https://mastodonapp.uk/@PrehistoricSociety | www.prehistoricsociety.org | United Kingdom | English    | -             | -             | 26/11/2022                       | -          |
 
 [View .CSV](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+<!-- CSV end -->
+---
+
+#### Scientific research groups
+
+<!-- CSV start united_kingdom/SCI_RESEARCH_GROUPS.csv -->
+| Name                     | Mastodon profile               | Web                                                                                                                                                | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| ABWC Research Group      | https://mstdn.science/@ABWC    | https://www.wlv.ac.uk/research/institutes-and-centres/rihs---research-institute-in-healthcare-science/animal-behaviour-and-wildlife-conservation-/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
+| Landscape Research Group | https://mas.to/@aboutlandscape | https://landscaperesearch.org/                                                                                                                     | United Kingdom | English    | -             | -             | 10/11/2022                       | -          |
+| LIP Research Group       | https://sciences.social/@lip   | https://wp.lancs.ac.uk/lip/                                                                                                                        | United Kingdom | English    | -             | -             | 14/11/2022                       | -          |
+
+[View .CSV](united_kingdom/SCI_RESEARCH_GROUPS.csv)
 <!-- CSV end -->
 ---
 
