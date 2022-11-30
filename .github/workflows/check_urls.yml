@@ -15,3 +15,8 @@ jobs:
 
       - name: Markdown links check
         uses: ruzickap/action-my-markdown-link-checker@v1
+        with:
+          search_paths: |
+            .
+          verbose: true
+
