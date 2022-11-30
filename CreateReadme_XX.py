@@ -62,7 +62,7 @@ def gen_by_country(lang):
             # print(data)
             # Print Category heading
             icon_category = '<img align="left" height="30" src=".resources/icons/' + data['FILENAME'].values[0] + '.svg" alt="Country">'
-            str_readme = str_readme + icon_category + "\n\n### " + category + "\n\n"
+            str_readme = str_readme + icon_category + "\n\n### " + category + '\n\n<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">\n\n'
             # Markdown
             md_table = data.iloc[:, 0:9].to_markdown(index = False)
             # Print Table

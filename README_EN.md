@@ -25,69 +25,6 @@ The list is open to:
 # Table of contents
 
 <!--ts-->
-   * [Australia](#australia)
-      * [Scientific dissemination](#scientific-dissemination)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals)
-   * [Austria](#austria)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-1)
-   * [Canada](#canada)
-      * [Universities](#universities)
-   * [European Union](#european-union)
-      * [Foundations](#foundations)
-      * [Institutions](#institutions)
-      * [Media](#media)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations)
-      * [Policy](#policy)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-2)
-   * [Germany](#germany)
-      * [Institutions](#institutions-1)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-3)
-      * [Scientific research groups](#scientific-research-groups)
-      * [Universities](#universities-1)
-   * [Global](#global)
-      * [Education](#education)
-      * [Foundations](#foundations-1)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-1)
-      * [Platforms](#platforms)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-4)
-      * [Software](#software)
-   * [Ireland](#ireland)
-      * [Universities](#universities-2)
-   * [Netherlands](#netherlands)
-      * [Scientific research groups](#scientific-research-groups-1)
-      * [Universities](#universities-3)
-   * [New Zealand](#new-zealand)
-      * [Scientific dissemination](#scientific-dissemination-1)
-   * [Norway](#norway)
-      * [Scientific research groups](#scientific-research-groups-2)
-   * [Spain](#spain)
-      * [Cartoonists / Illustrators](#cartoonists--illustrators)
-      * [Comedians](#comedians)
-      * [Journalists](#journalists)
-      * [Media](#media-1)
-      * [Musicians](#musicians)
-      * [Personalities and celebrities](#personalities-and-celebrities)
-      * [Policy](#policy-1)
-      * [Scientific dissemination](#scientific-dissemination-2)
-      * [Scientific research groups](#scientific-research-groups-3)
-      * [Writers](#writers)
-   * [Switzerland](#switzerland)
-      * [Universities](#universities-4)
-   * [United Kingdom](#united-kingdom)
-      * [Foundations](#foundations-2)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-2)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-5)
-      * [Scientific research groups](#scientific-research-groups-4)
-      * [Universities](#universities-5)
-   * [USA](#usa)
-      * [Media](#media-2)
-      * [Scientific dissemination](#scientific-dissemination-3)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-6)
-      * [Scientific research groups](#scientific-research-groups-5)
-      * [Universities](#universities-6)
-   * [Ideas (with which I need help from knowledgeable people)](#ideas-with-which-i-need-help-from-knowledgeable-people)
-   * [Contributors](#contributors)
-   * [Relevant sources of information](#relevant-sources-of-information)
 <!--te-->
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
@@ -100,6 +37,8 @@ The list is open to:
 
 ### Scientific dissemination
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                | Mastodon profile                           | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation AU | https://mastodon.social/@theconversationau | https://theconversation.com/au | Australia | English    | -             | -             | 18/11/2022                       | -          |
@@ -109,6 +48,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                     | Mastodon profile               | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -128,6 +69,8 @@ The list is open to:
 
 ### Scientific institutes, societies and journals
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                                            | Mastodon profile                 | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------------------------|:---------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Research Institute of Molecular Pathology (IMP) | https://mstdn.science/@IMPvienna | https://www.imp.ac.at/ | Austria   | English    | -             | -             | 08/11/2022                       | -          |
@@ -145,6 +88,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile                 | Web                       | Country   | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:---------------------------------|:--------------------------|:----------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -167,6 +112,8 @@ The list is open to:
 
 ### Foundations
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                 | Mastodon profile                            | Web                             | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:--------------------------------------------|:--------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | European Union | English    | -             | -             | 01/11/2022                       | -          |
@@ -176,6 +123,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country        | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
 |:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:---------------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
@@ -203,6 +152,8 @@ The list is open to:
 
 ### Media
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name       | Mastodon profile                    | Web                       | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------|:------------------------------------|:--------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | EUobserver | https://eupolicy.social/@euobserver | https://euobserver.com/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
@@ -214,6 +165,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                   | Mastodon profile                 | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------------------|:---------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -227,6 +180,8 @@ The list is open to:
 
 ### Policy
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name               | Mastodon profile             | Web                                     | Country        | Language   | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
 |:-------------------|:-----------------------------|:----------------------------------------|:---------------|:-----------|:--------------|:-------------------------------|:---------------------------------|:-----------|
 | Mattias Bjärnemalm | https://eupolicy.social/@Mab | https://www.linkedin.com/in/bjarnemalm/ | European Union | English    | -             | Pirate Parties Network Officer | 01/10/2022                       | -          |
@@ -236,6 +191,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                          | Mastodon profile                    | Web              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:------------------------------------|:-----------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -254,6 +211,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                           | Mastodon profile                              | Web                                                                                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:----------------------------------------------|:----------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -316,6 +275,8 @@ The list is open to:
 
 ### Scientific institutes, societies and journals
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                                       | Mastodon profile                  | Web                           | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Institut für Publizistik                   | https://sciences.social/@ifp      | https://www.ifp.uni-mainz.de/ | Germany   | English    | -             | -             | 21/11/2022                       | -          |
@@ -329,6 +290,8 @@ The list is open to:
 
 ### Scientific research groups
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                   | Mastodon profile               | Web                                                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------|:--------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | FIZ ISE Research Group | https://sigmoid.social/@fizise | https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering | Germany   | English    | -             | -             | 27/11/2022                       | -          |
@@ -338,6 +301,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                      | Mastodon profile                                            | Web                                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------------------|:------------------------------------------------------------|:-------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -390,6 +355,8 @@ The list is open to:
 
 ### Education
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Open Culture | https://toot.community/@openculture | https://openculture.com/ | Global    | English    | -             | -             | 05/11/2022                       | -          |
@@ -399,6 +366,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Foundations
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                           | Mastodon profile             | Web                  | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:-----------------------------|:---------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -410,6 +379,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                      | Mastodon profile                               | Web                                | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:-----------------------------------------------|:-----------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
@@ -428,6 +399,8 @@ The list is open to:
 
 ### Platforms
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |   Keywords |
 |:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|-----------:|
 | Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | Global    | Multi      | -             | Donations platform | 10/12/2017                       |        nan |
@@ -438,6 +411,8 @@ The list is open to:
 
 ### Scientific institutes, societies and journals
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | Global    | English    | -             | -             | 07/11/2022                       | -          |
@@ -447,6 +422,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/SOFTWARE.svg" alt="Country">
 
 ### Software
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                  | Mastodon profile                        | Web                                                 | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:----------------------|:----------------------------------------|:----------------------------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -494,6 +471,8 @@ The list is open to:
 
 ### Universities
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                   | Mastodon profile        | Web                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:------------------------|:-------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | University of Limerick | https://mastodon.ie/@UL | https://www.ul.ie/ | Ireland   | English    | -             | -             | 07/11/2022                       | -          |
@@ -512,6 +491,8 @@ The list is open to:
 
 ### Scientific research groups
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                   | Mastodon profile                     | Web                                  | Country     | Language   | Other links                                                                    | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------------|:-------------------------------------|:------------|:-----------|:-------------------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | Dugdale Research Group | https://ecoevo.social/@Hannahdugdale | https://hannahdugdale.wordpress.com/ | Netherlands | English    | https://research.rug.nl/en/organisations/dugdale-group-evolution-of-senescence | -             | 16/11/2022                       | -          |
@@ -521,6 +502,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                       | Mastodon profile                             | Web                    | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------|:---------------------------------------------|:-----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -542,6 +525,8 @@ The list is open to:
 
 ### Scientific dissemination
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       | -          |
@@ -559,6 +544,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                          | Mastodon profile                  | Web                                                                                                                                                                                 | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -578,6 +565,8 @@ The list is open to:
 
 ### Cartoonists / Illustrators
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name             | Mastodon profile                     | Web                                               | Country   | Language          | Other links   | Information            | Mastodon profile creation date   | Keywords   |
 |:-----------------|:-------------------------------------|:--------------------------------------------------|:----------|:------------------|:--------------|:-----------------------|:---------------------------------|:-----------|
 | Bernardo Vergara | https://mas.to/@bernardovergara      | https://www.eldiario.es/autores/bernardo_vergara/ | Spain     | Spanish           | -             | -                      | 11/11/2022                       | -          |
@@ -590,6 +579,8 @@ The list is open to:
 
 ### Comedians
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name             | Mastodon profile                    | Web                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------|:------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Anacleto Panceto | https://mastodon.social/@Xuxipc     | https://www.instagram.com/xuxipc/ | Spain     | Spanish    | -             | -             | 06/07/2018                       | -          |
@@ -600,6 +591,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/JOURNALISTS.svg" alt="Country">
 
 ### Journalists
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                     | Mastodon profile                                | Web                                                          | Country   | Language          | Other links   | Information         | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:------------------------------------------------|:-------------------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|:-----------|
@@ -629,6 +622,8 @@ The list is open to:
 
 ### Media
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name            | Mastodon profile                       | Web                            | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
 |:----------------|:---------------------------------------|:-------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
 | ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/         | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
@@ -649,6 +644,8 @@ The list is open to:
 
 ### Musicians
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name           | Mastodon profile                   | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:-----------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Ismael Serrano | https://mastodon.la/@serranoismael | https://www.ismaelserrano.com/ | Spain     | Spanish    | -             | -             | 12/11/2022                       | -          |
@@ -659,6 +656,8 @@ The list is open to:
 
 ### Personalities and celebrities
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
 | Chema Alonso | https://ioc.exchange/@chemaalonso | https://www.elladodelmal.com/ | Spain     | Spanish    | https://mypublicinbox.com/ChemaAlonso | -             | 15/11/2022                       | -          |
@@ -668,6 +667,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/POLICY.svg" alt="Country">
 
 ### Policy
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                 | Mastodon profile                     | Web                                           | Country   | Language                    | Other links                 | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:-------------------------------------|:----------------------------------------------|:----------|:----------------------------|:----------------------------|:--------------|:---------------------------------|:-----------|
@@ -681,6 +682,8 @@ The list is open to:
 
 ### Scientific dissemination
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation ES | https://newsie.social/@theconversationes | https://theconversation.com/es | Spain     | Spanish    | -             | -             | 18/11/2022                       | -          |
@@ -691,6 +694,8 @@ The list is open to:
 
 ### Scientific research groups
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | INFOBISOC | https://red.niboe.info/@infobisoc | -     | Spain     | Spanish    | -             | -             | 25/11/2022                       | -          |
@@ -700,6 +705,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/WRITERS.svg" alt="Country">
 
 ### Writers
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name          | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -720,6 +727,8 @@ The list is open to:
 
 ### Universities
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                    | Mastodon profile               | Web                       | Country     | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------|:-------------------------------|:--------------------------|:------------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
 | CDE, University of Bern | https://mstdn.social/@CDEunibe | https://www.cde.unibe.ch/ | Switzerland | English / German | -             | -             | 10/11/2022                       | -          |
@@ -738,6 +747,8 @@ The list is open to:
 
 ### Foundations
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                      | Mastodon profile                  | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:----------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Omega Research Foundation | https://mastodon.social/@Omega_RF | https://omegaresearchfoundation.org/ | United Kingdom | English    | -             | -             | 04/11/2022                       | -          |
@@ -748,6 +759,8 @@ The list is open to:
 
 ### Non profit organizations / Non Governmental Organizations
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Open Rights Group | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
@@ -757,6 +770,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                       | Mastodon profile                           | Web                        | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------|:-------------------------------------------|:---------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -769,6 +784,8 @@ The list is open to:
 
 ### Scientific research groups
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                     | Mastodon profile               | Web                                                                                                                                                | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | ABWC Research Group      | https://mstdn.science/@ABWC    | https://www.wlv.ac.uk/research/institutes-and-centres/rihs---research-institute-in-healthcare-science/animal-behaviour-and-wildlife-conservation-/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
@@ -780,6 +797,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -799,6 +818,8 @@ The list is open to:
 
 ### Media
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name           | Mastodon profile                      | Web                        | Country   | Language   | Other links                                               | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:--------------------------------------|:---------------------------|:----------|:-----------|:----------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | Foreign Policy | https://mastodon.world/@foreignpolicy | https://foreignpolicy.com/ | USA       | English    | https://www.linkedin.com/company/foreign-policy-magazine/ | -             | 18/11/2022                       | -          |
@@ -809,6 +830,8 @@ The list is open to:
 
 ### Scientific dissemination
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation US | https://newsie.social/@TheConversationUS | https://theconversation.com/us | USA       | English    | -             | -             | 04/11/2022                       | -          |
@@ -818,6 +841,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                                          | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------------------------------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -831,6 +856,8 @@ The list is open to:
 
 ### Scientific research groups
 
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
 | Name                     | Mastodon profile                         | Web                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-----------------------------------------|:------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Max Lab UW Seattle       | https://fediscience.org/@StutteringLabUW | http://faculty.washington.edu/ludomax/lab | USA       | English    | -             | -             | 04/11/2022                       | -          |
@@ -841,6 +868,8 @@ The list is open to:
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links                      | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:---------------------------------|:--------------|:---------------------------------|:-----------|
