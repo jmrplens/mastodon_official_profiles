@@ -5,8 +5,12 @@ import pandas as pd  # To import CSV and Markdown conversion
 import numpy as np
 #  from deep_translator import GoogleTranslator  # To translate Country names and table column names
 
+# First, Append CSV's
+import AppendCSV
+AppendCSV
 
-df = pd.read_csv( "MAIN.csv" )
+
+df = pd.read_csv("MAIN.csv")
 order_data_by = "Country"  # Available: "Country"
 
 
@@ -15,7 +19,7 @@ def gen_by_country(lang):
     # Store header
     with open('.resources/HEADER_README_' + lang + '.md', 'r') as file:
         header_text = file.read()
-    str_readme = header_text + "\n\n"
+    str_readme = header_text + "\n\n<!--ts-->\n<!--te-->" + "\n\n"
     df_gen = df
     # # Translate countries
     # df_gen['Country'] = df_gen['Country'].apply(
