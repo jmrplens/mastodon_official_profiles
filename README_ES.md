@@ -4,7 +4,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
 
-
 # Perfiles oficiales en Mastodon
 
 Este repositorio se ha creado con la siguientes premisas:

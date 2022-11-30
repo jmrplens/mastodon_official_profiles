@@ -4,16 +4,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [LIST](#list)
-  - [Contributors](#contributors)
-  - [Relevant sources of information](#relevant-sources-of-information)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # LIST
 
 <table>
