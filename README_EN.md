@@ -21,74 +21,11 @@ The list is open to:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- param::isNotitle::true:: -->
 
-- [Australia](#australia)
-  - [Scientific dissemination](#scientific-dissemination)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals)
-- [Austria](#austria)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-1)
-- [Canada](#canada)
-  - [Universities](#universities)
-- [European Union](#european-union)
-  - [Foundations](#foundations)
-  - [Institutions](#institutions)
-  - [Media](#media)
-  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations)
-  - [Policy](#policy)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-2)
-- [France](#france)
-  - [Platforms](#platforms)
-- [Germany](#germany)
-  - [Institutions](#institutions-1)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-3)
-  - [Scientific research groups](#scientific-research-groups)
-  - [Universities](#universities-1)
-- [Global](#global)
-  - [Education](#education)
-  - [Foundations](#foundations-1)
-  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-1)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-4)
-  - [Software](#software)
-- [Ireland](#ireland)
-  - [Universities](#universities-2)
-- [Netherlands](#netherlands)
-  - [Scientific research groups](#scientific-research-groups-1)
-  - [Universities](#universities-3)
-- [New Zealand](#new-zealand)
-  - [Scientific dissemination](#scientific-dissemination-1)
-- [Norway](#norway)
-  - [Scientific research groups](#scientific-research-groups-2)
-- [Spain](#spain)
-  - [Cartoonists / Illustrators](#cartoonists--illustrators)
-  - [Comedians](#comedians)
-  - [Journalists](#journalists)
-  - [Media](#media-1)
-  - [Musicians](#musicians)
-  - [Personalities and celebrities](#personalities-and-celebrities)
-  - [Policy](#policy-1)
-  - [Scientific dissemination](#scientific-dissemination-2)
-  - [Scientific research groups](#scientific-research-groups-3)
-  - [Writers](#writers)
-- [Switzerland](#switzerland)
-  - [Universities](#universities-4)
-- [United Kingdom](#united-kingdom)
-  - [Foundations](#foundations-2)
-  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-2)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-5)
-  - [Scientific research groups](#scientific-research-groups-4)
-  - [Universities](#universities-5)
-- [USA](#usa)
-  - [Media](#media-2)
-  - [Scientific dissemination](#scientific-dissemination-3)
-  - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-6)
-  - [Scientific research groups](#scientific-research-groups-5)
-  - [Universities](#universities-6)
-- [Ideas (with which I need help from knowledgeable people)](#ideas-with-which-i-need-help-from-knowledgeable-people)
-- [Contributors](#contributors)
-- [Relevant sources of information](#relevant-sources-of-information)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Australia
 
@@ -110,6 +47,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## Austria
 
 ### Scientific institutes, societies and journals
@@ -121,6 +60,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Canada
 
@@ -136,6 +77,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](canada/UNIVERSITIES.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## European Union
 
@@ -209,6 +152,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## France
 
 ### Platforms
@@ -220,6 +165,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/PLATFORMS.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Germany
 
@@ -344,6 +291,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## Global
 
 ### Education
@@ -424,6 +373,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## Ireland
 
 ### Universities
@@ -435,6 +386,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](ireland/UNIVERSITIES.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Netherlands
 
@@ -458,6 +411,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## New Zealand
 
 ### Scientific dissemination
@@ -470,6 +425,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## Norway
 
 ### Scientific research groups
@@ -481,6 +438,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](norway/SCI_RESEARCH_GROUPS.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Spain
 
@@ -600,6 +559,8 @@ The list is open to:
 
 ---
 
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## Switzerland
 
 ### Universities
@@ -611,6 +572,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](switzerland/UNIVERSITIES.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## United Kingdom
 
@@ -658,6 +621,8 @@ The list is open to:
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/UNIVERSITIES.csv)
 
 ---
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## USA
 
