@@ -70,10 +70,14 @@ def gen_by_country(lang):
             badge = "[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](" + data.iloc[0]["FILEPATH"] + ")"
             str_readme = str_readme + badge + '\n\n'
         str_readme = str_readme + "---\n<br>\n\n"
-
+    # Store Footer
     with open('.resources/FOOTER_README_' + lang + '.md', 'r') as file:
         footer_text = file.read()
-    str_readme = str_readme + footer_text
+    str_readme = str_readme + footer_text  + "\n\n---"
+    # Store Bottom Footer
+    with open( '.resources/BOTTOM_FOOTER_README_' + lang + '.md', 'r' ) as file:
+        bottom_footer_text = file.read()
+    str_readme = str_readme + bottom_footer_text
     # Write .md file
     text_file = open("README_" + lang + ".md", "wt")
     text_file.write(str_readme)
