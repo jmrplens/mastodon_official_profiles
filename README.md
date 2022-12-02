@@ -6,13 +6,19 @@
 
 # LIST
 
-<a href="README_EN.md"><img align="left" src=".resources/buttons/ENGLISH_BUTTON_LIGHT.svg#gh-light-mode-only" alt="View list in English" width="150px"/><img align="left" src=".resources/buttons/ENGLISH_BUTTON_DARK.svg#gh-dark-mode-only" alt="View list in English" width="150px"/></a>
+<a href="README_EN.md">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".resources/buttons/ENGLISH_BUTTON_DARK.svg">
+  <img alt="View list in English" width="150px" src=".resources/buttons/ENGLISH_BUTTON_LIGHT.svg">
+</picture>
+</a>
 <br>
-
-<br>
-<a href="README_ES.md"><img align="left" src=".resources/buttons/SPANISH_BUTTON_LIGHT.svg#gh-light-mode-only" alt="Ver lista en Español" width="150px"/><img align="left" src=".resources/buttons/SPANISH_BUTTON_DARK.svg#gh-dark-mode-only" alt="Ver lista en Español" width="150px"/></a>
-<br>
-<br>
+<a href="README_ES.md">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".resources/buttons/SPANISH_BUTTON_DARK.svg">
+  <img alt="Ver lista en Español" width="150px" src=".resources/buttons/SPANISH_BUTTON_LIGHT.svg">
+</picture>
+</a>
 
 --- 
 
