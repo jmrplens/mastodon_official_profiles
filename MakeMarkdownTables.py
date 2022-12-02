@@ -5,26 +5,20 @@ import pandas as pd  # To import CSV and Markdown conversion
 import numpy as np
 #  from deep_translator import GoogleTranslator  # To translate Country names and table column names
 
-# First, Append CSV's
-import AppendCSV
-AppendCSV
-
-
+# Get Database
 df = pd.read_csv("MAIN.csv")
-order_data_by = "Country"  # Available: "Country"
-
 
 def gen_by_country(lang):
-    # print(lang)
-    # Store top header
-    with open('.resources/TOP_HEADER_README_' + lang + '.md', 'r') as file:
-        top_header_text = file.read()
-    str_readme = top_header_text + "\n\n"
-    # Store header
-    with open('.resources/HEADER_README_' + lang + '.md', 'r') as file:
-        header_text = file.read()
-    str_readme = str_readme + header_text + "\n<!--ts-->\n<!--te-->" + "\n\n"
+    """
+    Make Markdown Tables. Sorted By Country->Categories->Name
+    :param lang:
+    :return:
+    Nothing
+    """
+
+    str_readme = ""
     df_gen = df
+
     # # Translate countries
     # df_gen['Country'] = df_gen['Country'].apply(
     #     lambda x: GoogleTranslator(source = 'auto',
@@ -70,26 +64,13 @@ def gen_by_country(lang):
             badge = "[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](" + data.iloc[0]["FILEPATH"] + ")"
             str_readme = str_readme + badge + '\n\n'
         str_readme = str_readme + "---\n<br>\n\n"
-    # Store Footer
-    with open('.resources/FOOTER_README_' + lang + '.md', 'r') as file:
-        footer_text = file.read()
-    str_readme = str_readme + footer_text  + "\n\n---"
-    # Store Bottom Footer
-    with open( '.resources/BOTTOM_FOOTER_README_' + lang + '.md', 'r' ) as file:
-        bottom_footer_text = file.read()
-    str_readme = str_readme + bottom_footer_text
-    # Write .md file
-    text_file = open("README_" + lang + ".md", "wt")
-    text_file.write(str_readme)
-    text_file.close()
+    return str_readme
 
 
 def generate(orderby, lang):
     func = "gen_by_" + orderby.lower()
-    eval(func + '("' + lang + '")')
-    return
+    str_readme = eval(func + '("' + lang + '")')
+    return str_readme
 
 
-lang_list = ["ES", "EN"]
-for idx in range(len(lang_list)):
-    generate(order_data_by, lang_list[idx])
+

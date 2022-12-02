@@ -5,6 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
 [![DOI](.resources/information/DOI.svg)](https://zenodo.org/badge/latestdoi/569637398)
 
+
 # LIST
 
 <a href="README_EN.md">
@@ -22,7 +23,6 @@
 </a>
 
 --- 
-
 
 ## Contributors
 
