@@ -25,77 +25,6 @@ La lista está abierta a:
 # Índice
 
 <!--ts-->
-   * [Australia](#australia)
-      * [Divulgación científica](#divulgación-científica)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas)
-   * [Austria](#austria)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-1)
-   * [Canada](#canada)
-      * [Universidades](#universidades)
-   * [European Union](#european-union)
-      * [Fundaciones](#fundaciones)
-      * [Instituciones](#instituciones)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-2)
-      * [Medios de comunicación](#medios-de-comunicación)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales)
-      * [Política](#política)
-   * [Germany](#germany)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica)
-      * [Instituciones](#instituciones-1)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-3)
-      * [Movimientos sociales](#movimientos-sociales)
-      * [Universidades](#universidades-1)
-   * [Global](#global)
-      * [Educación](#educación)
-      * [Fundaciones](#fundaciones-1)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-4)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-1)
-      * [Plataformas](#plataformas)
-      * [Software](#software)
-   * [Ireland](#ireland)
-      * [Universidades](#universidades-2)
-   * [Netherlands](#netherlands)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-1)
-      * [Universidades](#universidades-3)
-   * [New Zealand](#new-zealand)
-      * [Divulgación científica](#divulgación-científica-1)
-   * [Norway](#norway)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-2)
-   * [Spain](#spain)
-      * [Colectivos](#colectivos)
-      * [Dibujantes / Viñetistas / Ilustradores](#dibujantes--viñetistas--ilustradores)
-      * [Divulgación científica](#divulgación-científica-2)
-      * [Escritorxs](#escritorxs)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-3)
-      * [Humoristas](#humoristas)
-      * [Investigadorxs](#investigadorxs)
-      * [Medios de comunicación](#medios-de-comunicación-1)
-      * [Músicxs](#músicxs)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-2)
-      * [Periodistas](#periodistas)
-      * [Personalidades y personajes famosxs](#personalidades-y-personajes-famosxs)
-      * [Podcast](#podcast)
-      * [Política](#política-1)
-   * [Switzerland](#switzerland)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-3)
-      * [Universidades](#universidades-4)
-   * [United Kingdom](#united-kingdom)
-      * [Fundaciones](#fundaciones-2)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-4)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-5)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-4)
-      * [Universidades](#universidades-5)
-   * [USA](#usa)
-      * [Ciencia](#ciencia)
-      * [Divulgación científica](#divulgación-científica-3)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-5)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-6)
-      * [Medios de comunicación](#medios-de-comunicación-2)
-      * [Podcast](#podcast-1)
-      * [Universidades](#universidades-6)
-   * [Ideas (con las que necesito ayuda de personas con conocimientos)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
-   * [Colaboradores](#colaboradores)
-   * [Fuentes de información relevantes](#fuentes-de-información-relevantes)
 <!--te-->
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
@@ -1090,11 +1019,6 @@ La lista está abierta a:
 
 ---
 <br>
-
-## Ideas (con las que necesito ayuda de personas con conocimientos)
-
-Ahora las tablas las actualizo desde mi ordenador con el script de python del repositorio `CreateReadme_XX.py`, haria falta que el script lo ejecutase github action o sino hacer algo similar como los recursos del siguiente punto.
-- Utilizar [GitHub actions](https://github.com/features/actions) para que las tablas se actualicen automaticamente al modificar el repositorio (`PUSH`). Algunos recursos: [1](https://github.com/petems/csv-to-md-table-action),[2](https://github.com/marketplace/actions/markdown-autodocs),[3](https://code.dblock.org/2021/09/03/generating-task-matrix-by-looping-over-repo-files-with-github-actions.html),[4](https://github.com/orgs/community/discussions/25952#discussioncomment-3249802),[5](https://gist.github.com/nogorilla/6133811).
 
 ## Colaboradores
 
