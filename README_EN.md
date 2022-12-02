@@ -25,77 +25,6 @@ The list is open to:
 # Table of contents
 
 <!--ts-->
-   * [Australia](#australia)
-      * [Scientific dissemination](#scientific-dissemination)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals)
-   * [Austria](#austria)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-1)
-   * [Canada](#canada)
-      * [Universities](#universities)
-   * [European Union](#european-union)
-      * [Foundations](#foundations)
-      * [Institutions](#institutions)
-      * [Media](#media)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations)
-      * [Policy](#policy)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-2)
-   * [Germany](#germany)
-      * [Institutions](#institutions-1)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-3)
-      * [Scientific research groups](#scientific-research-groups)
-      * [Social movements](#social-movements)
-      * [Universities](#universities-1)
-   * [Global](#global)
-      * [Education](#education)
-      * [Foundations](#foundations-1)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-1)
-      * [Platforms](#platforms)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-4)
-      * [Software](#software)
-   * [Ireland](#ireland)
-      * [Universities](#universities-2)
-   * [Netherlands](#netherlands)
-      * [Scientific research groups](#scientific-research-groups-1)
-      * [Universities](#universities-3)
-   * [New Zealand](#new-zealand)
-      * [Scientific dissemination](#scientific-dissemination-1)
-   * [Norway](#norway)
-      * [Scientific research groups](#scientific-research-groups-2)
-   * [Spain](#spain)
-      * [Cartoonists / Illustrators](#cartoonists--illustrators)
-      * [Collectives](#collectives)
-      * [Comedians](#comedians)
-      * [Journalists](#journalists)
-      * [Media](#media-1)
-      * [Musicians](#musicians)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-2)
-      * [Personalities and celebrities](#personalities-and-celebrities)
-      * [Podcast](#podcast)
-      * [Policy](#policy-1)
-      * [Researchers](#researchers)
-      * [Scientific dissemination](#scientific-dissemination-2)
-      * [Scientific research groups](#scientific-research-groups-3)
-      * [Writers](#writers)
-   * [Switzerland](#switzerland)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-3)
-      * [Universities](#universities-4)
-   * [United Kingdom](#united-kingdom)
-      * [Foundations](#foundations-2)
-      * [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-4)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-5)
-      * [Scientific research groups](#scientific-research-groups-4)
-      * [Universities](#universities-5)
-   * [USA](#usa)
-      * [Media](#media-2)
-      * [Podcast](#podcast-1)
-      * [Science](#science)
-      * [Scientific dissemination](#scientific-dissemination-3)
-      * [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-6)
-      * [Scientific research groups](#scientific-research-groups-5)
-      * [Universities](#universities-6)
-   * [Ideas (with which I need help from knowledgeable people)](#ideas-with-which-i-need-help-from-knowledgeable-people)
-   * [Contributors](#contributors)
-   * [Relevant sources of information](#relevant-sources-of-information)
 <!--te-->
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
@@ -501,9 +430,28 @@ The list is open to:
 
 <img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name                          | Mastodon profile                       | Web                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------------------|:---------------------------------------|:---------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc | https://wilsonsociety.org/ | Global    | English    | -             | -             | 07/11/2022                       | -          |
+| Name                          | Mastodon profile                                   | Web                                                 | Country   | Language   | Other links                                    | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------------------|:---------------------------------------------------|:----------------------------------------------------|:----------|:-----------|:-----------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Development                   | https://mstdn.science/@Dev_journal                 | https://journals.biologists.com/dev                 | Global    | English    | -                                              | Biology       | 15/11/2022                       | -          |
+| Disease Models & Mechanisms   | https://mstdn.science/@DMM_Journal                 | https://journals.biologists.com/dmm                 | Global    | English    | -                                              | -             | 15/11/2022                       | -          |
+| Geopolitics Journal           | https://mastodon.social/@Geopolitics               | https://www.tandfonline.com/toc/fgeo20/current      | Global    | English    | -                                              | -             | 13/11/2022                       | -          |
+| Journal Experimental Medicine | https://mstdn.science/@JExpMed                     | https://rupress.org/jem                             | Global    | English    | -                                              | -             | 18/11/2022                       | -          |
+| Journal of Cell Biology (JCB) | https://mstdn.science/@JCellBiol                   | https://rupress.org/JCB                             | Global    | English    | -                                              | -             | 18/11/2022                       | -          |
+| Journal of Cell Science       | https://mstdn.science/@J_Cell_Sci                  | https://journals.biologists.com/jcs                 | Global    | English    | -                                              | -             | 15/11/2022                       | -          |
+| Journal of General Physiology | https://mstdn.science/@JGenPhysiol                 | https://rupress.org/jgp                             | Global    | English    | -                                              | -             | 18/11/2022                       | -          |
+| Journal of Political Ecology  | https://sciences.social/@journalofpoliticalecology | https://journals.librarypublishing.arizona.edu/jpe/ | Global    | English    | -                                              | -             | 06/11/2022                       | -          |
+| Landscape Research Journal    | https://mas.to/@landscaperesearch                  | https://landscaperesearch.org/journal/              | Global    | English    | https://www.tandfonline.com/toc/clar20/current | -             | 07/11/2022                       | -          |
+| Law & Space Journal           | https://mastodon.social/@lawandspacejournal        | https://lawandspace.com/                            | Global    | English    | -                                              | -             | 05/11/2022                       | -          |
+| Nature Astronomy              | https://astrodon.social/@NatureAstronomy           | nature.com/natastron/                               | Global    | English    | -                                              | -             | 07/11/2022                       | -          |
+| NBDT, a neuro open journal    | https://sigmoid.social/@nbdt_journal               | https://nbdt.scholasticahq.com/                     | Global    | English    | -                                              | -             | 14/11/2022                       | -          |
+| Open Journal of Astrophysics  | https://astrodon.social/@OJ_Astro                  | http://astro.theoj.org/                             | Global    | English    | -                                              | -             | 10/11/2022                       | -          |
+| Physics Magazine              | https://mas.to/@physics_magazine                   | https://www.aps.org/publications/physics.cfm        | Global    | English    | -                                              | -             | 14/11/2022                       | -          |
+| PLOS                          | https://mstdn.science/@PLOS                        | https://plos.org/                                   | Global    | English    | -                                              | -             | 08/11/2022                       | -          |
+| PLOS Biology                  | https://fediscience.org/@PLOSBiology               | https://journals.plos.org/plosbiology/              | Global    | English    | -                                              | -             | 08/11/2022                       | -          |
+| PLOS Climate                  | https://mstdn.science/@plosclimate                 | http://plosclimate.org/                             | Global    | English    | -                                              | -             | 21/11/2022                       | -          |
+| Quantitative Science Studies  | https://scicomm.xyz/@QSS_ISSI                      | https://direct.mit.edu/qss                          | Global    | English    | -                                              | -             | 05/11/2022                       | -          |
+| Scientific European           | https://toot.community/@ScientificEuropean         | https://www.scientificeuropean.co.uk/               | Global    | Multi      | -                                              | -             | 07/11/2022                       | -          |
+| Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc             | https://wilsonsociety.org/                          | Global    | English    | -                                              | -             | 07/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
