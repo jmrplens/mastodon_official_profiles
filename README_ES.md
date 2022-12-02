@@ -25,69 +25,6 @@ La lista está abierta a:
 # Índice
 
 <!--ts-->
-   * [Australia](#australia)
-      * [Divulgación científica](#divulgación-científica)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas)
-   * [Austria](#austria)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-1)
-   * [Canada](#canada)
-      * [Universidades](#universidades)
-   * [European Union](#european-union)
-      * [Fundaciones](#fundaciones)
-      * [Instituciones](#instituciones)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-2)
-      * [Medios de comunicación](#medios-de-comunicación)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales)
-      * [Política](#política)
-   * [Germany](#germany)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica)
-      * [Instituciones](#instituciones-1)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-3)
-      * [Universidades](#universidades-1)
-   * [Global](#global)
-      * [Educación](#educación)
-      * [Fundaciones](#fundaciones-1)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-4)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-1)
-      * [Plataformas](#plataformas)
-      * [Software](#software)
-   * [Ireland](#ireland)
-      * [Universidades](#universidades-2)
-   * [Netherlands](#netherlands)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-1)
-      * [Universidades](#universidades-3)
-   * [New Zealand](#new-zealand)
-      * [Divulgación científica](#divulgación-científica-1)
-   * [Norway](#norway)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-2)
-   * [Spain](#spain)
-      * [Dibujantes / Viñetistas / Ilustradores](#dibujantes--viñetistas--ilustradores)
-      * [Divulgación científica](#divulgación-científica-2)
-      * [Escritorxs](#escritorxs)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-3)
-      * [Humoristas](#humoristas)
-      * [Medios de comunicación](#medios-de-comunicación-1)
-      * [Músicxs](#músicxs)
-      * [Periodistas](#periodistas)
-      * [Personalidades y personajes famosxs](#personalidades-y-personajes-famosxs)
-      * [Política](#política-1)
-   * [Switzerland](#switzerland)
-      * [Universidades](#universidades-4)
-   * [United Kingdom](#united-kingdom)
-      * [Fundaciones](#fundaciones-2)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-4)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-5)
-      * [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-2)
-      * [Universidades](#universidades-5)
-   * [USA](#usa)
-      * [Divulgación científica](#divulgación-científica-3)
-      * [Grupos de investigación científica](#grupos-de-investigación-científica-5)
-      * [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-6)
-      * [Medios de comunicación](#medios-de-comunicación-2)
-      * [Universidades](#universidades-6)
-   * [Ideas (con las que necesito ayuda de personas con conocimientos)](#ideas-con-las-que-necesito-ayuda-de-personas-con-conocimientos)
-   * [Colaboradores](#colaboradores)
-   * [Fuentes de información relevantes](#fuentes-de-información-relevantes)
 <!--te-->
 
 <img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
@@ -365,6 +302,18 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
+<img align="left" height="30" src=".resources/icons/SOCIAL_MOVEMENTS.svg" alt="Country">
+
+### Movimientos sociales
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name                    | Mastodon profile                           | Web                             | Country   | Language   | Other links               | Information   | Mastodon profile creation date   |   Keywords |
+|:------------------------|:-------------------------------------------|:--------------------------------|:----------|:-----------|:--------------------------|:--------------|:---------------------------------|-----------:|
+| Extinction Rebellion DE | https://social.rebellion.global/@xrgermany | https://extinctionrebellion.de/ | Germany   | German     | https://rebellion.global/ | -             | 05/09/2019                       |        nan |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SOCIAL_MOVEMENTS.csv)
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universidades
@@ -505,6 +454,7 @@ La lista está abierta a:
 | GNOME                 | https://floss.social/@gnome             | https://www.gnome.org/                              | Global    | English    | -                                     | -             | 09/07/2018                       | -          |
 | GTK                   | https://floss.social/@GTK               | https://www.gtk.org/                                | Global    | English    | -                                     | -             | 10/11/2022                       | -          |
 | Inkscape              | https://mastodon.art/@inkscape          | https://inkscape.org/                               | Global    | Multi      | https://gitlab.com/inkscape/inkscape/ | -             | 05/04/2018                       | -          |
+| Ivory                 | https://tapbots.social/@ivory           | -                                                   | Global    | English    | -                                     | iOS App       | 24/11/2022                       | -          |
 | KDE                   | https://floss.social/@kde               | https://kde.org/                                    | Global    | Multi      | -                                     | -             | 07/10/2022                       | -          |
 | Kdenlive              | https://floss.social/@kdenlive          | https://kdenlive.org/                               | Global    | Multi      | -                                     | -             | 08/10/2022                       | -          |
 | LibreOffice           | https://fosstodon.org/@libreoffice      | https://www.libreoffice.org/                        | Global    | Multi      | -                                     | -             | 20/03/2019                       | -          |
@@ -634,6 +584,18 @@ La lista está abierta a:
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
+<img align="left" height="30" src=".resources/icons/COLLECTIVES.svg" alt="Country">
+
+### Colectivos
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name         | Mastodon profile                     | Web                             | Country   | Language   | Other links                                      | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------|:-------------------------------------|:--------------------------------|:----------|:-----------|:-------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Proyecto UNA | https://mastodon.social/@proyectouna | https://twitter.com/ProyectoUna | Spain     | Spanish    | https://www.elsaltodiario.com/autor/proyecto-una | -             | 25/04/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/COLLECTIVES.csv)
+
 <img align="left" height="30" src=".resources/icons/CARTOONISTS.svg" alt="Country">
 
 ### Dibujantes / Viñetistas / Ilustradores
@@ -654,9 +616,10 @@ La lista está abierta a:
 
 <img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Conversation ES | https://newsie.social/@theconversationes | https://theconversation.com/es | Spain     | Spanish    | -             | -             | 18/11/2022                       | -          |
+| Name                | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:--------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Ecopixeladas        | https://social.politicaconciencia.org/@ecopixeladas | https://ecopixeladas.com/      | Spain     | Spanish    | -             | -             | 20/02/2021                       | -          |
+| The Conversation ES | https://newsie.social/@theconversationes            | https://theconversation.com/es | Spain     | Spanish    | -             | -             | 18/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCIENTIFIC_DISSEMINATION.csv)
 
@@ -666,10 +629,11 @@ La lista está abierta a:
 
 <img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name          | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Bob Pop       | https://universeodon.com/@BobPoP      | https://es.wikipedia.org/wiki/Bob_Pop            | Spain     | Spanish    | -             | -             | 08/11/2022                       | -          |
-| Gonzalo Torné | https://mastodon.social/@GonzaloTorne | https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9 | Spain     | Spanish    | -             | -             | 03/10/2018                       | -          |
+| Name             | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-----------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Bob Pop          | https://universeodon.com/@BobPoP      | https://es.wikipedia.org/wiki/Bob_Pop            | Spain     | Spanish    | -             | -             | 08/11/2022                       | -          |
+| Gonzalo Torné    | https://mastodon.social/@GonzaloTorne | https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9 | Spain     | Spanish    | -             | -             | 03/10/2018                       | -          |
+| Guillermo Zapata | https://mas.to/@GZapata               | https://biblioghizan.com/                        | Spain     | Spanish    | -             | -             | 09/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/WRITERS.csv)
 
@@ -698,25 +662,39 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/COMEDIANS.csv)
 
+<img align="left" height="30" src=".resources/icons/RESEARCHERS.svg" alt="Country">
+
+### Investigadorxs
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name            | Mastodon profile                   | Web                          | Country   | Language   | Other links                                            | Information   | Mastodon profile creation date   | Keywords   |
+|:----------------|:-----------------------------------|:-----------------------------|:----------|:-----------|:-------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| Carlos Pimentel | https://fediscience.org/@doclomieu | https://cpimentelguerra.com/ | Spain     | Spanish    | https://www.researchgate.net/profile/Carlos-Pimentel-5 | Geologist     | 12/05/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/RESEARCHERS.csv)
+
 <img align="left" height="30" src=".resources/icons/MEDIA.svg" alt="Country">
 
 ### Medios de comunicación
 
 <img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name            | Mastodon profile                       | Web                            | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
-|:----------------|:---------------------------------------|:-------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
-| ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/         | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
-| CTXT            | https://mastodon.world/@ctxt           | https://ctxt.es/               | Spain     | Spanish    | -                          | -                     | 18/11/2022                       | -          |
-| El Mundo Today  | https://mastodon.social/@elmundotoday  | https://www.elmundotoday.com/  | Spain     | Spanish    | -                          | Humor / Sátira        | 28/10/2022                       | -          |
-| El Salto Diario | https://mastodon.social/@ElSaltoDiario | https://www.elsaltodiario.com/ | Spain     | Spanish    | https://t.me/elsaltodiario | -                     | 02/09/2021                       | -          |
-| elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/       | Spain     | Spanish    | -                          | -                     | 21/11/2022                       | -          |
-| Electomanía     | https://masto.ai/@electomania          | https://electomania.es/        | Spain     | Spanish    | http://t.me/electomania    | Demoscopia            | 18/11/2022                       | -          |
-| infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/      | Spain     | Spanish    | -                          | -                     | 20/11/2022                       | -          |
-| La Marea        | https://xarxa.cloud/@lamarea           | https://www.lamarea.com/       | Spain     | Spanish    | -                          | BOT                   | 17/01/2020                       | -          |
-| Luzes           | https://mastodon.gal/@Luzes            | https://luzes.gal/             | Spain     | Galego     | -                          | -                     | 12/11/2022                       | -          |
-| Maldita.es      | https://mastodon.social/@malditaes     | https://maldita.es/            | Spain     | Spanish    | -                          | Verificación de bulos | 18/11/2022                       | -          |
-| microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/  | Spain     | Spanish    | https://t.me/microsiervos  | -                     | 01/08/2018                       | -          |
+| Name            | Mastodon profile                       | Web                                   | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
+|:----------------|:---------------------------------------|:--------------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
+| ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/                | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
+| CTXT            | https://mastodon.world/@ctxt           | https://ctxt.es/                      | Spain     | Spanish    | -                          | -                     | 18/11/2022                       | -          |
+| Cuellilargo     | https://social.anartist.org/@cuelli    | https://www.youtube.com/@cuellilargo/ | Spain     | Spanish    | -                          | -                     | 21/11/2022                       | -          |
+| El Mundo Today  | https://mastodon.social/@elmundotoday  | https://www.elmundotoday.com/         | Spain     | Spanish    | -                          | Humor / Sátira        | 28/10/2022                       | -          |
+| El Salto Diario | https://mastodon.social/@ElSaltoDiario | https://www.elsaltodiario.com/        | Spain     | Spanish    | https://t.me/elsaltodiario | -                     | 02/09/2021                       | -          |
+| elDiario.es     | https://mastodon.world/@eldiarioes     | https://www.eldiario.es/              | Spain     | Spanish    | -                          | -                     | 21/11/2022                       | -          |
+| Electomanía     | https://masto.ai/@electomania          | https://electomania.es/               | Spain     | Spanish    | http://t.me/electomania    | Demoscopia            | 18/11/2022                       | -          |
+| infoLibre       | https://mastodon.world/@_infoLibre     | https://www.infolibre.es/             | Spain     | Spanish    | -                          | -                     | 20/11/2022                       | -          |
+| La Marea        | https://xarxa.cloud/@lamarea           | https://www.lamarea.com/              | Spain     | Spanish    | -                          | BOT                   | 17/01/2020                       | -          |
+| Luzes           | https://mastodon.gal/@Luzes            | https://luzes.gal/                    | Spain     | Galego     | -                          | -                     | 12/11/2022                       | -          |
+| Maldita.es      | https://mastodon.social/@malditaes     | https://maldita.es/                   | Spain     | Spanish    | -                          | Verificación de bulos | 18/11/2022                       | -          |
+| microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/         | Spain     | Spanish    | https://t.me/microsiervos  | -                     | 01/08/2018                       | -          |
+| Portal Vallecas | https://mastodon.la/@PortalVallecas    | https://www.portalvallecas.es/        | Spain     | Spanish    | -                          | -                     | 12/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MEDIA.csv)
 
@@ -731,6 +709,18 @@ La lista está abierta a:
 | Ismael Serrano | https://mastodon.la/@serranoismael | https://www.ismaelserrano.com/ | Spain     | Spanish    | -             | -             | 12/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MUSICIANS.csv)
+
+<img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
+
+### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name           | Mastodon profile                                   | Web                                | Country   | Language   | Other links                  | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------|:---------------------------------------------------|:-----------------------------------|:----------|:-----------|:-----------------------------|:--------------|:---------------------------------|:-----------|
+| Interferencias | https://social.interferencias.tech/@interferencias | https://jasyp.interferencias.tech/ | Spain     | Spanish    | https://t.me/inter_ferencias | -             | 10/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/JOURNALISTS.svg" alt="Country">
 
@@ -774,6 +764,18 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/PERSONALITIES.csv)
 
+<img align="left" height="30" src=".resources/icons/PODCAST.svg" alt="Country">
+
+### Podcast
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name               | Mastodon profile                     | Web                                                | Country   | Language   | Other links                                                           | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------|:-------------------------------------|:---------------------------------------------------|:----------|:-----------|:----------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| PostApocalipsisNau | https://todon.nl/@PostApocalipsisNau | https://www.elsaltodiario.com/post-apocalipsis-nau | Spain     | Spanish    | https://www.ivoox.com/podcast-post-apocalipsis-nau_sq_f1634081_1.html | -             | 24/06/2019                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/PODCAST.csv)
+
 <img align="left" height="30" src=".resources/icons/POLICY.svg" alt="Country">
 
 ### Política
@@ -796,6 +798,18 @@ La lista está abierta a:
 ## Switzerland
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
+<img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
+
+### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name                 | Mastodon profile                   | Web                    | Country     | Language   | Other links       | Information   | Mastodon profile creation date   | Keywords   |
+|:---------------------|:-----------------------------------|:-----------------------|:------------|:-----------|:------------------|:--------------|:---------------------------------|:-----------|
+| CK's Technology News | https://cktn.todon.de/@CKsTechNews | https://forum.cktn.de/ | Switzerland | English    | https://cktn.org/ | -             | 18/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](switzerland/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
@@ -890,6 +904,18 @@ La lista está abierta a:
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
+<img align="left" height="30" src=".resources/icons/SCIENCE.svg" alt="Country">
+
+### Ciencia
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name                                        | Mastodon profile             | Web                          | Country   | Language   | Other links                            | Information                                                                                    | Mastodon profile creation date   | Keywords   |
+|:--------------------------------------------|:-----------------------------|:-----------------------------|:----------|:-----------|:---------------------------------------|:-----------------------------------------------------------------------------------------------|:---------------------------------|:-----------|
+| The Arabidopsis Information Resource (TAIR) | https://genomic.social/@TAIR | https://www.arabidopsis.org/ | USA       | Englsih    | https://www.phoenixbioinformatics.org/ | Database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana | 16/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCIENCE.csv)
+
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Divulgación científica
@@ -940,6 +966,18 @@ La lista está abierta a:
 | Foreign Policy | https://mastodon.world/@foreignpolicy | https://foreignpolicy.com/ | USA       | English    | https://www.linkedin.com/company/foreign-policy-magazine/ | -             | 18/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/MEDIA.csv)
+
+<img align="left" height="30" src=".resources/icons/PODCAST.svg" alt="Country">
+
+### Podcast
+
+<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name              | Mastodon profile                     | Web                         | Country   | Language   | Other links                                                    | Information   | Mastodon profile creation date   | Keywords   |
+|:------------------|:-------------------------------------|:----------------------------|:----------|:-----------|:---------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
+| The Overhead Wire | https://sfba.social/@TheOverheadWire | http://theoverheadwire.com/ | USA       | English    | https://usa.streetsblog.org/category/special-features/podcast/ | Jeff Wood     | 11/05/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/PODCAST.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
