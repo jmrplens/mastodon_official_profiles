@@ -3,6 +3,7 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
+[![DOI](.resources/information/DOI.svg)](https://zenodo.org/badge/latestdoi/569637398)
 
 # LIST
 
