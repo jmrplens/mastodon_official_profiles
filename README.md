@@ -38,3 +38,7 @@ Individuals and/or organizations that have collected interesting accounts and ha
 
 - [<img src=".resources/icons/mastodon.svg" height="12"/> `Gerald Leppert`](https://bonn.social/@gerald_leppert)
 - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon Migration`](https://mastodon.online/@mastodonmigration)
+
+---
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/jmrplens/donate)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X147IR3)
