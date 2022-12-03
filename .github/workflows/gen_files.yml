@@ -24,32 +24,27 @@ jobs:
         cache: 'pip' # caching pip dependencies
         architecture: 'x64'
 
-    # Cache dependencies. From:
-    # https://github.com/actions/cache/blob/master/examples.md#python---pip
-    - uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
     # Install dependencies with `pip`
     - name: Install requirements
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
         python3 -m pip install -r requirements.txt
+        
     # Generate all statistics images
     - name: Generate data
       run: |
         python3 --version
         python3 setupdata.py
+  
     - name: commit files
       run: |
         git config --local user.email "jmrplens@gmail.com"
         git config --local user.name "jmrplens"
         git add -A
         git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
-    - name: push changes
-      uses: ad-m/github-push-action@master
+    - name: Pushing to the protected branch 'protected'
+      uses: CasperWA/push-protected@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main 
+        token: ${{ secrets.PUSH_TO_PROTECTED_BRANCH }}
+        branch: protected
+    
