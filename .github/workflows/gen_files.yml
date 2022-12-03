@@ -1,4 +1,4 @@
-name: Generate Stats Images
+name: Generate MAIN.CSV and README
 
 on:
   push:
@@ -17,10 +17,10 @@ jobs:
     - uses: actions/checkout@v2
 
     # Run using Python 3.8 for consistency and aiohttp
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.8'
+        python-version: '3.9'
         architecture: 'x64'
 
     # Cache dependencies. From:
@@ -39,17 +39,20 @@ jobs:
         python3 -m pip install -r requirements.txt
 
     # Generate all statistics images
-    - name: Generate images
+    - name: Generate data
       run: |
         python3 --version
         python3 SetupData.py
 
-    # Commit all changed files to the repository
-    - name: Commit to the repo
+    - name: commit files
       run: |
-        git config --global user.name "jmrplens/mastodon_official_profiles"
-        git config --global user.email "github-stats[bot]@jmrplens.github.io"
-        git add .
-        # Force the build to succeed, even if no files were changed
-        git commit -m 'Update generated files' || true
-        git push
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main 
