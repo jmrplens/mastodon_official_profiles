@@ -18,6 +18,10 @@ def gen_by_country(lang):
 
     str_readme = ""
     df_gen = df
+    # Update SVG DATABASE TOTAL PROFILES
+    filename = ".resources/information/DATABASE_PROFILES_NUM_" + lang + ".svg"
+    filenametemp = ".resources/information/DATABASE_PROFILES_NUM_TMP_" + lang + ".svg"
+    open(filename, 'w').write(open(filenametemp).read().replace('XXXX', str(len(df_gen))))
 
     # # Translate countries
     # df_gen['Country'] = df_gen['Country'].apply(
