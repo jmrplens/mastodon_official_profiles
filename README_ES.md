@@ -776,7 +776,7 @@ La lista está abierta a:
 
 | Name            | Mastodon profile                       | Web                                   | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
 |:----------------|:---------------------------------------|:--------------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
-| ARGIA test      | https://mastodon.eus/@argia            | https://www.argia.eus/                | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
+| ARGIA           | https://mastodon.eus/@argia            | https://www.argia.eus/                | Spain     | Euskera    | -                          | -                     | 31/10/2018                       | -          |
 | CTXT            | https://mastodon.world/@ctxt           | https://ctxt.es/                      | Spain     | Spanish    | -                          | -                     | 18/11/2022                       | -          |
 | Cuellilargo     | https://social.anartist.org/@cuelli    | https://www.youtube.com/@cuellilargo/ | Spain     | Spanish    | -                          | -                     | 21/11/2022                       | -          |
 | El Mundo Today  | https://mastodon.social/@elmundotoday  | https://www.elmundotoday.com/         | Spain     | Spanish    | -                          | Humor / Sátira        | 28/10/2022                       | -          |
