@@ -1,4 +1,4 @@
-# README CREATOR
+""" README CREATOR """
 # Jose M. Requena Plens
 
 import pandas as pd  # To import CSV and Markdown conversion
@@ -7,6 +7,11 @@ import numpy as np
 
 # Get Database
 df = pd.read_csv("MAIN.csv")
+
+def jls_extract_def():
+    """ Open file method """
+    return 'wt'
+
 
 def gen_by_country(lang):
     """
@@ -21,7 +26,9 @@ def gen_by_country(lang):
     # Update SVG DATABASE TOTAL PROFILES
     filename = ".resources/information/DATABASE_PROFILES_NUM_" + lang + ".svg"
     filenametemp = ".resources/information/DATABASE_PROFILES_NUM_TMP_" + lang + ".svg"
-    open(filename, 'w').write(open(filenametemp).read().replace('XXXX', str(len(df_gen))))
+    open(filename, jls_extract_def(),encoding="utf-8")\
+        .write(open(filenametemp,encoding="utf-8")\
+            .read().replace('XXXX', str(len(df_gen))))
 
     # # Translate countries
     # df_gen['Country'] = df_gen['Country'].apply(
@@ -40,8 +47,19 @@ def gen_by_country(lang):
     # For each country
     for country in country_list:
         # Print Country heading
-        icon_country = '<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">'
-        str_readme = str_readme + icon_country + "\n\n## " + country + '\n\n<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>\n\n'
+        icon_country = \
+            '<img align="left" height="50" \
+                src=".resources/icons/country.svg#gh-light-mode-only" \
+                alt="Country">\
+                    <img align="left" height="35" \
+                        src=".resources/icons/country_dark.svg#gh-dark-mode-only" \
+                            alt="Country">'
+        str_readme = str_readme \
+            + icon_country \
+                + "\n\n## " \
+                    + country \
+                        + '\n\n<img align="left" height="10" \
+                            src=".resources/icons/sep.svg" alt="Separator"><br>\n\n'
         #
         profiles_country = df_gen.loc[df_gen["Country"] == country]
         profiles_country.sort_values(by = 'Country', inplace = True,
@@ -53,28 +71,38 @@ def gen_by_country(lang):
         # For each category
         for category in category_list:
             # print(category)
-            data = df_gen.loc[(df_gen['Country'] == country) & (df_gen["CATEGORY_"+lang] == category)]
+            data = df_gen.loc[\
+                (df_gen['Country'] == country) & (df_gen["CATEGORY_"+lang] == category)\
+                    ]
             # Sort by name
             data.sort_values(by = 'Name', inplace = True,
                              key = lambda col: col.str.lower())
             # print(data)
             # Print Category heading
-            icon_category = '<img align="left" height="30" src=".resources/icons/' + data['FILENAME'].values[0] + '.svg" alt="Country">'
-            str_readme = str_readme + icon_category + "\n\n### " + category + '\n\n<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">\n\n'
+            icon_category = \
+                '<img align="left" height="30" src=".resources/icons/' \
+                    + data['FILENAME'].values[0] + '.svg" alt="Country">'
+            str_readme = str_readme \
+                + icon_category \
+                    + "\n\n### " \
+                        + category \
+                            + '\n\n<img align="left" height="5" \
+                                src=".resources/icons/subsep.svg" alt="Separator">\n\n'
             # Markdown
             md_table = data.iloc[:, 0:9].to_markdown(index = False)
             # Print Table
             str_readme = str_readme + md_table + "\n\n"
-            badge = "[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](" + data.iloc[0]["FILEPATH"] + ")"
+            badge = \
+                "[![View CSV]\
+                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)\
+                        ](" + data.iloc[0]["FILEPATH"] + ")"
             str_readme = str_readme + badge + '\n\n'
         str_readme = str_readme + "---\n<br>\n\n"
     return str_readme
 
 
 def generate(orderby, lang):
+    """ Eval function """
     func = "gen_by_" + orderby.lower()
     str_readme = eval(func + '("' + lang + '")')
     return str_readme
-
-
-

@@ -100,71 +100,71 @@ The list is open to:
 - [Relevant sources of information](#relevant-sources-of-information)
 
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Australia
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Scientific dissemination
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                | Mastodon profile                           | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation AU | https://mastodon.social/@theconversationau | https://theconversation.com/au | Australia | English    | -             | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](australia/SCIENTIFIC_DISSEMINATION.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](australia/SCIENTIFIC_DISSEMINATION.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                     | Mastodon profile               | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Australian Maths Society | https://mathstodon.xyz/@AustMS | https://austms.org.au/ | Australia | English    | -             | -             | 14/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](australia/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Austria
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                            | Mastodon profile                 | Web                    | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------------------------|:---------------------------------|:-----------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Research Institute of Molecular Pathology (IMP) | https://mstdn.science/@IMPvienna | https://www.imp.ac.at/ | Austria   | English    | -             | -             | 08/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](austria/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Canada
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile                 | Web                       | Country   | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:---------------------------------|:--------------------------|:----------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -173,34 +173,34 @@ The list is open to:
 | University of Toronto  | https://mstdn.social/@UTM        | https://www.utoronto.ca/  | Canada    | English          | -             | -             | 04/11/2022                       | -          |
 | York University        | https://mstdn.ca/@yorkuniversity | https://www.yorku.ca/     | Canada    | English          | -             | -             | 16/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](canada/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](canada/UNIVERSITIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## European Union
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Foundations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                 | Mastodon profile                            | Web                             | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:--------------------------------------------|:--------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Digital Freedom Fund | https://eupolicy.social/@digitalfreedomfund | https://digitalfreedomfund.org/ | European Union | English    | -             | -             | 01/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/FOUNDATIONS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](european_union/FOUNDATIONS.csv)
 
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                                                                                                        | Mastodon profile                                | Web                                                                         | Country        | Language   | Other links   | Information                                  | Mastodon profile creation date   | Keywords   |
 |:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------------------------------------------------------------------------|:---------------|:-----------|:--------------|:---------------------------------------------|:---------------------------------|:-----------|
@@ -223,13 +223,13 @@ The list is open to:
 | Open Source Programme Office                                                                                                | https://social.network.europa.eu/@EC_OSPO       | https://joinup.ec.europa.eu/collection/ec-ospo                              | European Union | English    | -             | -                                            | 01/02/2022                       | -          |
 | The Translation Centre for the Bodies                                                                                       | https://social.network.europa.eu/@CDT           | https://cdt.europa.eu/                                                      | European Union | Multi      | -             | -                                            | 01/04/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/INSTITUTIONS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](european_union/INSTITUTIONS.csv)
 
 <img align="left" height="30" src=".resources/icons/MEDIA.svg" alt="Country">
 
 ### Media
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name       | Mastodon profile                    | Web                       | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------|:------------------------------------|:--------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -237,13 +237,13 @@ The list is open to:
 | EURACTIV   | https://masto.ai/@euractiv          | https://www.euractiv.com/ | European Union | Multi      | -             | -             | 07/11/2022                       | -          |
 | Netopia EU | https://eupolicy.social/@netopia    | https://www.netopia.eu/   | European Union | English    | -             | -             | 01/10/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/MEDIA.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](european_union/MEDIA.csv)
 
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                   | Mastodon profile                 | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------------------|:---------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -251,47 +251,47 @@ The list is open to:
 | European Center for Not-for-Profit Law | https://eupolicy.social/@ecnl    | https://www.ecnl.org/   | European Union | English    | -             | -             | 01/11/2022                       | -          |
 | European Digital Rights (EDRi)         | https://eupolicy.social/@edri    | https://edri.org/       | European Union | English    | -             | -             | 01/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/NPO_NGO.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](european_union/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/POLICY.svg" alt="Country">
 
 ### Policy
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name               | Mastodon profile                                         | Web                                                               | Country        | Language         | Other links   | Information                    | Mastodon profile creation date   | Keywords   |
 |:-------------------|:---------------------------------------------------------|:------------------------------------------------------------------|:---------------|:-----------------|:--------------|:-------------------------------|:---------------------------------|:-----------|
 | Mattias Bjärnemalm | https://eupolicy.social/@Mab                             | https://www.linkedin.com/in/bjarnemalm/                           | European Union | English          | -             | Pirate Parties Network Officer | 01/10/2022                       | -          |
 | Thierry Breton     | https://social.network.europa.eu/@EC_Commissioner_Breton | https://ec.europa.eu/commission/commissioners/2019-2024/breton_en | European Union | French / English | -             | -                              | 29/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/POLICY.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](european_union/POLICY.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                          | Mastodon profile                    | Web              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:------------------------------------|:-----------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | European Mathematical Society | https://mathstodon.xyz/@EuroMathSoc | euromathsoc.org/ | European Union | English    | -             | -             | 11/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](european_union/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Germany
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                           | Mastodon profile                              | Web                                                                                     | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:----------------------------------------------|:----------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -348,13 +348,13 @@ The list is open to:
 | Wirtschaft & Klimaschutz       | https://social.bund.de/@BMWK                  | https://www.bmwk.de/Navigation/DE/Home/home.html                                        | Germany   | German     | -             | -             | 01/11/2022                       | -          |
 | ZIF                            | https://social.bund.de/@ZIF                   | https://www.zif-berlin.org/                                                             | Germany   | German     | -             | -             | 01/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/INSTITUTIONS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](germany/INSTITUTIONS.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                       | Mastodon profile                  | Web                           | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -363,37 +363,37 @@ The list is open to:
 | MPI of Molecular Cell Biology and Genetics | https://wisskomm.social/@mpicbg   | https://www.mpi-cbg.de/       | Germany   | English    | -             | -             | 19/11/2022                       | -          |
 | Robert Koch-Institut                       | https://social.bund.de/@RKI       | https://www.rki.de            | Germany   | German     | -             | -             | 11/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile               | Web                                                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------|:--------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | FIZ ISE Research Group | https://sigmoid.social/@fizise | https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering | Germany   | English    | -             | -             | 27/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_RESEARCH_GROUPS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](germany/SCI_RESEARCH_GROUPS.csv)
 
 <img align="left" height="30" src=".resources/icons/SOCIAL_MOVEMENTS.svg" alt="Country">
 
 ### Social movements
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                    | Mastodon profile                           | Web                             | Country   | Language   | Other links               | Information   | Mastodon profile creation date   |   Keywords |
 |:------------------------|:-------------------------------------------|:--------------------------------|:----------|:-----------|:--------------------------|:--------------|:---------------------------------|-----------:|
 | Extinction Rebellion DE | https://social.rebellion.global/@xrgermany | https://extinctionrebellion.de/ | Germany   | German     | https://rebellion.global/ | -             | 05/09/2019                       |        nan |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SOCIAL_MOVEMENTS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](germany/SOCIAL_MOVEMENTS.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                      | Mastodon profile                                            | Web                                        | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------------------|:------------------------------------------------------------|:-------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -432,47 +432,47 @@ The list is open to:
 | Universität Ulm                           | https://mastodon.social/@UniUlm                             | https://www.uni-ulm.de/                    | Germany   | German     | -             | -             | 06/03/2020                       | -          |
 | Universität zu Köln                       | https://wisskomm.social/@UniKoeln                           | https://www.uni-koeln.de/                  | Germany   | German     | -             | -             | 21/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](germany/UNIVERSITIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Global
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/EDUCATION.svg" alt="Country">
 
 ### Education
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name         | Mastodon profile                    | Web                      | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:------------------------------------|:-------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Open Culture | https://toot.community/@openculture | https://openculture.com/ | Global    | English    | -             | -             | 05/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/EDUCATION.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](global/EDUCATION.csv)
 
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Foundations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                           | Mastodon profile             | Web                  | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:-----------------------------|:---------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Electronic Frontier Foundation | https://mastodon.social/@eff | https://www.eff.org/ | Global    | English    | -             | -             | 04/04/2017                       | -          |
 | Free Software Foundation       | https://hostux.social/@fsf   | https://www.fsf.org/ | Global    | Multi      | -             | -             | 16/12/2019                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/FOUNDATIONS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](global/FOUNDATIONS.csv)
 
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                      | Mastodon profile                               | Web                                | Country   | Language          | Other links                    | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:-----------------------------------------------|:-----------------------------------|:----------|:------------------|:-------------------------------|:--------------|:---------------------------------|:-----------|
@@ -485,25 +485,25 @@ The list is open to:
 | The Tor Project           | https://mastodon.social/@torproject            | https://torproject.org/            | Global    | Multi             | -                              | -             | 03/04/2017                       | -          |
 | Transnational Institute   | https://mastodon.world/@transnationalinstitute | https://www.tni.org/               | Global    | English / Spanish | -                              | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/NPO_NGO.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](global/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/PLATFORMS.svg" alt="Country">
 
 ### Platforms
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name      | Mastodon profile                | Web                    | Country   | Language   | Other links   | Information        | Mastodon profile creation date   |   Keywords |
 |:----------|:--------------------------------|:-----------------------|:----------|:-----------|:--------------|:-------------------|:---------------------------------|-----------:|
 | Liberapay | https://mastodon.xyz/@Liberapay | https://liberapay.com/ | Global    | Multi      | -             | Donations platform | 10/12/2017                       |        nan |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/PLATFORMS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](global/PLATFORMS.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                          | Mastodon profile                                   | Web                                                 | Country   | Language   | Other links                                    | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:---------------------------------------------------|:----------------------------------------------------|:----------|:-----------|:-----------------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -528,13 +528,13 @@ The list is open to:
 | Scientific European           | https://toot.community/@ScientificEuropean         | https://www.scientificeuropean.co.uk/               | Global    | Multi      | -                                              | -             | 07/11/2022                       | -          |
 | Wilson Ornithological Society | https://ecoevo.social/@WilsonOrnithSoc             | https://wilsonsociety.org/                          | Global    | English    | -                                              | -             | 07/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](global/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 <img align="left" height="30" src=".resources/icons/SOFTWARE.svg" alt="Country">
 
 ### Software
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                  | Mastodon profile                        | Web                                                 | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:----------------------|:----------------------------------------|:----------------------------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
@@ -569,55 +569,55 @@ The list is open to:
 | VideoLAN              | https://floss.social/@videolan          | https://www.videolan.org/                           | Global    | Multi      | https://code.videolan.org/            | -             | 03/11/2022                       | -          |
 | Vivaldi               | https://social.vivaldi.net/@Vivaldi     | https://vivaldi.com/                                | Global    | Multi      | -                                     | -             | 13/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](global/SOFTWARE.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](global/SOFTWARE.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Ireland
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile        | Web                | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:------------------------|:-------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | University of Limerick | https://mastodon.ie/@UL | https://www.ul.ie/ | Ireland   | English    | -             | -             | 07/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](ireland/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](ireland/UNIVERSITIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Netherlands
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile                     | Web                                  | Country     | Language   | Other links                                                                    | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------------|:-------------------------------------|:------------|:-----------|:-------------------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | Dugdale Research Group | https://ecoevo.social/@Hannahdugdale | https://hannahdugdale.wordpress.com/ | Netherlands | English    | https://research.rug.nl/en/organisations/dugdale-group-evolution-of-senescence | -             | 16/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](netherlands/SCI_RESEARCH_GROUPS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](netherlands/SCI_RESEARCH_GROUPS.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                       | Mastodon profile                             | Web                    | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------|:---------------------------------------------|:-----------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -625,64 +625,64 @@ The list is open to:
 | Radboud University         | https://mastodon.social/@Radboud_uni         | https://www.ru.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2016                       | -          |
 | Utrecht University         | https://mastodon.online/@UtrechtUniversiteit | https://www.uu.nl/     | Netherlands | Dutch      | -             | -             | 03/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](netherlands/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](netherlands/UNIVERSITIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## New Zealand
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Scientific dissemination
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Norway
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                          | Mastodon profile                  | Web                                                                                                                                                                                 | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | MINS Research Group/Faggruppe | https://sciences.social/@minsnord | https://www.nord.no/en/about/faculties-and-centres/faculty-of-social-sciences/research/divisions/miljo-internasjonale-relasjoner-noromrader-og-samfunnssikkerhet/Pages/default.aspx | Norway    | English    | -             | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](norway/SCI_RESEARCH_GROUPS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](norway/SCI_RESEARCH_GROUPS.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Spain
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/CARTOONISTS.svg" alt="Country">
 
 ### Cartoonists / Illustrators
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name             | Mastodon profile                     | Web                                               | Country   | Language          | Other links   | Information            | Mastodon profile creation date   | Keywords   |
 |:-----------------|:-------------------------------------|:--------------------------------------------------|:----------|:------------------|:--------------|:-----------------------|:---------------------------------|:-----------|
@@ -690,38 +690,38 @@ The list is open to:
 | Cirenia Arias    | https://scicomm.xyz/@cireniasketches | http://cienciaenredes.com/cirenia-arias/          | Spain     | Spanish / English | -             | Ilustradora científica | 05/11/2022                       | -          |
 | JRMora           | https://mastodon.social/@jrmora      | https://jrmora.com/                               | Spain     | Spanish           | -             | -                      | 29/12/2019                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/CARTOONISTS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/CARTOONISTS.csv)
 
 <img align="left" height="30" src=".resources/icons/COLLECTIVES.svg" alt="Country">
 
 ### Collectives
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name         | Mastodon profile                     | Web                             | Country   | Language   | Other links                                      | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:-------------------------------------|:--------------------------------|:----------|:-----------|:-------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | Proyecto UNA | https://mastodon.social/@proyectouna | https://twitter.com/ProyectoUna | Spain     | Spanish    | https://www.elsaltodiario.com/autor/proyecto-una | -             | 25/04/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/COLLECTIVES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/COLLECTIVES.csv)
 
 <img align="left" height="30" src=".resources/icons/COMEDIANS.svg" alt="Country">
 
 ### Comedians
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name             | Mastodon profile                    | Web                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------|:------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Anacleto Panceto | https://mastodon.social/@Xuxipc     | https://www.instagram.com/xuxipc/ | Spain     | Spanish    | -             | -             | 06/07/2018                       | -          |
 | norcoreano       | https://mastodon.social/@norcoreano | https://twitter.com/norcoreano    | Spain     | Spanish    | -             | -             | 01/10/2018                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/COMEDIANS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/COMEDIANS.csv)
 
 <img align="left" height="30" src=".resources/icons/JOURNALISTS.svg" alt="Country">
 
 ### Journalists
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                     | Mastodon profile                                | Web                                                          | Country   | Language          | Other links   | Information         | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:------------------------------------------------|:-------------------------------------------------------------|:----------|:------------------|:--------------|:--------------------|:---------------------------------|:-----------|
@@ -745,13 +745,13 @@ The list is open to:
 | Willy Veleta             | https://mastodon.world/@VeletaWilly             | https://ctxt.es/user/profile/Willyveleta                     | Spain     | Spanish           | -             | -                   | 18/11/2022                       | -          |
 | Yago Álvarez Barba       | https://activism.openworlds.info/@EconoCabreado | https://www.elsaltodiario.com/autor/yago-alvarez             | Spain     | Spanish           | -             | Economista Cabreado | 11/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/JOURNALISTS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/JOURNALISTS.csv)
 
 <img align="left" height="30" src=".resources/icons/MEDIA.svg" alt="Country">
 
 ### Media
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name            | Mastodon profile                       | Web                                   | Country   | Language   | Other links                | Information           | Mastodon profile creation date   | Keywords   |
 |:----------------|:---------------------------------------|:--------------------------------------|:----------|:-----------|:---------------------------|:----------------------|:---------------------------------|:-----------|
@@ -769,61 +769,61 @@ The list is open to:
 | microsiervos    | https://mastodon.cloud/@microsiervos   | https://www.microsiervos.com/         | Spain     | Spanish    | https://t.me/microsiervos  | -                     | 01/08/2018                       | -          |
 | Portal Vallecas | https://mastodon.la/@PortalVallecas    | https://www.portalvallecas.es/        | Spain     | Spanish    | -                          | -                     | 12/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MEDIA.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/MEDIA.csv)
 
 <img align="left" height="30" src=".resources/icons/MUSICIANS.svg" alt="Country">
 
 ### Musicians
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name           | Mastodon profile                   | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:-----------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Ismael Serrano | https://mastodon.la/@serranoismael | https://www.ismaelserrano.com/ | Spain     | Spanish    | -             | -             | 12/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/MUSICIANS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/MUSICIANS.csv)
 
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name           | Mastodon profile                                   | Web                                | Country   | Language   | Other links                  | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:---------------------------------------------------|:-----------------------------------|:----------|:-----------|:-----------------------------|:--------------|:---------------------------------|:-----------|
 | Interferencias | https://social.interferencias.tech/@interferencias | https://jasyp.interferencias.tech/ | Spain     | Spanish    | https://t.me/inter_ferencias | -             | 10/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/NPO_NGO.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/PERSONALITIES.svg" alt="Country">
 
 ### Personalities and celebrities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name         | Mastodon profile                  | Web                           | Country   | Language   | Other links                           | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------------------------------|:--------------|:---------------------------------|:-----------|
 | Chema Alonso | https://ioc.exchange/@chemaalonso | https://www.elladodelmal.com/ | Spain     | Spanish    | https://mypublicinbox.com/ChemaAlonso | -             | 15/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/PERSONALITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/PERSONALITIES.csv)
 
 <img align="left" height="30" src=".resources/icons/PODCAST.svg" alt="Country">
 
 ### Podcast
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name               | Mastodon profile                     | Web                                                | Country   | Language   | Other links                                                           | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------|:-------------------------------------|:---------------------------------------------------|:----------|:-----------|:----------------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | PostApocalipsisNau | https://todon.nl/@PostApocalipsisNau | https://www.elsaltodiario.com/post-apocalipsis-nau | Spain     | Spanish    | https://www.ivoox.com/podcast-post-apocalipsis-nau_sq_f1634081_1.html | -             | 24/06/2019                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/PODCAST.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/PODCAST.csv)
 
 <img align="left" height="30" src=".resources/icons/POLICY.svg" alt="Country">
 
 ### Policy
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                 | Mastodon profile                     | Web                                           | Country   | Language                    | Other links                 | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:-------------------------------------|:----------------------------------------------|:----------|:----------------------------|:----------------------------|:--------------|:---------------------------------|:-----------|
@@ -831,50 +831,50 @@ The list is open to:
 | Pablo Echenique      | https://todon.eu/@PabloEchenique     | https://es.wikipedia.org/wiki/Pablo_Echenique | Spain     | Spanish                     | https://t.me/PabloEchenique | -             | 13/11/2022                       | -          |
 | Pirates de Catalunya | https://mastodont.cat/@partit_pirata | https://pirates.cat/                          | Spain     | Spanish / Catalan / English | https://t.me/PirataCat      | -             | 14/05/2018                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/POLICY.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/POLICY.csv)
 
 <img align="left" height="30" src=".resources/icons/RESEARCHERS.svg" alt="Country">
 
 ### Researchers
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name            | Mastodon profile                   | Web                          | Country   | Language   | Other links                                            | Information   | Mastodon profile creation date   | Keywords   |
 |:----------------|:-----------------------------------|:-----------------------------|:----------|:-----------|:-------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | Carlos Pimentel | https://fediscience.org/@doclomieu | https://cpimentelguerra.com/ | Spain     | Spanish    | https://www.researchgate.net/profile/Carlos-Pimentel-5 | Geologist     | 12/05/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/RESEARCHERS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/RESEARCHERS.csv)
 
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Scientific dissemination
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Ecopixeladas        | https://social.politicaconciencia.org/@ecopixeladas | https://ecopixeladas.com/      | Spain     | Spanish    | -             | -             | 20/02/2021                       | -          |
 | The Conversation ES | https://newsie.social/@theconversationes            | https://theconversation.com/es | Spain     | Spanish    | -             | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCIENTIFIC_DISSEMINATION.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/SCIENTIFIC_DISSEMINATION.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name      | Mastodon profile                  | Web   | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:----------|:----------------------------------|:------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | INFOBISOC | https://red.niboe.info/@infobisoc | -     | Spain     | Spanish    | -             | -             | 25/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/SCI_RESEARCH_GROUPS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/SCI_RESEARCH_GROUPS.csv)
 
 <img align="left" height="30" src=".resources/icons/WRITERS.svg" alt="Country">
 
 ### Writers
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name             | Mastodon profile                      | Web                                              | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------|:--------------------------------------|:-------------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -882,92 +882,92 @@ The list is open to:
 | Gonzalo Torné    | https://mastodon.social/@GonzaloTorne | https://es.wikipedia.org/wiki/Gonzalo_Torn%C3%A9 | Spain     | Spanish    | -             | -             | 03/10/2018                       | -          |
 | Guillermo Zapata | https://mas.to/@GZapata               | https://biblioghizan.com/                        | Spain     | Spanish    | -             | -             | 09/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](spain/WRITERS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](spain/WRITERS.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## Switzerland
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                 | Mastodon profile                   | Web                    | Country     | Language   | Other links       | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------|:-----------------------------------|:-----------------------|:------------|:-----------|:------------------|:--------------|:---------------------------------|:-----------|
 | CK's Technology News | https://cktn.todon.de/@CKsTechNews | https://forum.cktn.de/ | Switzerland | English    | https://cktn.org/ | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](switzerland/NPO_NGO.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](switzerland/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                    | Mastodon profile               | Web                       | Country     | Language         | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------------|:-------------------------------|:--------------------------|:------------|:-----------------|:--------------|:--------------|:---------------------------------|:-----------|
 | CDE, University of Bern | https://mstdn.social/@CDEunibe | https://www.cde.unibe.ch/ | Switzerland | English / German | -             | -             | 10/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](switzerland/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](switzerland/UNIVERSITIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## United Kingdom
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
 ### Foundations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                      | Mastodon profile                  | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------|:----------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Omega Research Foundation | https://mastodon.social/@Omega_RF | https://omegaresearchfoundation.org/ | United Kingdom | English    | -             | -             | 04/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/FOUNDATIONS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_kingdom/FOUNDATIONS.csv)
 
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
 ### Non profit organizations / Non Governmental Organizations
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Open Rights Group | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/NPO_NGO.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_kingdom/NPO_NGO.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                       | Mastodon profile                           | Web                        | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------------------|:-------------------------------------------|:---------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Royal Astronomical Society | https://astrodon.social/@royalastrosoc     | https://ras.ac.uk/         | United Kingdom | English    | -             | -             | 08/11/2022                       | -          |
 | The Prehistoric Society    | https://mastodonapp.uk/@PrehistoricSociety | www.prehistoricsociety.org | United Kingdom | English    | -             | -             | 26/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_kingdom/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                     | Mastodon profile               | Web                                                                                                                                                | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -975,82 +975,82 @@ The list is open to:
 | Landscape Research Group | https://mas.to/@aboutlandscape | https://landscaperesearch.org/                                                                                                                     | United Kingdom | English    | -             | -             | 10/11/2022                       | -          |
 | LIP Research Group       | https://sciences.social/@lip   | https://wp.lancs.ac.uk/lip/                                                                                                                        | United Kingdom | English    | -             | -             | 14/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/SCI_RESEARCH_GROUPS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_kingdom/SCI_RESEARCH_GROUPS.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | University of Aberdeen | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/ | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_kingdom/UNIVERSITIES.csv)
 
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
 
 ## USA
 
-<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/MEDIA.svg" alt="Country">
 
 ### Media
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name           | Mastodon profile                      | Web                        | Country   | Language   | Other links                                               | Information   | Mastodon profile creation date   | Keywords   |
 |:---------------|:--------------------------------------|:---------------------------|:----------|:-----------|:----------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | Foreign Policy | https://mastodon.world/@foreignpolicy | https://foreignpolicy.com/ | USA       | English    | https://www.linkedin.com/company/foreign-policy-magazine/ | -             | 18/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/MEDIA.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/MEDIA.csv)
 
 <img align="left" height="30" src=".resources/icons/PODCAST.svg" alt="Country">
 
 ### Podcast
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name              | Mastodon profile                     | Web                         | Country   | Language   | Other links                                                    | Information   | Mastodon profile creation date   | Keywords   |
 |:------------------|:-------------------------------------|:----------------------------|:----------|:-----------|:---------------------------------------------------------------|:--------------|:---------------------------------|:-----------|
 | The Overhead Wire | https://sfba.social/@TheOverheadWire | http://theoverheadwire.com/ | USA       | English    | https://usa.streetsblog.org/category/special-features/podcast/ | Jeff Wood     | 11/05/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/PODCAST.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/PODCAST.csv)
 
 <img align="left" height="30" src=".resources/icons/SCIENCE.svg" alt="Country">
 
 ### Science
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                        | Mastodon profile             | Web                          | Country   | Language   | Other links                            | Information                                                                                    | Mastodon profile creation date   | Keywords   |
 |:--------------------------------------------|:-----------------------------|:-----------------------------|:----------|:-----------|:---------------------------------------|:-----------------------------------------------------------------------------------------------|:---------------------------------|:-----------|
 | The Arabidopsis Information Resource (TAIR) | https://genomic.social/@TAIR | https://www.arabidopsis.org/ | USA       | Englsih    | https://www.phoenixbioinformatics.org/ | Database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana | 16/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCIENCE.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/SCIENCE.csv)
 
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
 ### Scientific dissemination
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                | Mastodon profile                         | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------|:-----------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | The Conversation US | https://newsie.social/@TheConversationUS | https://theconversation.com/us | USA       | English    | -             | -             | 04/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCIENTIFIC_DISSEMINATION.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/SCIENTIFIC_DISSEMINATION.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
 ### Scientific institutes, societies and journals
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                                                          | Mastodon profile                                    | Web                            | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------------------------------------------|:----------------------------------------------------|:-------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
@@ -1058,26 +1058,26 @@ The list is open to:
 | Institute for Energy Economics and Financial Analysis (IEEFA) | https://mastodon.energy/@ieefa_institute            | https://ieefa.org/             | USA       | English    | -             | -             | 09/11/2022                       | -          |
 | Society for Glycobiology                                      | https://qoto.org/@SfG                               | https://www.glycobiology.org/  | USA       | English    | -             | -             | 07/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
 ### Scientific research groups
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                     | Mastodon profile                         | Web                                       | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------|:-----------------------------------------|:------------------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | Max Lab UW Seattle       | https://fediscience.org/@StutteringLabUW | http://faculty.washington.edu/ludomax/lab | USA       | English    | -             | -             | 04/11/2022                       | -          |
 | Taia Wang Research Group | https://mstdn.science/@wanglab           | https://profiles.stanford.edu/taia-wang   | USA       | English    | -             | -             | 07/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/SCI_RESEARCH_GROUPS.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/SCI_RESEARCH_GROUPS.csv)
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universities
 
-<img align="left" height="5" src=".resources/icons/subsep.svg" alt="Separator">
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
 | Name                            | Mastodon profile                           | Web                                    | Country   | Language   | Other links                      | Information   | Mastodon profile creation date   | Keywords   |
 |:--------------------------------|:-------------------------------------------|:---------------------------------------|:----------|:-----------|:---------------------------------|:--------------|:---------------------------------|:-----------|
@@ -1090,7 +1090,7 @@ The list is open to:
 | University of California Merced | https://mastodon.social/@universitymerce   | https://graduatedivision.ucmerced.edu/ | USA       | English    | -                                | -             | 22/09/2021                       | -          |
 | University of New Hampshire     | https://mastodon.social/@uofnh             | http://unh.edu/                        | USA       | English    | -                                | -             | 16/11/2022                       | -          |
 
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_states_of_america/UNIVERSITIES.csv)
+[![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](united_states_of_america/UNIVERSITIES.csv)
 
 ---
 <br>

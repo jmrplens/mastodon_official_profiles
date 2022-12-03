@@ -1,43 +1,45 @@
+""" Generate MAIN.CSV and README's """
 
 import os
-
-import MakeReadmeHeaderAndFooter as MakeHF
-import MakeMarkdownTables as MakeMD
-import MakeTOC
+import makemaincsv as Mcsv
+import makereadmeheaderfooter as MakeHF
+import makemarkdowntables as MakeMD
+import maketoc
 
 # Settings
 lang_list = ["ES", "EN"]  # Available: "ES", "EN"
-order_data_by = "Country"  # Available: "Country"
+ORDER_DATA_BY = "Country"  # Available: "Country"
 
 # First, Append CSV's
-exec(open("MakeMainCSV.py").read())
+Mcsv.makecsv()
 
 # Create README_XX Lists
-for idx in range(len(lang_list)):
+for lang in lang_list:
 
     # Make Header For README_XX.md
-    topheader = MakeHF.maketopheader(lang_list[idx])
-    header = MakeHF.makeheader(lang_list[idx])
+    topheader = MakeHF.maketopheader(lang)
+    header = MakeHF.makeheader(lang)
 
     # Make Markdown Tables with headings
-    mdtables = MakeMD.generate(order_data_by,lang_list[idx])
+    mdtables = MakeMD.generate(ORDER_DATA_BY,lang)
 
     # Make Footer For README_XX.md
-    footer = MakeHF.makefooter(lang_list[idx])
-    bottomfooter = MakeHF.makebottomfooter(lang_list[idx])
+    footer = MakeHF.makefooter(lang)
+    bottomfooter = MakeHF.makebottomfooter(lang)
 
     # Concatenate strings
     str_readme = topheader + header + mdtables + footer + bottomfooter
 
     # Create file if no exist
-    if not os.path.exists("README_" + lang_list[idx] + ".md"):
-        with open("README_" + lang_list[idx] + ".md", 'w'): pass
+    if not os.path.exists("README_" + lang + ".md"):
+        with open("README_" + lang + ".md", 'w',encoding="utf-8"):
+            pass
 
     # Create TOC
-    str_readme = MakeTOC.maketoc(str_readme,lang_list[idx])
+    str_readme = maketoc.maketoc(str_readme,lang)
 
     # Write .md file
-    text_file = open("README_" + lang_list[idx] + ".md", "wt")
+    text_file = open("README_" + lang + ".md", "wt", encoding="utf-8")
     text_file.write(str_readme)
     text_file.close()
 
@@ -57,6 +59,6 @@ bottomfooter = MakeHF.makebottomfooter()
 str_readme = topheader + body + footer + bottomfooter
 
 # Write .md file
-text_file = open("README.md", "wt")
+text_file = open("README.md", "wt", encoding="utf-8")
 text_file.write(str_readme)
 text_file.close()

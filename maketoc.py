@@ -2,7 +2,7 @@
 import md_toc
 
 def maketoc(str_readme,lang=""):
-    # Find the line where to insert the toc
+    """Find the line where to insert the toc"""
     line = 0
     found = False
     for linex in str_readme.splitlines():
@@ -11,7 +11,8 @@ def maketoc(str_readme,lang=""):
             str_readme.split()
             break
         line = line + 1
-    if not found: line = 0
+    if not found:
+        line = 0
 
     # Find char index to insert TOC
     index = str_readme.index("<!--TOC-->")
