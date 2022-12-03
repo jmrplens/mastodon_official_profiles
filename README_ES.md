@@ -642,9 +642,9 @@ La lista está abierta a:
 
 <img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name                | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:--------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| The Conversation NZ | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       | -          |
+| Name                     | Mastodon profile                           | Web                            | Country     | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------|:-------------------------------------------|:-------------------------------|:------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| The Conversation NZ test | https://mastodon.social/@theconversationau | https://theconversation.com/au | New Zealand | English    | -             | -             | 18/11/2022                       | -          |
 
 [![View CSV]                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)                        ](new_zealand/SCIENTIFIC_DISSEMINATION.csv)
 
