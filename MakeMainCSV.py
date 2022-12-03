@@ -27,3 +27,12 @@ for file in result:
 # Save MAIN.csv
 df_append.sort_values(by='Name', inplace=True, key=lambda col: col.str.lower())
 df_append.to_csv("MAIN.csv", index = False)
+
+# Update SVG DATABASE TOTAL PROFILES
+filename = ".resources/information/DATABASE_PROFILES_NUM_EN.svg"
+filenametemp = ".resources/information/DATABASE_PROFILES_NUM_TMP_EN.svg"
+open(filename, 'w').write(open(filenametemp).read().replace('XXXX',str(len(df_append))))
+
+filename = ".resources/information/DATABASE_PROFILES_NUM_ES.svg"
+filenametemp = ".resources/information/DATABASE_PROFILES_NUM_TMP_ES.svg"
+open(filename, 'w').write(open(filenametemp).read().replace('XXXX',str(len(df_append))))
