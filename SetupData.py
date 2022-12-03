@@ -10,7 +10,7 @@ lang_list = ["ES", "EN"]  # Available: "ES", "EN"
 order_data_by = "Country"  # Available: "Country"
 
 # First, Append CSV's
-exec(open("./MakeMainCSV.py").read())
+exec(open("MakeMainCSV.py").read())
 
 # Create README_XX Lists
 for idx in range(len(lang_list)):
