@@ -1,6 +1,6 @@
 atomicwrites==1.4.1
 certifi==2022.9.24
-charset-normalizer==3.0.1
+charset-normalizer
 fpyutils==2.2.1
 idna==3.4
 md-toc==8.1.5
