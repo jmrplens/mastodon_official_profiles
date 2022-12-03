@@ -46,5 +46,6 @@ jobs:
       uses: CasperWA/push-protected@v2
       with:
         token: ${{ secrets.PUSH_TO_PROTECTED_BRANCH }}
-        branch: protected
+        branch: main
+        unprotect_reviews: true
     
