@@ -42,7 +42,7 @@ jobs:
     - name: Generate data
       run: |
         python3 --version
-        python3 SetupData.py
+        python3 setupdata.py
 
     - name: commit files
       run: |
