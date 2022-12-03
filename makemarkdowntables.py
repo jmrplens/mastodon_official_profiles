@@ -93,9 +93,8 @@ def gen_by_country(lang):
             # Print Table
             str_readme = str_readme + md_table + "\n\n"
             badge = \
-                "[![View CSV]\
-                    (https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)\
-                        ](" + data.iloc[0]["FILEPATH"] + ")"
+                "[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)]("\
+                    + data.iloc[0]["FILEPATH"] + ")"
             str_readme = str_readme + badge + '\n\n'
         str_readme = str_readme + "---\n<br>\n\n"
     return str_readme
