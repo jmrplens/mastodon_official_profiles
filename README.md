@@ -1,11 +1,5 @@
 [![GitHub file size in bytes](https://img.shields.io/github/size/jmrplens/mastodon_official_profiles/MAIN.csv?label=DATABASE%20TOTAL%20SIZE%20(MAIN.csv)&logo=MAIN.csv&style=for-the-badge)](MAIN.csv)
 [![Database total profiles](.resources/information/DATABASE_PROFILES_NUM_EN.svg)](MAIN.csv)
-
-![GitHub repo directory count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=folders&style=for-the-badge&type=dir)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=files&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles?style=for-the-badge)
-
 [![DOI](.resources/information/DOI.svg)](https://zenodo.org/badge/latestdoi/569637398)
 
 
@@ -43,6 +37,15 @@ Individuals and/or organizations that have collected interesting accounts and ha
 - [<img src=".resources/icons/mastodon.svg" height="12"/> `Gerald Leppert`](https://bonn.social/@gerald_leppert)
 - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon Migration`](https://mastodon.online/@mastodonmigration)
 
+------
+
+[![liberapay](https://img.shields.io/badge/Support%20me%20on%20Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/jmrplens/donate)
+[![ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/X8X147IR3)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/jmrplens)
+
 ---
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/jmrplens/donate)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X147IR3)
+
+![GitHub repo directory count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=folders&type=dir)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/jmrplens/mastodon_official_profiles?label=files)
+![GitHub Repo stars](https://img.shields.io/github/stars/jmrplens/mastodon_official_profiles)
+![GitHub forks](https://img.shields.io/github/forks/jmrplens/mastodon_official_profiles)
