@@ -22,7 +22,7 @@
 
 --- 
 
-## Contributors 
+## Contributors
 
 - [José M. Requena Plens](https://github.com/jmrplens) 
     - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jmrplens.github.io/)
