@@ -966,9 +966,11 @@ La lista está abierta a:
 
 <img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name              | Mastodon profile                                    | Web                              | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:------------------|:----------------------------------------------------|:---------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Open Rights Group | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/ | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
+| Name                  | Mastodon profile                                    | Web                                  | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:----------------------|:----------------------------------------------------|:-------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Afallen               | https://toot.wales/@afallen                         | https://afallen.cymru/               | United Kingdom | English    | -             | -             | 2/3/2019                         | -          |
+| Cardiff Civic Society | https://toot.wales/@CardiffCivicSoc                 | https://www.cardiffcivicsociety.org/ | United Kingdom | English    | -             | -             | 19/11/2022                       | -          |
+| Open Rights Group     | https://social.openrightsgroup.org/@openrightsgroup | https://www.openrightsgroup.org/     | United Kingdom | English    | -             | -             | 21/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/NPO_NGO.csv)
 
@@ -978,9 +980,10 @@ La lista está abierta a:
 
 <img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name                   | Mastodon profile                     | Web                     | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-----------------------|:-------------------------------------|:------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| University of Aberdeen | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/ | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
+| Name                           | Mastodon profile                     | Web                                               | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------------|:-------------------------------------|:--------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| University of Aberdeen         | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/                           | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
+| Wales Governance Centre | CLlC | https://toot.wales/@WalesGovernance  | https://www.cardiff.ac.uk/wales-governance-centre | United Kingdom | English    | -             | -             | 06/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/UNIVERSITIES.csv)
 
