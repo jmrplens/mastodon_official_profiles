@@ -1,6 +1,9 @@
 ## Contributors
 
-- [José M. Requena Plens](https://github.com/jmrplens) 
+- [Jaz-Michael King](https://jaz.co.uk/)
+    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jaz.co.uk/)
+    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://toot.wales/@jaz)
+- [José M. Requena Plens](https://github.com/jmrplens) [_Owner_]
     - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jmrplens.github.io/)
     - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://red.niboe.info/@jmrplens)
 - [Lydia Gil](https://socialmediaeninvestigacion.com/) [_Collaborate from outside GitHub_]
