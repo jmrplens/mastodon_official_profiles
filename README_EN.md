@@ -983,7 +983,7 @@ The list is open to:
 | Name                           | Mastodon profile                     | Web                                               | Country        | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
 |:-------------------------------|:-------------------------------------|:--------------------------------------------------|:---------------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
 | University of Aberdeen         | https://mastodon.scot/@uniofaberdeen | https://www.abdn.ac.uk/                           | United Kingdom | English    | -             | -             | 07/11/2022                       | -          |
-| Wales Governance Centre | CLlC | https://toot.wales/@WalesGovernance  | https://www.cardiff.ac.uk/wales-governance-centre | United Kingdom | English    | -             | -             | 06/11/2022                       | -          |
+| Wales Governance Centre - CLlC | https://toot.wales/@WalesGovernance  | https://www.cardiff.ac.uk/wales-governance-centre | United Kingdom | English    | -             | -             | 06/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](united_kingdom/UNIVERSITIES.csv)
 
