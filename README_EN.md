@@ -354,12 +354,13 @@ The list is open to:
 
 <img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name                                       | Mastodon profile                  | Web                           | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
-|:-------------------------------------------|:----------------------------------|:------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
-| Institut für Publizistik                   | https://sciences.social/@ifp      | https://www.ifp.uni-mainz.de/ | Germany   | English    | -             | -             | 21/11/2022                       | -          |
-| MPI for Biological Intelligence            | https://wisskomm.social/@MPIforBI | https://www.bi.mpg.de/en      | Germany   | English    | -             | -             | 21/11/2022                       | -          |
-| MPI of Molecular Cell Biology and Genetics | https://wisskomm.social/@mpicbg   | https://www.mpi-cbg.de/       | Germany   | English    | -             | -             | 19/11/2022                       | -          |
-| Robert Koch-Institut                       | https://social.bund.de/@RKI       | https://www.rki.de            | Germany   | German     | -             | -             | 11/11/2022                       | -          |
+| Name                                       | Mastodon profile                               | Web                               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------------------------------------|:-----------------------------------------------|:----------------------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Institut für Publizistik                   | https://sciences.social/@ifp                   | https://www.ifp.uni-mainz.de/     | Germany   | English    | -             | -             | 21/11/2022                       | -          |
+| Max-Planck-Gesellschaft                    | https://wisskomm.social/@maxplanckgesellschaft | https://www.mpg.de/en/socialmedia | Germany   | German     | -             | -             | 18/11/2022                       | -          |
+| MPI for Biological Intelligence            | https://wisskomm.social/@MPIforBI              | https://www.bi.mpg.de/en          | Germany   | English    | -             | -             | 21/11/2022                       | -          |
+| MPI of Molecular Cell Biology and Genetics | https://wisskomm.social/@mpicbg                | https://www.mpi-cbg.de/           | Germany   | English    | -             | -             | 19/11/2022                       | -          |
+| Robert Koch-Institut                       | https://social.bund.de/@RKI                    | https://www.rki.de                | Germany   | German     | -             | -             | 11/11/2022                       | -          |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SCI_INSTITUTES_JOURNALS_SOCIETIES.csv)
 
