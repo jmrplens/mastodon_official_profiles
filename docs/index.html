@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Mastodon Profiles</title>
+    <meta name="author" content="José Manuel Requena Plens">
+    <meta name="description" content="Mastodon Profiles. Sorted by countries and categories">
+    <meta name="keywords" content="Mastodon profiles, Mastodon, fediverse, official"> 
+    <meta property="og:site_name" content="Mastodon profiles"> 
+    <meta property="og:type" content="website"> 
+    <meta property="og:title" content="Mastodon Profiles"> 
+    <meta property="og:url" content="https://jmrplens.github.io/mastodon_official_profiles/"> 
+    <meta property="og:description" content="Mastodon Profiles. Sorted by countries and categories"> 
+    <meta property="og:image" content=""> 
+    <meta property="og:locale" content="en"> 
+    <meta name="twitter:card" content="summary"> 
+    <meta name="twitter:title" content="Mastodon Profiles"> 
+    <meta name="twitter:description" content="Mastodon Profiles. Sorted by countries and categories"> 
+    <meta name="twitter:image" content="">
+    <script type="application/ld+json">
+      {
+        "author":
+        {
+          "@type": "Person",
+          "name": "José M. Requena Plens"
+        },
+        "url": "https://jmrplens.github.io/mastodon_official_profiles/",
+        "@type": "WebSite",
+        "description": "Mastodon Profiles. Sorted by countries and categories",
+        "headline": "Mastodon Profiles",
+        "name": "Mastodon Profiles",
+        "@context": "https://schema.org"
+      }
+    </script>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <main class="row">
+            <div class="col">
+                <h1>Mastodon Profiles</h1>
+
+                <p>Database with revised information on relevant accounts in Mastodon. <a
+                        href="https://github.com/jmrplens/mastodon_official_profiles">To contribute click here</a>. (In the link you can also see the tables in a more user-friendly way).</p>
+
+                <div id="table-container"></div>
+            </div>
+        </main>
+        <footer class="row">
+            <div class="col">
+                <hr>
+                <p class="text-right"><a href="https://github.com/derekeder/csv-to-html-table">Made with CSV to HTML Table</a> by
+                    <a href="http://derekeder.com">Derek
+                        Eder</a></p>
+            </div>
+        </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
+
+    <script>
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "https://raw.githubusercontent.com/jmrplens/mastodon_official_profiles/main/MAIN.csv",
+            element: "table-container",
+            allow_download: true,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: false
+            },
+            custom_formatting: [
+                [1, format_link],
+                [2, format_link]
+            ]
+        });
+    </script>
+</body>
+
+</html>
