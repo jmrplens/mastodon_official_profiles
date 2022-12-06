@@ -1104,15 +1104,12 @@ La lista está abierta a:
 
 ## Colaboradores
 
-- [Jaz-Michael King](https://github.com/jazmichaelking)
-    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jaz.co.uk/)
-    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://toot.wales/@jaz)
-- [José M. Requena Plens](https://github.com/jmrplens) [_Owner_]
-    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://jmrplens.github.io/)
-    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://red.niboe.info/@jmrplens)
-- [Lydia Gil](https://socialmediaeninvestigacion.com/) [_Colabora desde fuera de GitHub_]
-    - [<img src=".resources/icons/web.svg" height="12"/> `Web`](https://socialmediaeninvestigacion.com/)
-    - [<img src=".resources/icons/mastodon.svg" height="12"/> `Mastodon`](https://mstdn.science/@TuSocialMedia)
+| Nombre                                                                                    |  Web                                      | Social                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------  |-----------------------------------------  |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Jaz-Michael King](https://github.com/jazmichaelking)                                     | https://jaz.co.uk/                        | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://toot.wales/@jaz)                                                                                                                                    |
+| [Jorge Saturno](https://github.com/jorgesat)                                              | https://kumulonimb.us/                    | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon (Nibö)](https://red.niboe.info/@jorge)<br>[<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon (scholar.social)](https://scholar.social/@jorge)  |
+| [José M. Requena Plens](https://github.com/jmrplens) [_Owner_]                            | https://jmrplens.github.io/               | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://red.niboe.info/)                                                                                                                                    |
+| [Lydia Gil](https://socialmediaeninvestigacion.com/) [_Colabora desde fuera de GitHub_]   | https://socialmediaeninvestigacion.com/   | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://mstdn.science/@TuSocialMedia)                                                                                                                       |
 
 ## Fuentes de información relevantes
 
