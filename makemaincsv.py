@@ -29,5 +29,5 @@ def makecsv() -> None:
     df_append.to_csv("MAIN.csv", index = False)
     
     # Save MAIN.csv without irrelevant columns
-    df_web = df_append.iloc[:,0:9];
+    df_web = df_append.iloc[:,0:11];
     df_web.to_csv("docs/MAIN_web.csv", index = False)
