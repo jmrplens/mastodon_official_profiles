@@ -7,8 +7,8 @@ import pandas as pd  # To import CSV and Markdown conversion
 
 def makecsv() -> None:
     """Make MAIN.csv"""
-    # Get all CSV Filepaths
-    result = glob.glob('*/**.csv')
+    # Get all CSV Filepaths - Ignore 'docs' folder
+    result = list(set(glob.glob("*/**.csv")) - set(glob.glob("docs/**", recursive=True)))
 
     # Loop over files to create dictionary (Key=filepath, Value=markdown table)
     df_append = pd.DataFrame()  # To main.csv file
