@@ -15,4 +15,7 @@ The list is open to:
 - Create new folders or new files.
 - Other changes that have not yet been foreseen.
 
+
+[![Interactive list](https://img.shields.io/badge/WEB-Interactive%20list-blue?labelColor=abcdef&style=for-the-badge)](https://jmrplens.github.io/mastodon_official_profiles/)
+
 # Table of contents

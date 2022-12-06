@@ -15,4 +15,7 @@ La lista está abierta a:
 - Crear nuevas carpetas o nuevos archivos.
 - Otros cambios que aun no se hayan previsto.
 
+
+[![Lista interactiva](https://img.shields.io/badge/WEB-Lista%20interactiva-blue?labelColor=abcdef&style=for-the-badge)](https://jmrplens.github.io/mastodon_official_profiles/)
+
 # Índice
