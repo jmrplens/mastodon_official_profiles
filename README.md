@@ -1,4 +1,7 @@
 [![DOI](.resources/information/DOI.svg)](https://zenodo.org/badge/latestdoi/569637398)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Database total profiles](.resources/information/DATABASE_PROFILES_NUM_EN.svg)](MAIN.csv)
 [![GitHub file size in bytes](https://img.shields.io/github/size/jmrplens/mastodon_official_profiles/MAIN.csv?color=00a110&label=DATABASE%20TOTAL%20SIZE%20%28MAIN.csv%29&style=for-the-badge)](MAIN.csv)
@@ -29,6 +32,21 @@
 ## Contributors
 
 | Name                                                                                    |  Web                                      | Social                                                                                                                                                                                                                        |
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/jorgesat"><img src="https://avatars.githubusercontent.com/u/7603402?v=4?s=100" width="100px;" alt="jorgesat"/><br /><sub><b>jorgesat</b></sub></a><br /><a href="#data-jorgesat" title="Data">🔣</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 |-----------------------------------------------------------------------------------------  |-----------------------------------------  |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Jaz-Michael King](https://github.com/jazmichaelking)                                     | https://jaz.co.uk/                        | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon](https://toot.wales/@jaz)                                                                                                                                    |
 | [Jorge Saturno](https://github.com/jorgesat)                                              | https://kumulonimb.us/                    | [<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon (Nibö)](https://red.niboe.info/@jorge)<br>[<img src=".resources/icons/mastodon.svg" height="12"/> Mastodon (scholar.social)](https://scholar.social/@jorge)  |
