@@ -96,13 +96,13 @@ The list is open to:
   - [Universities](#universities-6)
 - [Contributors](#contributors)
 - [Relevant sources of information](#relevant-sources-of-information)
+<br />
 
-
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Australia
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
@@ -131,11 +131,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Austria
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCI_INSTITUTES_JOURNALS_SOCIETIES.svg" alt="Country">
 
@@ -152,11 +152,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Canada
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
@@ -176,11 +176,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## European Union
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
@@ -279,11 +279,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Germany
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
@@ -440,11 +440,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Global
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/EDUCATION.svg" alt="Country">
 
@@ -577,11 +577,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Ireland
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
@@ -598,11 +598,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Netherlands
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
@@ -633,11 +633,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## New Zealand
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCIENTIFIC_DISSEMINATION.svg" alt="Country">
 
@@ -654,11 +654,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Norway
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/SCI_RESEARCH_GROUPS.svg" alt="Country">
 
@@ -675,11 +675,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Spain
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/CARTOONISTS.svg" alt="Country">
 
@@ -890,11 +890,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Switzerland
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
 
@@ -923,11 +923,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## United Kingdom
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/FOUNDATIONS.svg" alt="Country">
 
@@ -998,11 +998,11 @@ The list is open to:
 ---
 <br>
 
-<img align="left" height="50"                 src=".resources/icons/country.svg#gh-light-mode-only"                 alt="Country">                    <img align="left" height="35"                         src=".resources/icons/country_dark.svg#gh-dark-mode-only"                             alt="Country">
+<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## USA
 
-<img align="left" height="10"                             src=".resources/icons/sep.svg" alt="Separator"><br>
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
 <img align="left" height="30" src=".resources/icons/MEDIA.svg" alt="Country">
 
