@@ -497,6 +497,18 @@ La lista está abierta a:
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SOCIAL_MOVEMENTS.csv)
 
+<img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
+
+### Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales
+
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name                  | Mastodon profile                  | Web               | Country   | Language   | Other links   | Information   | Mastodon profile creation date   | Keywords   |
+|:----------------------|:----------------------------------|:------------------|:----------|:-----------|:--------------|:--------------|:---------------------------------|:-----------|
+| Analyse und Strategie | https://mastodon.social/@cemas_io | https://cemas.io/ | Germany   | German     | -             | -             | 16/11/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/NPO_NGO.csv)
+
 <img align="left" height="30" src=".resources/icons/UNIVERSITIES.svg" alt="Country">
 
 ### Universidades
