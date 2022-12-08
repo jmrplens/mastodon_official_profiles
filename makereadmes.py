@@ -10,7 +10,8 @@ import os
 #  from deep_translator import GoogleTranslator  # To translate Country names and table column names
 
 # Public methods
-__all__ = ['makecsv', 'create_localised_readme', 'create_main_readme','update_svg']
+__all__ = ['makecsv', 'create_localised_readme', 'create_main_readme', 'update_svg']
+
 
 def makecsv():
     """Make MAIN.csv"""
@@ -41,7 +42,8 @@ def makecsv():
 
     return df_append
 
-def create_localised_readme(lang_list,order_by, df) -> None:
+
+def create_localised_readme(lang_list, order_by, df) -> None:
     # Create README_XX Lists
     for lang in lang_list:
         # Make Header For README_XX.md
@@ -62,7 +64,8 @@ def create_localised_readme(lang_list,order_by, df) -> None:
         str_readme = _maketoc(str_readme, lang)
 
         # Write .md file
-        _writefile("README_" + lang + ".md",str_readme)
+        _writefile("README_" + lang + ".md", str_readme)
+
 
 def create_main_readme() -> None:
     # Make Header For README.md
@@ -79,15 +82,21 @@ def create_main_readme() -> None:
     str_readme = topheader + body + footer + bottomfooter
 
     # Write .md file
-    _writefile("README.md",str_readme)
-def _writefile(filepath,content) -> None:
+    _writefile("README.md", str_readme)
+
+
+def _writefile(filepath, content) -> None:
     text_file = open(filepath, _openmethod(), encoding=_encoding())
     text_file.write(content)
     text_file.close()
+
+
 def _readfile(filepath):
     with open(filepath, 'r', encoding=_encoding()) as file:
         text = file.read()
     return text
+
+
 def _maketopheader(lang=""):
     """Create TOP header"""
     if lang == "":
@@ -172,11 +181,13 @@ def _openmethod():
     """ Open file method """
     return 'w+'
 
+
 def _encoding():
     """ File encoding """
     return "utf-8"
 
-def update_svg(lang,df) -> None:
+
+def update_svg(lang, df) -> None:
     # Update SVG DATABASE TOTAL PROFILES
     filename = ".resources/information/DATABASE_PROFILES_NUM_" + lang + ".svg"
     filenametemp = ".resources/information/DATABASE_PROFILES_NUM_TMP_" + lang + ".svg"
@@ -184,7 +195,8 @@ def update_svg(lang,df) -> None:
         .write(open(filenametemp, encoding=_encoding()) \
                .read().replace('XXXX', str(len(df))))
 
-def _gen_by_country(lang, df,str_readme = ""):
+
+def _gen_by_country(lang, df, str_readme=""):
     """
     Make Markdown Tables. Sorted By Country->Categories->Name
     :param lang:
@@ -194,7 +206,7 @@ def _gen_by_country(lang, df,str_readme = ""):
 
     df_gen = df
     # Update SVG DATABASE TOTAL PROFILES
-    update_svg(lang,df)
+    update_svg(lang, df)
 
     # # Translate countries
     # df_gen['Country'] = df_gen['Country'].apply(
@@ -213,22 +225,22 @@ def _gen_by_country(lang, df,str_readme = ""):
     # For each country
     for country in country_list:
         # Print Country heading
-        icon_country = '<img align="left" height="50"'\
-               + ' src=".resources/icons/country.svg#gh-light-mode-only"'\
-                + ' alt="Country">'\
-                   + '<img align="left" height="35"'\
-                       + ' src=".resources/icons/country_dark.svg#gh-dark-mode-only"'\
-                           + ' alt="Country">'
+        icon_country = '<img align="left" height="35"' \
+                       + ' src=".resources/icons/country.svg#gh-light-mode-only"' \
+                       + ' alt="Country">' \
+                       + '<img align="left" height="35"' \
+                       + ' src=".resources/icons/country_dark.svg#gh-dark-mode-only"' \
+                       + ' alt="Country">'
         str_readme = str_readme \
                      + icon_country \
                      + "\n\n## " \
                      + country \
-                     + '\n\n<img align="left" height="10"'\
-                           + ' src=".resources/icons/sep.svg" alt="Separator"><br>\n\n'
+                     + '\n\n<img align="left" height="10"' \
+                     + ' src=".resources/icons/sep.svg" alt="Separator"><br>\n\n'
         #
         profiles_country = df_gen.loc[df_gen["Country"] == country]
         df_cp = profiles_country.copy()  # To avoid "SettingWithCopyWarning"
-        df_cp.sort_values(by='Country', inplace=True,key=lambda col: col.str.lower())
+        df_cp.sort_values(by='Country', inplace=True, key=lambda col: col.str.lower())
         profiles_country = df_cp
 
         # Get category list
@@ -242,7 +254,7 @@ def _gen_by_country(lang, df,str_readme = ""):
                 ]
             # Sort by name
             df_cp = data.copy()  # To avoid "SettingWithCopyWarning"
-            df_cp.sort_values(by='Name', inplace=True,key=lambda col: col.str.lower())
+            df_cp.sort_values(by='Name', inplace=True, key=lambda col: col.str.lower())
             data = df_cp
 
             # Print Category heading
@@ -260,8 +272,11 @@ def _gen_by_country(lang, df,str_readme = ""):
             # Print Table
             str_readme = str_readme + md_table + "\n\n"
             badge = \
-                "[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](" \
-                + data.iloc[0]["FILEPATH"] + ")"
+                "[![View CSV]" \
+                + "(https://img.shields.io/badge/" \
+                + "CSV-View%20data%20in%20CSV%20file-brightgreen)](" \
+                + data.iloc[0]["FILEPATH"] \
+                + ")"
             str_readme = str_readme + badge + '\n\n'
         str_readme = str_readme + "---\n<br>\n\n"
     return str_readme
@@ -269,8 +284,8 @@ def _gen_by_country(lang, df,str_readme = ""):
 
 def _generate(orderby, lang, df):
     orderby = orderby.lower()
-    if orderby=="country":
-        str_readme= _gen_by_country(lang, df)
+    if orderby == "country":
+        str_readme = _gen_by_country(lang, df)
     else:
         str_readme = "Not generated"
     return str_readme
