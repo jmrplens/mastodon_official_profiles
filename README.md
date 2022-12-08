@@ -57,6 +57,10 @@
           <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
         <a href="https://toot.wales/@jaz" title="Mastodon">
           <img src=".resources/icons/mastodon.svg" height="22"/></a>
+        <br />
+        <br />
+        <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jazmichaelking" title="COMMITS">
+          <img src=".resources/buttons/COMMITS.svg" height="25"/></a>
       </td>
       <!-- jorgesat -->
       <td align="center">
@@ -72,6 +76,10 @@
           <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
         <a href="https://scholar.social/@jorge" title="Mastodon">
           <img src=".resources/icons/mastodon.svg" height="22"/></a>
+        <br />
+        <br />
+        <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jorgesat" title="COMMITS">
+          <img src=".resources/buttons/COMMITS.svg" height="25"/></a>
       </td>
       <!-- jmrplens -->
       <td align="center">
@@ -87,6 +95,16 @@
           <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
         <a href="https://pixelfed.social/jmrplens" title="Pixelfed">
           <img src=".resources/icons/pixelfed.svg" height="22"/></a>
+        <br />
+        <a href="https://www.linkedin.com/in/jmrplens" title="LinkedIn">
+          <img src=".resources/icons/linkedin.svg" height="22"/></a>&nbsp;
+        <a href="https://scholar.google.com/citations?user=9b0kPaUAAAAJ" title="Google Scholar">
+          <img src=".resources/icons/googlescholar.svg" height="22"/></a>&nbsp;
+        <a href="https://www.i3m-stim.i3m.upv.es/research/ultrasound-medical-and-industrial-laboratory-umil/" title="Work">
+          <img src=".resources/icons/work.svg" height="22"/></a>
+        <br />
+        <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jmrplens" title="COMMITS">
+          <img src=".resources/buttons/COMMITS.svg" height="25"/></a>
       </td>
       <!-- Lydia Gil -->
       <td align="center">
@@ -100,6 +118,10 @@
           <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
         <a href="https://mstdn.science/@TuSocialMedia" title="Mastodon">
           <img src=".resources/icons/mastodon.svg" height="22"/></a>
+        <br />
+        <br />
+        <a href="" title="EXTERNAL">
+          <img src=".resources/buttons/EXTERNAL.svg" height="25"/></a>
       </td>
     </tr>
   </tbody>
