@@ -60,7 +60,7 @@
         <br />
         <br />
         <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jazmichaelking" title="COMMITS">
-          <img src=".resources/buttons/COMMITS.svg" height="25"/></a>
+          <img src=".resources/buttons/COMMITS.svg" /></a>
       </td>
       <!-- jorgesat -->
       <td align="center">
@@ -79,7 +79,7 @@
         <br />
         <br />
         <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jorgesat" title="COMMITS">
-          <img src=".resources/buttons/COMMITS.svg" height="25"/></a>
+          <img src=".resources/buttons/COMMITS.svg" /></a>
       </td>
       <!-- jmrplens -->
       <td align="center">
@@ -104,7 +104,7 @@
           <img src=".resources/icons/work.svg" height="22"/></a>
         <br />
         <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jmrplens" title="COMMITS">
-          <img src=".resources/buttons/COMMITS.svg" height="25"/></a>
+          <img src=".resources/buttons/COMMITS.svg" /></a>
       </td>
       <!-- Lydia Gil -->
       <td align="center">
@@ -121,7 +121,7 @@
         <br />
         <br />
         <a href="" title="EXTERNAL">
-          <img src=".resources/buttons/EXTERNAL.svg" height="25"/></a>
+          <img src=".resources/buttons/EXTERNAL.svg" /></a>
       </td>
     </tr>
   </tbody>
