@@ -120,7 +120,7 @@ La lista está abierta a:
 - [Fuentes de información relevantes](#fuentes-de-información-relevantes)
 <br />
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Argentina
 
@@ -141,7 +141,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Australia
 
@@ -174,7 +174,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Austria
 
@@ -195,7 +195,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Canada
 
@@ -231,7 +231,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## European Union
 
@@ -336,7 +336,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## France
 
@@ -358,7 +358,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Germany
 
@@ -558,7 +558,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Global
 
@@ -769,7 +769,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Ireland
 
@@ -790,7 +790,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Mexico
 
@@ -811,7 +811,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Netherlands
 
@@ -846,7 +846,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## New Zealand
 
@@ -867,7 +867,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Norway
 
@@ -888,7 +888,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Paraguay
 
@@ -909,7 +909,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Spain
 
@@ -1159,7 +1159,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Switzerland
 
@@ -1192,7 +1192,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## United Kingdom
 
@@ -1269,7 +1269,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## USA
 
@@ -1390,7 +1390,7 @@ La lista está abierta a:
 ---
 <br>
 
-<img align="left" height="50" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
 ## Venezuela
 
@@ -1459,6 +1459,13 @@ La lista está abierta a:
           <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
         <a href="https://pixelfed.social/jmrplens" title="Pixelfed">
           <img src=".resources/icons/pixelfed.svg" height="22"/></a>
+        <br />
+        <a href="https://www.linkedin.com/in/jmrplens" title="LinkedIn">
+          <img src=".resources/icons/linkedin.svg" height="22"/></a>&nbsp;
+        <a href="https://scholar.google.com/citations?user=9b0kPaUAAAAJ" title="Google Scholar">
+          <img src=".resources/icons/googlescholar.svg" height="22"/></a>&nbsp;
+        <a href="https://www.i3m-stim.i3m.upv.es/research/ultrasound-medical-and-industrial-laboratory-umil/" title="Work">
+          <img src=".resources/icons/work.svg" height="22"/></a><br />
       </td>
       <!-- Lydia Gil -->
       <td align="center">
