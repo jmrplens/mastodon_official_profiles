@@ -46,7 +46,6 @@ La lista está abierta a:
 - [France](#france)
   - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-3)
 - [Germany](#germany)
-  - [-](#-)
   - [Grupos de investigación científica](#grupos-de-investigación-científica)
   - [Instituciones](#instituciones-1)
   - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-4)
