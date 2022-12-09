@@ -5,7 +5,7 @@
   <tbody>
     <tr>
       <!-- jazmichaelking -->
-      <td align="center">
+      <td width="140px" align="center">
         <a href="https://github.com/jazmichaelking">
           <img src="https://avatars.githubusercontent.com/u/3419832?v=4?s=100" width="100px;" alt="jazmichaelking"/>
         <br />
@@ -22,7 +22,7 @@
           <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
       </td>
       <!-- jorgesat -->
-      <td align="center">
+      <td width="140px" align="center">
         <a href="https://github.com/jorgesat">
           <img src="https://avatars.githubusercontent.com/u/7603402?v=4?s=100" width="100px;" alt="jorgesat"/>
           <br />
@@ -41,7 +41,7 @@
           <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
       </td>
       <!-- jmrplens -->
-      <td align="center">
+      <td width="140px" align="center">
         <a href="https://github.com/jmrplens">
           <img src="https://avatars.githubusercontent.com/u/28966312?v=4?s=100" width="100px;" alt="jmrplens"/>
           <br />
@@ -66,7 +66,7 @@
           <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
       </td>
       <!-- Lydia Gil -->
-      <td align="center">
+      <td width="140px" align="center">
         <a href="https://socialmediaeninvestigacion.com/">
           <img src="https://static.mstdn.science/accounts/avatars/109/349/104/436/155/936/original/6811c637ba69ede6.jpg" width="100px;" alt="TuSocialMedia"/>
           <br />
