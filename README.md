@@ -101,7 +101,7 @@
         <a href="https://scholar.google.com/citations?user=9b0kPaUAAAAJ" title="Google Scholar">
           <img src=".resources/icons/googlescholar.svg" height="22"/></a>&nbsp;
         <a href="https://www.i3m-stim.i3m.upv.es/research/ultrasound-medical-and-industrial-laboratory-umil/" title="Work">
-          <img src=".resources/icons/work.svg" height="22" width="85px"/></a>
+          <img src=".resources/icons/work.svg" height="22" /></a>
         <br />
         <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jmrplens" title="COMMITS">
           <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
