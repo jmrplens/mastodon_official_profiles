@@ -6,7 +6,7 @@
 
 # LIST
 
-<table>
+<table class="fixed">
   <tbody>
     <tr>
       <td align="center" colspan="2"><b>Sorted by country</b></td>
