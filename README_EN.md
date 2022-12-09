@@ -365,18 +365,6 @@ The list is open to:
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
-<img align="left" height="30" src=".resources/icons/SOCIAL_MOVEMENTS.svg" alt="Country">
-
-### -
-
-<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
-
-| Name           | Mastodon profile                              | Web                        | Country   | Language   | Other links   | Information      | Mastodon profile creation date   |   Keywords |
-|:---------------|:----------------------------------------------|:---------------------------|:----------|:-----------|:--------------|:-----------------|:---------------------------------|-----------:|
-| Digitalcourage | https://digitalcourage.social/@digitalcourage | https://digitalcourage.de/ | Germany   | German     | 08/08/2019    | Social movements | Movimientos sociales             |        nan |
-
-[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SOCIAL_MOVEMENTS.csv)
-
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
@@ -513,13 +501,14 @@ The list is open to:
 
 <img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
 
-| Name                          | Mastodon profile                             | Web                               | Country   | Language   | Other links               | Information   | Mastodon profile creation date   |   Keywords |
-|:------------------------------|:---------------------------------------------|:----------------------------------|:----------|:-----------|:--------------------------|:--------------|:---------------------------------|-----------:|
-| Ende Gelände                  | https://climatejustice.global/@ende_gelaende | https://www.ende-gelaende.org/    | Germany   | German     | -                         | -             | 24/07/2020                       |        nan |
-| Extinction Rebellion DE       | https://social.rebellion.global/@xrgermany   | https://extinctionrebellion.de/   | Germany   | German     | https://rebellion.global/ | -             | 05/09/2019                       |        nan |
-| MISSION LIFELINE              | https://mastodon.online/@missionlifeline     | https://mission-lifeline.de/      | Germany   | German     | -                         | -             | 25/04/2022                       |        nan |
-| Scientists for Future Germany | https://climatejustice.global/@S4F           | https://de.scientists4future.org/ | Germany   | German     | -                         | -             | 29/04/2022                       |        nan |
-| Seebrücke Frankfurt           | https://mastodon.social/@seebrueckeffm       | https://seebruecke-frankfurt.de   | Germany   | German     | -                         | -             | 25/02/2020                       |        nan |
+| Name                          | Mastodon profile                              | Web                               | Country   | Language   | Other links               | Information   | Mastodon profile creation date   |   Keywords |
+|:------------------------------|:----------------------------------------------|:----------------------------------|:----------|:-----------|:--------------------------|:--------------|:---------------------------------|-----------:|
+| Digitalcourage                | https://digitalcourage.social/@digitalcourage | https://digitalcourage.de/        | Germany   | German     | -                         | -             | 08/08/2019                       |        nan |
+| Ende Gelände                  | https://climatejustice.global/@ende_gelaende  | https://www.ende-gelaende.org/    | Germany   | German     | -                         | -             | 24/07/2020                       |        nan |
+| Extinction Rebellion DE       | https://social.rebellion.global/@xrgermany    | https://extinctionrebellion.de/   | Germany   | German     | https://rebellion.global/ | -             | 05/09/2019                       |        nan |
+| MISSION LIFELINE              | https://mastodon.online/@missionlifeline      | https://mission-lifeline.de/      | Germany   | German     | -                         | -             | 25/04/2022                       |        nan |
+| Scientists for Future Germany | https://climatejustice.global/@S4F            | https://de.scientists4future.org/ | Germany   | German     | -                         | -             | 29/04/2022                       |        nan |
+| Seebrücke Frankfurt           | https://mastodon.social/@seebrueckeffm        | https://seebruecke-frankfurt.de   | Germany   | German     | -                         | -             | 25/02/2020                       |        nan |
 
 [![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SOCIAL_MOVEMENTS.csv)
 
