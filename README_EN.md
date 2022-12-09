@@ -364,6 +364,18 @@ The list is open to:
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
 
+<img align="left" height="30" src=".resources/icons/SOCIAL_MOVEMENTS.svg" alt="Country">
+
+### -
+
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name           | Mastodon profile                              | Web                        | Country   | Language   | Other links   | Information      | Mastodon profile creation date   |   Keywords |
+|:---------------|:----------------------------------------------|:---------------------------|:----------|:-----------|:--------------|:-----------------|:---------------------------------|-----------:|
+| Digitalcourage | https://digitalcourage.social/@digitalcourage | https://digitalcourage.de/ | Germany   | German     | 08/08/2019    | Social movements | Movimientos sociales             |        nan |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](germany/SOCIAL_MOVEMENTS.csv)
+
 <img align="left" height="30" src=".resources/icons/INSTITUTIONS.svg" alt="Country">
 
 ### Institutions
