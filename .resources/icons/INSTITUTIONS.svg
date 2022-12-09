@@ -1,52 +1,35 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 508 508" style="enable-background:new 0 0 508 508;" xml:space="preserve">
-<circle style="fill:#FFD05B;" cx="254" cy="254" r="254"/>
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#666665;}
+	.st1{fill:#C9D1D9;}
+	.st2{fill:#FFD05B;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#E6E9EE;}
+</style>
 <g>
-	<rect x="134.8" y="182.4" style="fill:#FFFFFF;" width="46" height="169.2"/>
-	<rect x="231.2" y="184.4" style="fill:#FFFFFF;" width="46" height="169.2"/>
-	<rect x="327.6" y="184.4" style="fill:#FFFFFF;" width="46" height="169.2"/>
-	<rect x="99.2" y="345.2" style="fill:#FFFFFF;" width="309.6" height="30.4"/>
-	<polygon style="fill:#FFFFFF;" points="408.8,148 254.8,76.8 99.6,148 99.6,187.2 408.8,187.2 	"/>
+	<path class="st0" d="M75,507c-38.6,0-70-31.4-70-70V75C5,36.4,36.4,5,75,5h362c38.6,0,70,31.4,70,70v362c0,38.6-31.4,70-70,70H75z"
+		/>
+	<path class="st1" d="M437,10c35.8,0,65,29.2,65,65v362c0,35.8-29.2,65-65,65H75c-35.8,0-65-29.2-65-65V75c0-35.8,29.2-65,65-65H437
+		 M437,0H75C33.6,0,0,33.6,0,75v362c0,41.4,33.6,75,75,75h362c41.4,0,75-33.6,75-75V75C512,33.6,478.4,0,437,0L437,0z"/>
+</g>
+<circle class="st2" cx="256" cy="256" r="175"/>
+<g>
+	<rect x="173.9" y="206.7" class="st3" width="31.7" height="116.6"/>
+	<rect x="240.3" y="208" class="st3" width="31.7" height="116.6"/>
+	<rect x="306.7" y="208" class="st3" width="31.7" height="116.6"/>
+	<rect x="149.3" y="318.8" class="st3" width="213.3" height="20.9"/>
+	<polygon class="st3" points="362.7,183 256.6,133.9 149.6,183 149.6,210 362.7,210 	"/>
 </g>
 <g>
-	<polygon style="fill:#E6E9EE;" points="123.2,163.2 123.2,163.2 254.8,103.2 384.8,162.8 384.8,163.2 	"/>
-	<path style="fill:#E6E9EE;" d="M320,187.2v13.2c0,2.4,2,4.4,4.4,4.4h52.4c2.4,0,4.4-2,4.4-4.4v-13.2H320z"/>
-	<path style="fill:#E6E9EE;" d="M223.6,187.2v13.2c0,2.4,2,4.4,4.4,4.4h52.4c2.4,0,4.4-2,4.4-4.4v-13.2H223.6z"/>
-	<path style="fill:#E6E9EE;" d="M127.2,187.2v13.2c0,2.4,2,4.4,4.4,4.4H184c2.4,0,4.4-2,4.4-4.4v-13.2H127.2z"/>
-	<path style="fill:#E6E9EE;" d="M320,345.2V332c0-2.4,2-4.4,4.4-4.4h52.4c2.4,0,4.4,2,4.4,4.4v13.2H320z"/>
-	<path style="fill:#E6E9EE;" d="M223.6,345.2V332c0-2.4,2-4.4,4.4-4.4h52.4c2.4,0,4.4,2,4.4,4.4v13.2H223.6z"/>
-	<path style="fill:#E6E9EE;" d="M127.2,345.2V332c0-2.4,2-4.4,4.4-4.4H184c2.4,0,4.4,2,4.4,4.4v13.2H127.2z"/>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
+	<polygon class="st4" points="165.9,193.4 165.9,193.4 256.6,152.1 346.1,193.2 346.1,193.4 	"/>
+	<path class="st4" d="M301.5,210v9.1c0,1.7,1.4,3,3,3h36.1c1.7,0,3-1.4,3-3V210H301.5z"/>
+	<path class="st4" d="M235.1,210v9.1c0,1.7,1.4,3,3,3h36.1c1.7,0,3-1.4,3-3V210H235.1z"/>
+	<path class="st4" d="M168.6,210v9.1c0,1.7,1.4,3,3,3h36.1c1.7,0,3-1.4,3-3V210H168.6z"/>
+	<path class="st4" d="M301.5,318.8v-9.1c0-1.7,1.4-3,3-3h36.1c1.7,0,3,1.4,3,3v9.1H301.5z"/>
+	<path class="st4" d="M235.1,318.8v-9.1c0-1.7,1.4-3,3-3h36.1c1.7,0,3,1.4,3,3v9.1H235.1z"/>
+	<path class="st4" d="M168.6,318.8v-9.1c0-1.7,1.4-3,3-3h36.1c1.7,0,3,1.4,3,3v9.1H168.6z"/>
 </g>
 </svg>
