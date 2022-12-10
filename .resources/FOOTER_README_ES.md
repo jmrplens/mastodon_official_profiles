@@ -40,6 +40,8 @@
         <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jorgesat" title="COMMITS">
           <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
       </td>
+    </tr>
+    <tr>
       <!-- jmrplens -->
       <td width="140px" align="center">
         <a href="https://github.com/jmrplens">
