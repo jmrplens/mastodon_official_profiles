@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: Improvement request
 about: Suggest an idea for this project
-title: "[ENHANCEMENT] "
-labels: enhancement
+title: "[ENHANCEMENT / MEJORA] "
+labels: enhancement / mejora
 assignees: jmrplens
 
 ---
