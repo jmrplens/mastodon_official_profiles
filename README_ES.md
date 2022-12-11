@@ -1422,10 +1422,8 @@ La lista está abierta a:
       <td width="140px" align="center">
         <a href="https://github.com/jazmichaelking">
           <img src="https://avatars.githubusercontent.com/u/3419832?v=4?s=100" width="100px;" alt="jazmichaelking"/>
-        <br />
-        <sub><b>jazmichaelking</b></sub>
+        <p><b>jazmichaelking</b></p>
         </a>
-        <br />
         <a href="https://jaz.co.uk/" title="Web">
           <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
         <a href="https://toot.wales/@jaz" title="Mastodon">
@@ -1439,10 +1437,8 @@ La lista está abierta a:
       <td width="140px" align="center">
         <a href="https://github.com/jorgesat">
           <img src="https://avatars.githubusercontent.com/u/7603402?v=4?s=100" width="100px;" alt="jorgesat"/>
-          <br />
-          <sub><b>jorgesat</b></sub>
+          <p><b>jorgesat</b></p>
         </a>
-        <br />
         <a href="https://kumulonimb.us/" title="Web">
           <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
         <a href="https://red.niboe.info/@jorge" title="Mastodon">
@@ -1460,10 +1456,8 @@ La lista está abierta a:
       <td width="140px" align="center">
         <a href="https://github.com/jmrplens">
           <img src="https://avatars.githubusercontent.com/u/28966312?v=4?s=100" width="100px;" alt="jmrplens"/>
-          <br />
-          <sub><b>jmrplens</b></sub>
+          <p><b>jmrplens</b></p>
         </a>
-        <br />
         <a href="https://jmrplens.github.io/" title="Web">
           <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
         <a href="https://red.niboe.info/@jmrplens" title="Mastodon">
@@ -1485,10 +1479,8 @@ La lista está abierta a:
       <td width="140px" align="center">
         <a href="https://socialmediaeninvestigacion.com/">
           <img src="https://static.mstdn.science/accounts/avatars/109/349/104/436/155/936/original/6811c637ba69ede6.jpg" width="100px;" alt="TuSocialMedia"/>
-          <br />
-          <sub><b>Lydia Gil</b></sub>
+          <p><b>Lydia Gil</b></p>
         </a>
-        <br />
         <a href="https://socialmediaeninvestigacion.com/" title="Web">
           <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
         <a href="https://mstdn.science/@TuSocialMedia" title="Mastodon">
