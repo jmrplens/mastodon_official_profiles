@@ -5,8 +5,8 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
-concurrency: 
-  group: ${{ github.workflow }}
+concurrency:
+  group: ${{ github.head_ref || github.run_id }}
   cancel-in-progress: false
 
 permissions:
