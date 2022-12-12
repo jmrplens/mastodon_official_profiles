@@ -6,6 +6,9 @@ import pandas as pd  # To import CSV and Markdown conversion
 import numpy as np
 import glob
 import os
+import yaml
+from types import SimpleNamespace
+from bs4 import BeautifulSoup
 
 #  from deep_translator import GoogleTranslator  # To translate Country names and table column names
 
@@ -126,7 +129,13 @@ def _makefooter(lang=""):
     else:
         filepath = '.resources/FOOTER_README_' + lang + '.md'
     text = _readfile(filepath)
-    str_readme = text + "\n\n---"
+    if lang.lower() == "en":
+        str_readme = "## Contributors\n\n <!--CONTRIBUTORS-->\n\n" + text + "\n\n---"
+    elif lang.lower() == "es":
+        str_readme = "## Colaboradorxs\n\n <!--CONTRIBUTORS-->\n\n" + text + "\n\n---"
+    else:
+        str_readme = "## Contributors\n\n <!--CONTRIBUTORS-->\n\n" + text + "\n\n---"
+    str_readme = _makecontributors(str_readme)
     return str_readme
 
 
@@ -173,6 +182,33 @@ def _maketoc(str_readme, lang=""):
 
     # Insert TOC
     str_readme = str_readme[:index] + toc + "<br />" + str_readme[index:]
+
+    return str_readme
+
+def _makecontributors(str_readme):
+    """Find the line where to insert the contributors"""
+    line = 0
+    found = False
+    for linex in str_readme.splitlines():
+        if "<!--TOC-->" in linex:
+            found = True
+            str_readme.split()
+            break
+        line = line + 1
+    if not found:
+        line = 0
+
+    # Find char index to insert TOC
+    index = str_readme.index("<!--CONTRIBUTORS-->")
+
+    # Create TOC after 'line'
+    contri_text = _contributors_table("CONTRIBUTORS.yml", cols=2, link_cols=3)
+
+    # Remove TOC tag
+    str_readme = str_readme.replace("<!--CONTRIBUTORS-->", "")
+
+    # Insert TOC
+    str_readme = str_readme[:index] + contri_text + "<br />" + str_readme[index:]
 
     return str_readme
 
@@ -289,3 +325,105 @@ def _generate(orderby, lang, df):
     else:
         str_readme = "Not generated"
     return str_readme
+
+
+def _contributors_table(filepath,cols=2,link_cols=3):
+    # Settings
+    datafile = _readfile(filepath)
+    # cols = 2  # Contributors table columns
+    # link_cols = 3  # Links button columns
+
+    # Parse YAML data
+    data_list = yaml.load(datafile, Loader=yaml.Loader)
+
+    # Initialize html table
+    table_html_str = '<table>\n<tbody>\n<tr>\n'
+
+    # Load contributor information and append to html table
+    str_temp = ''
+    for index, contributor in enumerate(data_list):
+
+        if index % cols == 0 and index > 0:  # New column
+            table_html_str = table_html_str + '</tr>\n<tr>\n'
+
+        n = SimpleNamespace(**contributor)  # Store data in 'n'
+
+        # Has a name
+        if hasattr(n, 'name'):
+            if not n.name:  # Check if not empty
+                name = False
+            else:
+                name = n.name
+        else:
+            name = False
+        # Has GitHub user
+        if hasattr(n, 'github_user'):
+            if not n.github_user:  # Check if not empty
+                github_user = False
+            else:
+                github_user = n.github_user
+        else:
+            github_user = False
+        # Has avatar
+        if hasattr(n, 'avatar'):
+            if not n.avatar:  # Check if not empty
+                avatar = False
+            else:
+                avatar = n.avatar
+        else:
+            avatar = False
+        # Link for avatar and name
+        if isinstance(github_user, str):
+            name_link = "https://github.com/" + github_user
+        elif "web" in n.links:
+            name_link = n.links["web"]
+        else:
+            name_link = False
+
+        # Avatar and name
+        str_temp = '<td width="140px" align="center">\n' \
+                   + '{link}'.format(link='<a href="' + name_link + '">\n' if name_link else '') \
+                   + '{image}'.format(
+            image='<img src="' + avatar + '" width="100px;"/>\n' if isinstance(avatar, str) else '') \
+                   + '{name_text}'.format(
+            name_text='<p><sub><b>' + name + '</b></sub></p>\n' if isinstance(name, str) else '') \
+                   + '{link}'.format(link='</a>\n' if name_link else '')
+        table_html_str = table_html_str + str_temp
+
+        # Links
+        str_temp = ''
+        idx = 0
+        for type_link, link in n.links.items():
+            if idx % link_cols == 0 and idx > 0:  # New line
+                str_temp = str_temp + '<br />\n'
+            if isinstance(link, list):  # If 'link' have more than 1 link, iterate
+                for single_link in link:
+                    idx = idx + 1
+                    str_temp = str_temp + '<a href="' + single_link + '" title="' + type_link + '">\n' \
+                               + '<img src=".resources/icons/' + type_link + '.svg" height="22"/></a>\n'
+            else:
+                idx = idx + 1
+                str_temp = str_temp + '<a href="' + link + '" title="' + type_link + '">\n' \
+                           + '<img src=".resources/icons/' + type_link + '.svg" height="22"/></a>\n'
+
+        # Link to commits if github_user else 'external'
+        if isinstance(github_user, str):
+            str_temp = str_temp \
+                       + '<br />\n' \
+                       + '<a href = "https://github.com/jmrplens/mastodon_official_profiles/commits?' \
+                       + 'author=' + github_user + '"' \
+                       + 'title = "COMMITS">\n<img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>\n'
+        else:
+            str_temp = str_temp \
+                       + '<br />\n' \
+                       + '{link}'.format(link='<a href="' + name_link + '" title="EXTERNAL">\n' if name_link else '') \
+                       + '<img src=".resources/buttons/EXTERNAL.svg" height="25" width="85px"/>\n' \
+                       + '{link}'.format(link='</a>\n' if name_link else '')
+
+        table_html_str = table_html_str + str_temp + '</td>\n'
+
+    table_html_str = table_html_str + '</tr>\n</tbody>\n</table>'
+
+    pretty_html = BeautifulSoup(table_html_str, features="lxml").prettify()
+
+    return pretty_html

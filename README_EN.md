@@ -1412,99 +1412,145 @@ The list is open to:
 ---
 <br>
 
-
 ## Contributors
 
-<table>
-  <tbody>
+ <html>
+ <body>
+  <table>
+   <tbody>
     <tr>
-      <!-- jazmichaelking -->
-      <td width="140px" align="center">
-        <a href="https://github.com/jazmichaelking">
-          <img src="https://avatars.githubusercontent.com/u/3419832?v=4?s=100" width="100px;" alt="jazmichaelking"/>
-        <p><b>jazmichaelking</b></p>
-        </a>
-        <a href="https://jaz.co.uk/" title="Web">
-          <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
-        <a href="https://toot.wales/@jaz" title="Mastodon">
-          <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
-        <a href="https://www.linkedin.com/in/jmking/" title="LinkedIn">
-          <img src=".resources/icons/linkedin.svg" height="22"/></a>
-        <br />
-        <br />
-        <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jazmichaelking" title="COMMITS">
-          <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
-      </td>
-      <!-- jorgesat -->
-      <td width="140px" align="center">
-        <a href="https://github.com/jorgesat">
-          <img src="https://avatars.githubusercontent.com/u/7603402?v=4?s=100" width="100px;" alt="jorgesat"/>
-          <p><b>jorgesat</b></p>
-        </a>
-        <a href="https://kumulonimb.us/" title="Web">
-          <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
-        <a href="https://red.niboe.info/@jorge" title="Mastodon">
-          <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
-        <a href="https://scholar.social/@jorge" title="Mastodon">
-          <img src=".resources/icons/mastodon.svg" height="22" /></a>
-        <br />
-        <a href="https://orcid.org/0000-0002-3761-3957" title="ORCID">
-          <img src=".resources/icons/orcid.svg" height="22" /></a>
-        <br />
-        <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jorgesat" title="COMMITS">
-          <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
-      </td>
+     <td align="center" width="140px">
+      <a href="https://github.com/jazmichaelking">
+       <img src="https://avatars.githubusercontent.com/u/3419832" width="100px;"/>
+       <p>
+        <sub>
+         <b>
+          Jaz-Michael King
+         </b>
+        </sub>
+       </p>
+      </a>
+      <a href="https://jaz.co.uk/" title="web">
+       <img height="22" src=".resources/icons/web.svg"/>
+      </a>
+      <a href="https://toot.wales/@jaz" title="mastodon">
+       <img height="22" src=".resources/icons/mastodon.svg"/>
+      </a>
+      <a href="https://www.linkedin.com/in/jmking/" title="linkedin">
+       <img height="22" src=".resources/icons/linkedin.svg"/>
+      </a>
+      <br/>
+      <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jazmichaelking" title="COMMITS">
+       <img height="25" src=".resources/buttons/COMMITS.svg" width="85px"/>
+      </a>
+     </td>
+     <td align="center" width="140px">
+      <a href="https://github.com/jorgesat">
+       <img src="https://avatars.githubusercontent.com/u/7603402" width="100px;"/>
+       <p>
+        <sub>
+         <b>
+          Jorge Saturno
+         </b>
+        </sub>
+       </p>
+      </a>
+      <a href="https://kumulonimb.us/" title="web">
+       <img height="22" src=".resources/icons/web.svg"/>
+      </a>
+      <a href="https://red.niboe.info/@jorge" title="mastodon">
+       <img height="22" src=".resources/icons/mastodon.svg"/>
+      </a>
+      <a href="https://scholar.social/@jorge" title="mastodon">
+       <img height="22" src=".resources/icons/mastodon.svg"/>
+      </a>
+      <br/>
+      <a href="https://orcid.org/0000-0002-3761-3957" title="orcid">
+       <img height="22" src=".resources/icons/orcid.svg"/>
+      </a>
+      <br/>
+      <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jorgesat" title="COMMITS">
+       <img height="25" src=".resources/buttons/COMMITS.svg" width="85px"/>
+      </a>
+     </td>
     </tr>
     <tr>
-      <!-- jmrplens -->
-      <td width="140px" align="center">
-        <a href="https://github.com/jmrplens">
-          <img src="https://avatars.githubusercontent.com/u/28966312?v=4?s=100" width="100px;" alt="jmrplens"/>
-          <p><b>jmrplens</b></p>
-        </a>
-        <a href="https://jmrplens.github.io/" title="Web">
-          <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
-        <a href="https://red.niboe.info/@jmrplens" title="Mastodon">
-          <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
-        <a href="https://pixelfed.social/jmrplens" title="Pixelfed">
-          <img src=".resources/icons/pixelfed.svg" height="22"/></a>
-        <br />
-        <a href="https://www.linkedin.com/in/jmrplens" title="LinkedIn">
-          <img src=".resources/icons/linkedin.svg" height="22"/></a>&nbsp;
-        <a href="https://scholar.google.com/citations?user=9b0kPaUAAAAJ" title="Google Scholar">
-          <img src=".resources/icons/googlescholar.svg" height="22"/></a>&nbsp;
-        <a href="https://www.i3m-stim.i3m.upv.es/research/ultrasound-medical-and-industrial-laboratory-umil/" title="Work">
-          <img src=".resources/icons/work.svg" height="22" /></a>
-        <br />
-        <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jmrplens" title="COMMITS">
-          <img src=".resources/buttons/COMMITS.svg" height="25" width="85px"/></a>
-      </td>
-      <!-- Lydia Gil -->
-      <td width="140px" align="center">
-        <a href="https://socialmediaeninvestigacion.com/">
-          <img src="https://static.mstdn.science/accounts/avatars/109/349/104/436/155/936/original/6811c637ba69ede6.jpg" width="100px;" alt="TuSocialMedia"/>
-          <p><b>Lydia Gil</b></p>
-        </a>
-        <a href="https://socialmediaeninvestigacion.com/" title="Web">
-          <img src=".resources/icons/web.svg" height="22"/></a>&nbsp;
-        <a href="https://mstdn.science/@TuSocialMedia" title="Mastodon">
-          <img src=".resources/icons/mastodon.svg" height="22"/></a>&nbsp;
-        <a href="https://www.linkedin.com/in/lydiamargaritagil" title="LinkedIn">
-          <img src=".resources/icons/linkedin.svg" height="22"/></a>
-        <br />
-        <a href="https://www.instagram.com/tusocialmedia/" title="Instagram">
-          <img src=".resources/icons/instagram.svg" height="22"/></a>&nbsp;
-        <a href="https://twitter.com/TuSocialMedia" title="Twitter">
-          <img src=".resources/icons/twitter.svg" height="22"/></a>&nbsp;
-        <a href="https://www.facebook.com/TuSocialMediaCiencia" title="Twitter">
-          <img src=".resources/icons/facebook.svg" height="22"/></a>
-        <br />
-        <a href="https://socialmediaeninvestigacion.com/" title="EXTERNAL">
-          <img src=".resources/buttons/EXTERNAL.svg" height="25" width="85px"/></a>
-      </td>
+     <td align="center" width="140px">
+      <a href="https://github.com/jmrplens">
+       <img src="https://avatars.githubusercontent.com/u/28966312" width="100px;"/>
+       <p>
+        <sub>
+         <b>
+          J.M. Requena Plens
+         </b>
+        </sub>
+       </p>
+      </a>
+      <a href="https://jmrplens.github.io/" title="web">
+       <img height="22" src=".resources/icons/web.svg"/>
+      </a>
+      <a href="https://red.niboe.info/@jmrplens" title="mastodon">
+       <img height="22" src=".resources/icons/mastodon.svg"/>
+      </a>
+      <a href="https://pixelfed.social/jmrplens" title="pixelfed">
+       <img height="22" src=".resources/icons/pixelfed.svg"/>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/jmrplens" title="linkedin">
+       <img height="22" src=".resources/icons/linkedin.svg"/>
+      </a>
+      <a href="https://scholar.google.com/citations?user=9b0kPaUAAAAJ" title="scholar">
+       <img height="22" src=".resources/icons/scholar.svg"/>
+      </a>
+      <a href="https://www.i3m-stim.i3m.upv.es/research/ultrasound-medical-and-industrial-laboratory-umil/" title="work">
+       <img height="22" src=".resources/icons/work.svg"/>
+      </a>
+      <br/>
+      <a href="https://github.com/jmrplens/mastodon_official_profiles/commits?author=jmrplens" title="COMMITS">
+       <img height="25" src=".resources/buttons/COMMITS.svg" width="85px"/>
+      </a>
+     </td>
+     <td align="center" width="140px">
+      <a href="https://socialmediaeninvestigacion.com">
+       <img src="https://static.mstdn.science/accounts/avatars/109/349/104/436/155/936/original/6811c637ba69ede6.jpg" width="100px;"/>
+       <p>
+        <sub>
+         <b>
+          Lydia Gil
+         </b>
+        </sub>
+       </p>
+      </a>
+      <a href="https://socialmediaeninvestigacion.com" title="web">
+       <img height="22" src=".resources/icons/web.svg"/>
+      </a>
+      <a href="https://mstdn.science/@TuSocialMedia" title="mastodon">
+       <img height="22" src=".resources/icons/mastodon.svg"/>
+      </a>
+      <a href="https://www.linkedin.com/in/lydiamargaritagil" title="linkedin">
+       <img height="22" src=".resources/icons/linkedin.svg"/>
+      </a>
+      <br/>
+      <a href="https://www.instagram.com/tusocialmedia/" title="instagram">
+       <img height="22" src=".resources/icons/instagram.svg"/>
+      </a>
+      <a href="https://twitter.com/TuSocialMedia" title="twitter">
+       <img height="22" src=".resources/icons/twitter.svg"/>
+      </a>
+      <a href="https://www.facebook.com/TuSocialMediaCiencia" title="facebook">
+       <img height="22" src=".resources/icons/facebook.svg"/>
+      </a>
+      <br/>
+      <a href="https://socialmediaeninvestigacion.com" title="EXTERNAL">
+       <img height="25" src=".resources/buttons/EXTERNAL.svg" width="85px"/>
+      </a>
+     </td>
     </tr>
-  </tbody>
-</table>
+   </tbody>
+  </table>
+ </body>
+</html><br />
+
 
 ## Relevant sources of information
 

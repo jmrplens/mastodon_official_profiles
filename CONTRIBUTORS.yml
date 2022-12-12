@@ -1,0 +1,33 @@
+- name: Jaz-Michael King
+  avatar: https://avatars.githubusercontent.com/u/3419832
+  github_user: jazmichaelking
+  links:
+    web: https://jaz.co.uk/
+    mastodon: https://toot.wales/@jaz
+    linkedin: https://www.linkedin.com/in/jmking/
+- name: Jorge Saturno
+  avatar: https://avatars.githubusercontent.com/u/7603402
+  github_user: jorgesat
+  links:
+    web: https://kumulonimb.us/
+    mastodon: [https://red.niboe.info/@jorge,https://scholar.social/@jorge]
+    orcid: https://orcid.org/0000-0002-3761-3957
+- name: J.M. Requena Plens
+  avatar: https://avatars.githubusercontent.com/u/28966312
+  github_user: jmrplens
+  links:
+    web: https://jmrplens.github.io/
+    mastodon: https://red.niboe.info/@jmrplens
+    pixelfed: https://pixelfed.social/jmrplens
+    linkedin: https://www.linkedin.com/in/jmrplens
+    scholar: https://scholar.google.com/citations?user=9b0kPaUAAAAJ
+    work: https://www.i3m-stim.i3m.upv.es/research/ultrasound-medical-and-industrial-laboratory-umil/
+- name: Lydia Gil
+  avatar: https://static.mstdn.science/accounts/avatars/109/349/104/436/155/936/original/6811c637ba69ede6.jpg
+  links:
+    web: https://socialmediaeninvestigacion.com
+    mastodon: https://mstdn.science/@TuSocialMedia
+    linkedin: https://www.linkedin.com/in/lydiamargaritagil
+    instagram: https://www.instagram.com/tusocialmedia/
+    twitter: https://twitter.com/TuSocialMedia
+    facebook: https://www.facebook.com/TuSocialMediaCiencia
