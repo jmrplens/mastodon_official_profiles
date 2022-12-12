@@ -16,11 +16,11 @@ jobs:
     # Check out repository under $GITHUB_WORKSPACE, so the job can access it
     - uses: actions/checkout@v3
 
-    # Run using Python 3.8 for consistency and aiohttp
-    - name: Set up Python 3.9
+    # Run using Python 3.11
+    - name: Set up Python 3.11
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.11'
         cache: 'pip'
         architecture: 'x64'
 
