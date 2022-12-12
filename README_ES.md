@@ -1481,7 +1481,7 @@ La lista está abierta a:
        <p>
         <sub>
          <b>
-          J.M. Requena Plens
+          jmrplens
          </b>
         </sub>
        </p>
