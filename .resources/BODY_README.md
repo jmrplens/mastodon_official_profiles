@@ -32,4 +32,6 @@
 
 [![Interactive list](https://img.shields.io/badge/WEB-Interactive%20list-blue?labelColor=abcdef&style=for-the-badge)](https://jmrplens.github.io/mastodon_official_profiles/)
 
+[![More information in wiki](https://img.shields.io/badge/More%20information%20in-WIKI-orange?style=for-the-badge)](https://github.com/jmrplens/mastodon_official_profiles/wiki)
+
 ---
