@@ -24,6 +24,8 @@ La lista está abierta a:
 
 [![Lista interactiva](https://img.shields.io/badge/WEB-Lista%20interactiva-blue?labelColor=abcdef&style=for-the-badge)](https://jmrplens.github.io/mastodon_official_profiles/)
 
+[![Más información en la wiki](https://img.shields.io/badge/Más%20información%20en-WIKI-orange?style=for-the-badge)](https://github.com/jmrplens/mastodon_official_profiles/wiki/Wiki-ESPA%C3%91OL)
+
 # Índice
 
 - [Argentina](#argentina)
