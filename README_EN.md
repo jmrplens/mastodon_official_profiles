@@ -107,6 +107,8 @@ The list is open to:
   - [Scientific institutes, societies and journals](#scientific-institutes-societies-and-journals-6)
   - [Scientific research groups](#scientific-research-groups-4)
   - [Universities](#universities-5)
+- [Uruguay](#uruguay)
+  - [Non profit organizations / Non Governmental Organizations](#non-profit-organizations--non-governmental-organizations-7)
 - [USA](#usa)
   - [Media](#media-4)
   - [Podcast](#podcast-1)

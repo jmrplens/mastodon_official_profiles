@@ -107,6 +107,8 @@ La lista está abierta a:
   - [Institutos, sociedades y revistas científicas](#institutos-sociedades-y-revistas-científicas-6)
   - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-6)
   - [Universidades](#universidades-5)
+- [Uruguay](#uruguay)
+  - [Organizaciones sin ánimo de lucro / Organizaciones no gubernamentales](#organizaciones-sin-ánimo-de-lucro--organizaciones-no-gubernamentales-7)
 - [USA](#usa)
   - [Ciencia](#ciencia-1)
   - [Divulgación científica](#divulgación-científica-4)
