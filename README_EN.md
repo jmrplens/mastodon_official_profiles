@@ -1274,6 +1274,27 @@ The list is open to:
 
 <img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
 
+## Uruguay
+
+<img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
+
+<img align="left" height="30" src=".resources/icons/NPO_NGO.svg" alt="Country">
+
+### Non profit organizations / Non Governmental Organizations
+
+<img align="left" height="5"                                 src=".resources/icons/subsep.svg" alt="Separator">
+
+| Name         | Mastodon profile            | Web                     | Country   | Language   | Other links               | Information   | Mastodon profile creation date   | Keywords   |
+|:-------------|:----------------------------|:------------------------|:----------|:-----------|:--------------------------|:--------------|:---------------------------------|:-----------|
+| Data Uruguay | https://mastodon.uy/@datauy | https://www.data.org.uy | Uruguay   | Spanish    | https://github.com/datauy | -             | 28/10/2022                       | -          |
+
+[![View CSV](https://img.shields.io/badge/CSV-View%20data%20in%20CSV%20file-brightgreen)](uruguay/NPO_NGO.csv)
+
+---
+<br>
+
+<img align="left" height="35" src=".resources/icons/country.svg#gh-light-mode-only" alt="Country"><img align="left" height="35" src=".resources/icons/country_dark.svg#gh-dark-mode-only" alt="Country">
+
 ## USA
 
 <img align="left" height="10" src=".resources/icons/sep.svg" alt="Separator"><br>
